@@ -1,0 +1,349 @@
+{
+  "name": "lifeforms",
+  "world": "primates",
+  "url": "https://cdn.jsdelivr.net/gh/fjovakaric/somice@main/assets/primates-lifeforms.72016ccd.tar",
+  "map": "https://cdn.jsdelivr.net/gh/fjovakaric/somice@main/assets/primates-lifeforms.72016ccd.json",
+  "entries": 42,
+  "bytes": 821248,
+  "await": "never",
+  "hash": "72016ccd",
+  "builtAt": "2026-09-15",
+  "files": [
+    {
+      "file": "aye-aye-body.webp",
+      "source": "lifeforms/primates/xs/aye-aye-body.webp",
+      "kind": "lifeform-body",
+      "owner": "946",
+      "offset": 512,
+      "size": 33566
+    },
+    {
+      "file": "aye-aye-head.webp",
+      "source": "lifeforms/primates/xs/aye-aye-head.webp",
+      "kind": "lifeform-head",
+      "owner": "946",
+      "offset": 34816,
+      "size": 10188
+    },
+    {
+      "file": "bald-uakari-body.webp",
+      "source": "lifeforms/primates/xs/bald-uakari-body.webp",
+      "kind": "lifeform-body",
+      "owner": "976",
+      "offset": 45568,
+      "size": 34140
+    },
+    {
+      "file": "bald-uakari-head.webp",
+      "source": "lifeforms/primates/xs/bald-uakari-head.webp",
+      "kind": "lifeform-head",
+      "owner": "976",
+      "offset": 80384,
+      "size": 11826
+    },
+    {
+      "file": "black-handed-spider-monkey-body.webp",
+      "source": "lifeforms/primates/xs/black-handed-spider-monkey-body.webp",
+      "kind": "lifeform-body",
+      "owner": "957",
+      "offset": 93184,
+      "size": 36832
+    },
+    {
+      "file": "black-handed-spider-monkey-head.webp",
+      "source": "lifeforms/primates/xs/black-handed-spider-monkey-head.webp",
+      "kind": "lifeform-head",
+      "owner": "957",
+      "offset": 130560,
+      "size": 8986
+    },
+    {
+      "file": "bonobo-body.webp",
+      "source": "lifeforms/primates/xs/bonobo-body.webp",
+      "kind": "lifeform-body",
+      "owner": "932",
+      "offset": 140288,
+      "size": 19384
+    },
+    {
+      "file": "bonobo-head.webp",
+      "source": "lifeforms/primates/xs/bonobo-head.webp",
+      "kind": "lifeform-head",
+      "owner": "932",
+      "offset": 160256,
+      "size": 7526
+    },
+    {
+      "file": "bornean-orangutan-body.webp",
+      "source": "lifeforms/primates/xs/bornean-orangutan-body.webp",
+      "kind": "lifeform-body",
+      "owner": "929",
+      "offset": 168448,
+      "size": 25860
+    },
+    {
+      "file": "bornean-orangutan-head.webp",
+      "source": "lifeforms/primates/xs/bornean-orangutan-head.webp",
+      "kind": "lifeform-head",
+      "owner": "929",
+      "offset": 195072,
+      "size": 7680
+    },
+    {
+      "file": "common-chimpanzee-body.webp",
+      "source": "lifeforms/primates/xs/common-chimpanzee-body.webp",
+      "kind": "lifeform-body",
+      "owner": "931",
+      "offset": 203264,
+      "size": 29388
+    },
+    {
+      "file": "common-chimpanzee-head.webp",
+      "source": "lifeforms/primates/xs/common-chimpanzee-head.webp",
+      "kind": "lifeform-head",
+      "owner": "931",
+      "offset": 233472,
+      "size": 8314
+    },
+    {
+      "file": "default-primate-body.webp",
+      "source": "lifeforms/primates/xs/default-primate-body.webp",
+      "kind": "archetype-body",
+      "owner": "primates",
+      "offset": 242688,
+      "size": 28562
+    },
+    {
+      "file": "default-primate-head.webp",
+      "source": "lifeforms/primates/xs/default-primate-head.webp",
+      "kind": "archetype-head",
+      "owner": "primates",
+      "offset": 271872,
+      "size": 8838
+    },
+    {
+      "file": "gelada-body.webp",
+      "source": "lifeforms/primates/xs/gelada-body.webp",
+      "kind": "lifeform-body",
+      "owner": "935",
+      "offset": 281600,
+      "size": 29512
+    },
+    {
+      "file": "gelada-head.webp",
+      "source": "lifeforms/primates/xs/gelada-head.webp",
+      "kind": "lifeform-head",
+      "owner": "935",
+      "offset": 311808,
+      "size": 8974
+    },
+    {
+      "file": "golden-lion-tamarin-body.webp",
+      "source": "lifeforms/primates/xs/golden-lion-tamarin-body.webp",
+      "kind": "lifeform-body",
+      "owner": "958",
+      "offset": 321536,
+      "size": 32132
+    },
+    {
+      "file": "golden-lion-tamarin-head.webp",
+      "source": "lifeforms/primates/xs/golden-lion-tamarin-head.webp",
+      "kind": "lifeform-head",
+      "owner": "958",
+      "offset": 354304,
+      "size": 8604
+    },
+    {
+      "file": "golden-snub-nosed-monkey-body.webp",
+      "source": "lifeforms/primates/xs/golden-snub-nosed-monkey-body.webp",
+      "kind": "lifeform-body",
+      "owner": "939",
+      "offset": 363520,
+      "size": 30260
+    },
+    {
+      "file": "golden-snub-nosed-monkey-head.webp",
+      "source": "lifeforms/primates/xs/golden-snub-nosed-monkey-head.webp",
+      "kind": "lifeform-head",
+      "owner": "939",
+      "offset": 394752,
+      "size": 10814
+    },
+    {
+      "file": "indri-body.webp",
+      "source": "lifeforms/primates/xs/indri-body.webp",
+      "kind": "lifeform-body",
+      "owner": "947",
+      "offset": 406528,
+      "size": 25378
+    },
+    {
+      "file": "indri-head.webp",
+      "source": "lifeforms/primates/xs/indri-head.webp",
+      "kind": "lifeform-head",
+      "owner": "947",
+      "offset": 432640,
+      "size": 7844
+    },
+    {
+      "file": "mandrill-body.webp",
+      "source": "lifeforms/primates/xs/mandrill-body.webp",
+      "kind": "lifeform-body",
+      "owner": "934",
+      "offset": 441344,
+      "size": 25708
+    },
+    {
+      "file": "mandrill-head.webp",
+      "source": "lifeforms/primates/xs/mandrill-head.webp",
+      "kind": "lifeform-head",
+      "owner": "934",
+      "offset": 467968,
+      "size": 9964
+    },
+    {
+      "file": "mantled-howler-monkey-body.webp",
+      "source": "lifeforms/primates/xs/mantled-howler-monkey-body.webp",
+      "kind": "lifeform-body",
+      "owner": "970",
+      "offset": 478720,
+      "size": 24682
+    },
+    {
+      "file": "mantled-howler-monkey-head.webp",
+      "source": "lifeforms/primates/xs/mantled-howler-monkey-head.webp",
+      "kind": "lifeform-head",
+      "owner": "970",
+      "offset": 504320,
+      "size": 6240
+    },
+    {
+      "file": "mountain-gorilla-body.webp",
+      "source": "lifeforms/primates/xs/mountain-gorilla-body.webp",
+      "kind": "lifeform-body",
+      "owner": "928",
+      "offset": 511488,
+      "size": 24864
+    },
+    {
+      "file": "mountain-gorilla-head.webp",
+      "source": "lifeforms/primates/xs/mountain-gorilla-head.webp",
+      "kind": "lifeform-head",
+      "owner": "928",
+      "offset": 537088,
+      "size": 7274
+    },
+    {
+      "file": "philippine-tarsier-body.webp",
+      "source": "lifeforms/primates/xs/philippine-tarsier-body.webp",
+      "kind": "lifeform-body",
+      "owner": "963",
+      "offset": 545280,
+      "size": 26926
+    },
+    {
+      "file": "philippine-tarsier-head.webp",
+      "source": "lifeforms/primates/xs/philippine-tarsier-head.webp",
+      "kind": "lifeform-head",
+      "owner": "963",
+      "offset": 572928,
+      "size": 10338
+    },
+    {
+      "file": "proboscis-monkey-body.webp",
+      "source": "lifeforms/primates/xs/proboscis-monkey-body.webp",
+      "kind": "lifeform-body",
+      "owner": "938",
+      "offset": 584192,
+      "size": 30290
+    },
+    {
+      "file": "proboscis-monkey-head.webp",
+      "source": "lifeforms/primates/xs/proboscis-monkey-head.webp",
+      "kind": "lifeform-head",
+      "owner": "938",
+      "offset": 615424,
+      "size": 9378
+    },
+    {
+      "file": "pygmy-marmoset-body.webp",
+      "source": "lifeforms/primates/xs/pygmy-marmoset-body.webp",
+      "kind": "lifeform-body",
+      "owner": "962",
+      "offset": 625664,
+      "size": 29034
+    },
+    {
+      "file": "pygmy-marmoset-head.webp",
+      "source": "lifeforms/primates/xs/pygmy-marmoset-head.webp",
+      "kind": "lifeform-head",
+      "owner": "962",
+      "offset": 655360,
+      "size": 10160
+    },
+    {
+      "file": "rhesus-macaque-body.webp",
+      "source": "lifeforms/primates/xs/rhesus-macaque-body.webp",
+      "kind": "lifeform-body",
+      "owner": "943",
+      "offset": 666112,
+      "size": 29958
+    },
+    {
+      "file": "rhesus-macaque-head.webp",
+      "source": "lifeforms/primates/xs/rhesus-macaque-head.webp",
+      "kind": "lifeform-head",
+      "owner": "943",
+      "offset": 696832,
+      "size": 8316
+    },
+    {
+      "file": "ring-tailed-lemur-body.webp",
+      "source": "lifeforms/primates/xs/ring-tailed-lemur-body.webp",
+      "kind": "lifeform-body",
+      "owner": "949",
+      "offset": 706048,
+      "size": 42030
+    },
+    {
+      "file": "ring-tailed-lemur-head.webp",
+      "source": "lifeforms/primates/xs/ring-tailed-lemur-head.webp",
+      "kind": "lifeform-head",
+      "owner": "949",
+      "offset": 749056,
+      "size": 8942
+    },
+    {
+      "file": "verreauxs-sifaka-body.webp",
+      "source": "lifeforms/primates/xs/verreauxs-sifaka-body.webp",
+      "kind": "lifeform-body",
+      "owner": "948",
+      "offset": 758784,
+      "size": 23376
+    },
+    {
+      "file": "verreauxs-sifaka-head.webp",
+      "source": "lifeforms/primates/xs/verreauxs-sifaka-head.webp",
+      "kind": "lifeform-head",
+      "owner": "948",
+      "offset": 782848,
+      "size": 7814
+    },
+    {
+      "file": "western-lowland-gorilla-body.webp",
+      "source": "lifeforms/primates/xs/western-lowland-gorilla-body.webp",
+      "kind": "lifeform-body",
+      "owner": "927",
+      "offset": 791552,
+      "size": 21652
+    },
+    {
+      "file": "western-lowland-gorilla-head.webp",
+      "source": "lifeforms/primates/xs/western-lowland-gorilla-head.webp",
+      "kind": "lifeform-head",
+      "owner": "927",
+      "offset": 814080,
+      "size": 6086
+    }
+  ]
+}

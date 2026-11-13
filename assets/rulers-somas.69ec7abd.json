@@ -1,0 +1,901 @@
+{
+  "name": "somas",
+  "world": "rulers",
+  "url": "https://cdn.jsdelivr.net/gh/fjovakaric/somice@main/assets/rulers-somas.69ec7abd.tar",
+  "map": "https://cdn.jsdelivr.net/gh/fjovakaric/somice@main/assets/rulers-somas.69ec7abd.json",
+  "entries": 111,
+  "bytes": 2020864,
+  "await": "never",
+  "hash": "69ec7abd",
+  "builtAt": "2026-09-15",
+  "files": [
+    {
+      "file": "abbas-the-great.webp",
+      "source": "xs/abbas-the-great.webp",
+      "kind": "soma-384",
+      "owner": "abbas-the-great",
+      "offset": 512,
+      "size": 18108
+    },
+    {
+      "file": "al-mansur.webp",
+      "source": "xs/al-mansur.webp",
+      "kind": "soma-384",
+      "owner": "al-mansur",
+      "offset": 19456,
+      "size": 13490
+    },
+    {
+      "file": "alaric-i.webp",
+      "source": "xs/alaric-i.webp",
+      "kind": "soma-384",
+      "owner": "alaric-i",
+      "offset": 33792,
+      "size": 19284
+    },
+    {
+      "file": "ali-khamenei.webp",
+      "source": "xs/ali-khamenei.webp",
+      "kind": "soma-384",
+      "owner": "ali-khamenei",
+      "offset": 53760,
+      "size": 12012
+    },
+    {
+      "file": "angela-merkel.webp",
+      "source": "xs/angela-merkel.webp",
+      "kind": "soma-384",
+      "owner": "angela-merkel",
+      "offset": 66560,
+      "size": 11574
+    },
+    {
+      "file": "antiochus-iii-the-great.webp",
+      "source": "xs/antiochus-iii-the-great.webp",
+      "kind": "soma-384",
+      "owner": "antiochus-iii-the-great",
+      "offset": 78848,
+      "size": 20956
+    },
+    {
+      "file": "askia-the-great.webp",
+      "source": "xs/askia-the-great.webp",
+      "kind": "soma-384",
+      "owner": "askia-the-great",
+      "offset": 100352,
+      "size": 16064
+    },
+    {
+      "file": "aurangzeb.webp",
+      "source": "xs/aurangzeb.webp",
+      "kind": "soma-384",
+      "owner": "aurangzeb",
+      "offset": 117248,
+      "size": 15356
+    },
+    {
+      "file": "barack-obama.webp",
+      "source": "xs/barack-obama.webp",
+      "kind": "soma-384",
+      "owner": "barack-obama",
+      "offset": 133120,
+      "size": 14892
+    },
+    {
+      "file": "bashar-al-assad.webp",
+      "source": "xs/bashar-al-assad.webp",
+      "kind": "soma-384",
+      "owner": "bashar-al-assad",
+      "offset": 148992,
+      "size": 17282
+    },
+    {
+      "file": "basil-ii.webp",
+      "source": "xs/basil-ii.webp",
+      "kind": "soma-384",
+      "owner": "basil-ii",
+      "offset": 166912,
+      "size": 27412
+    },
+    {
+      "file": "benjamin-netanyahu.webp",
+      "source": "xs/benjamin-netanyahu.webp",
+      "kind": "soma-384",
+      "owner": "benjamin-netanyahu",
+      "offset": 195072,
+      "size": 16480
+    },
+    {
+      "file": "bill-clinton.webp",
+      "source": "xs/bill-clinton.webp",
+      "kind": "soma-384",
+      "owner": "bill-clinton",
+      "offset": 212480,
+      "size": 12020
+    },
+    {
+      "file": "brutus.webp",
+      "source": "xs/brutus.webp",
+      "kind": "soma-384",
+      "owner": "brutus",
+      "offset": 225280,
+      "size": 13168
+    },
+    {
+      "file": "cao-cao.webp",
+      "source": "xs/cao-cao.webp",
+      "kind": "soma-384",
+      "owner": "cao-cao",
+      "offset": 239104,
+      "size": 16230
+    },
+    {
+      "file": "charles-de-gaulle.webp",
+      "source": "xs/charles-de-gaulle.webp",
+      "kind": "soma-384",
+      "owner": "charles-de-gaulle",
+      "offset": 256000,
+      "size": 14980
+    },
+    {
+      "file": "chiang-kai-shek.webp",
+      "source": "xs/chiang-kai-shek.webp",
+      "kind": "soma-384",
+      "owner": "chiang-kai-shek",
+      "offset": 271872,
+      "size": 15642
+    },
+    {
+      "file": "cicero.webp",
+      "source": "xs/cicero.webp",
+      "kind": "soma-384",
+      "owner": "cicero",
+      "offset": 288256,
+      "size": 15324
+    },
+    {
+      "file": "claudius.webp",
+      "source": "xs/claudius.webp",
+      "kind": "soma-384",
+      "owner": "claudius",
+      "offset": 304128,
+      "size": 13480
+    },
+    {
+      "file": "cnut-the-great.webp",
+      "source": "xs/cnut-the-great.webp",
+      "kind": "soma-384",
+      "owner": "cnut-the-great",
+      "offset": 318464,
+      "size": 15942
+    },
+    {
+      "file": "dante-alighieri.webp",
+      "source": "xs/dante-alighieri.webp",
+      "kind": "soma-384",
+      "owner": "dante-alighieri",
+      "offset": 335360,
+      "size": 15436
+    },
+    {
+      "file": "donald-trump.webp",
+      "source": "xs/donald-trump.webp",
+      "kind": "soma-384",
+      "owner": "donald-trump",
+      "offset": 351744,
+      "size": 17786
+    },
+    {
+      "file": "el-cid.webp",
+      "source": "xs/el-cid.webp",
+      "kind": "soma-384",
+      "owner": "el-cid",
+      "offset": 370176,
+      "size": 18890
+    },
+    {
+      "file": "eleanor-of-aquitaine.webp",
+      "source": "xs/eleanor-of-aquitaine.webp",
+      "kind": "soma-384",
+      "owner": "eleanor-of-aquitaine",
+      "offset": 389632,
+      "size": 22158
+    },
+    {
+      "file": "emmanuel-macron.webp",
+      "source": "xs/emmanuel-macron.webp",
+      "kind": "soma-384",
+      "owner": "emmanuel-macron",
+      "offset": 412672,
+      "size": 12406
+    },
+    {
+      "file": "emperor-meiji.webp",
+      "source": "xs/emperor-meiji.webp",
+      "kind": "soma-384",
+      "owner": "emperor-meiji",
+      "offset": 425984,
+      "size": 19566
+    },
+    {
+      "file": "eva-peron.webp",
+      "source": "xs/eva-peron.webp",
+      "kind": "soma-384",
+      "owner": "eva-peron",
+      "offset": 446464,
+      "size": 18876
+    },
+    {
+      "file": "fidel-castro.webp",
+      "source": "xs/fidel-castro.webp",
+      "kind": "soma-384",
+      "owner": "fidel-castro",
+      "offset": 465920,
+      "size": 19324
+    },
+    {
+      "file": "francisco-pizarro.webp",
+      "source": "xs/francisco-pizarro.webp",
+      "kind": "soma-384",
+      "owner": "francisco-pizarro",
+      "offset": 485888,
+      "size": 17272
+    },
+    {
+      "file": "frederick-ii-hohenstaufen.webp",
+      "source": "xs/frederick-ii-hohenstaufen.webp",
+      "kind": "soma-384",
+      "owner": "frederick-ii-hohenstaufen",
+      "offset": 503808,
+      "size": 23238
+    },
+    {
+      "file": "gamal-abdel-nasser.webp",
+      "source": "xs/gamal-abdel-nasser.webp",
+      "kind": "soma-384",
+      "owner": "gamal-abdel-nasser",
+      "offset": 527872,
+      "size": 15670
+    },
+    {
+      "file": "george-w-bush.webp",
+      "source": "xs/george-w-bush.webp",
+      "kind": "soma-384",
+      "owner": "george-w-bush",
+      "offset": 544256,
+      "size": 17968
+    },
+    {
+      "file": "geronimo.webp",
+      "source": "xs/geronimo.webp",
+      "kind": "soma-384",
+      "owner": "geronimo",
+      "offset": 563200,
+      "size": 21398
+    },
+    {
+      "file": "giuseppe-garibaldi.webp",
+      "source": "xs/giuseppe-garibaldi.webp",
+      "kind": "soma-384",
+      "owner": "giuseppe-garibaldi",
+      "offset": 585216,
+      "size": 16958
+    },
+    {
+      "file": "golda-meir.webp",
+      "source": "xs/golda-meir.webp",
+      "kind": "soma-384",
+      "owner": "golda-meir",
+      "offset": 603136,
+      "size": 14744
+    },
+    {
+      "file": "gustavus-adolphus.webp",
+      "source": "xs/gustavus-adolphus.webp",
+      "kind": "soma-384",
+      "owner": "gustavus-adolphus",
+      "offset": 618496,
+      "size": 18744
+    },
+    {
+      "file": "hadrian.webp",
+      "source": "xs/hadrian.webp",
+      "kind": "soma-384",
+      "owner": "hadrian",
+      "offset": 637952,
+      "size": 20010
+    },
+    {
+      "file": "harald-hardrada.webp",
+      "source": "xs/harald-hardrada.webp",
+      "kind": "soma-384",
+      "owner": "harald-hardrada",
+      "offset": 658944,
+      "size": 21238
+    },
+    {
+      "file": "henry-the-navigator.webp",
+      "source": "xs/henry-the-navigator.webp",
+      "kind": "soma-384",
+      "owner": "henry-the-navigator",
+      "offset": 680960,
+      "size": 16510
+    },
+    {
+      "file": "hildegard-of-bingen.webp",
+      "source": "xs/hildegard-of-bingen.webp",
+      "kind": "soma-384",
+      "owner": "hildegard-of-bingen",
+      "offset": 698368,
+      "size": 14102
+    },
+    {
+      "file": "hillary-clinton.webp",
+      "source": "xs/hillary-clinton.webp",
+      "kind": "soma-384",
+      "owner": "hillary-clinton",
+      "offset": 713216,
+      "size": 14956
+    },
+    {
+      "file": "hirohito.webp",
+      "source": "xs/hirohito.webp",
+      "kind": "soma-384",
+      "owner": "hirohito",
+      "offset": 729088,
+      "size": 17778
+    },
+    {
+      "file": "ho-chi-minh.webp",
+      "source": "xs/ho-chi-minh.webp",
+      "kind": "soma-384",
+      "owner": "ho-chi-minh",
+      "offset": 747520,
+      "size": 14552
+    },
+    {
+      "file": "hongwu-emperor.webp",
+      "source": "xs/hongwu-emperor.webp",
+      "kind": "soma-384",
+      "owner": "hongwu-emperor",
+      "offset": 762880,
+      "size": 15246
+    },
+    {
+      "file": "hulagu-khan.webp",
+      "source": "xs/hulagu-khan.webp",
+      "kind": "soma-384",
+      "owner": "hulagu-khan",
+      "offset": 778752,
+      "size": 17940
+    },
+    {
+      "file": "indira-gandhi.webp",
+      "source": "xs/indira-gandhi.webp",
+      "kind": "soma-384",
+      "owner": "indira-gandhi",
+      "offset": 797696,
+      "size": 15504
+    },
+    {
+      "file": "ivan-iii.webp",
+      "source": "xs/ivan-iii.webp",
+      "kind": "soma-384",
+      "owner": "ivan-iii",
+      "offset": 814080,
+      "size": 19230
+    },
+    {
+      "file": "jan-hus.webp",
+      "source": "xs/jan-hus.webp",
+      "kind": "soma-384",
+      "owner": "jan-hus",
+      "offset": 834048,
+      "size": 16978
+    },
+    {
+      "file": "jawaharlal-nehru.webp",
+      "source": "xs/jawaharlal-nehru.webp",
+      "kind": "soma-384",
+      "owner": "jawaharlal-nehru",
+      "offset": 851968,
+      "size": 12446
+    },
+    {
+      "file": "jayavarman-vii.webp",
+      "source": "xs/jayavarman-vii.webp",
+      "kind": "soma-384",
+      "owner": "jayavarman-vii",
+      "offset": 865280,
+      "size": 13966
+    },
+    {
+      "file": "joe-biden.webp",
+      "source": "xs/joe-biden.webp",
+      "kind": "soma-384",
+      "owner": "joe-biden",
+      "offset": 880128,
+      "size": 11982
+    },
+    {
+      "file": "jose-de-san-martin.webp",
+      "source": "xs/jose-de-san-martin.webp",
+      "kind": "soma-384",
+      "owner": "jose-de-san-martin",
+      "offset": 892928,
+      "size": 16346
+    },
+    {
+      "file": "khalid-ibn-al-walid.webp",
+      "source": "xs/khalid-ibn-al-walid.webp",
+      "kind": "soma-384",
+      "owner": "khalid-ibn-al-walid",
+      "offset": 909824,
+      "size": 20442
+    },
+    {
+      "file": "kim-jong-un.webp",
+      "source": "xs/kim-jong-un.webp",
+      "kind": "soma-384",
+      "owner": "kim-jong-un",
+      "offset": 930816,
+      "size": 13692
+    },
+    {
+      "file": "leon-trotsky.webp",
+      "source": "xs/leon-trotsky.webp",
+      "kind": "soma-384",
+      "owner": "leon-trotsky",
+      "offset": 945152,
+      "size": 16536
+    },
+    {
+      "file": "lorenzo-de-medici.webp",
+      "source": "xs/lorenzo-de-medici.webp",
+      "kind": "soma-384",
+      "owner": "lorenzo-de-medici",
+      "offset": 962560,
+      "size": 16358
+    },
+    {
+      "file": "lula-da-silva.webp",
+      "source": "xs/lula-da-silva.webp",
+      "kind": "soma-384",
+      "owner": "lula-da-silva",
+      "offset": 979456,
+      "size": 17188
+    },
+    {
+      "file": "mahmud-of-ghazni.webp",
+      "source": "xs/mahmud-of-ghazni.webp",
+      "kind": "soma-384",
+      "owner": "mahmud-of-ghazni",
+      "offset": 997376,
+      "size": 19980
+    },
+    {
+      "file": "mansa-musa.webp",
+      "source": "xs/mansa-musa.webp",
+      "kind": "soma-384",
+      "owner": "mansa-musa",
+      "offset": 1018368,
+      "size": 21672
+    },
+    {
+      "file": "margaret-thatcher.webp",
+      "source": "xs/margaret-thatcher.webp",
+      "kind": "soma-384",
+      "owner": "margaret-thatcher",
+      "offset": 1040896,
+      "size": 14246
+    },
+    {
+      "file": "mary-queen-of-scots.webp",
+      "source": "xs/mary-queen-of-scots.webp",
+      "kind": "soma-384",
+      "owner": "mary-queen-of-scots",
+      "offset": 1055744,
+      "size": 22206
+    },
+    {
+      "file": "menelik-ii.webp",
+      "source": "xs/menelik-ii.webp",
+      "kind": "soma-384",
+      "owner": "menelik-ii",
+      "offset": 1078784,
+      "size": 25018
+    },
+    {
+      "file": "minamoto-no-yoritomo.webp",
+      "source": "xs/minamoto-no-yoritomo.webp",
+      "kind": "soma-384",
+      "owner": "minamoto-no-yoritomo",
+      "offset": 1104384,
+      "size": 10274
+    },
+    {
+      "file": "muhammad-ali-jinnah.webp",
+      "source": "xs/muhammad-ali-jinnah.webp",
+      "kind": "soma-384",
+      "owner": "muhammad-ali-jinnah",
+      "offset": 1115648,
+      "size": 16820
+    },
+    {
+      "file": "murasaki-shikibu.webp",
+      "source": "xs/murasaki-shikibu.webp",
+      "kind": "soma-384",
+      "owner": "murasaki-shikibu",
+      "offset": 1133056,
+      "size": 21794
+    },
+    {
+      "file": "narendra-modi.webp",
+      "source": "xs/narendra-modi.webp",
+      "kind": "soma-384",
+      "owner": "narendra-modi",
+      "offset": 1155584,
+      "size": 18872
+    },
+    {
+      "file": "narmer.webp",
+      "source": "xs/narmer.webp",
+      "kind": "soma-384",
+      "owner": "narmer",
+      "offset": 1175040,
+      "size": 15642
+    },
+    {
+      "file": "nero.webp",
+      "source": "xs/nero.webp",
+      "kind": "soma-384",
+      "owner": "nero",
+      "offset": 1191424,
+      "size": 20120
+    },
+    {
+      "file": "otto-the-great.webp",
+      "source": "xs/otto-the-great.webp",
+      "kind": "soma-384",
+      "owner": "otto-the-great",
+      "offset": 1212416,
+      "size": 20978
+    },
+    {
+      "file": "pachacuti.webp",
+      "source": "xs/pachacuti.webp",
+      "kind": "soma-384",
+      "owner": "pachacuti",
+      "offset": 1233920,
+      "size": 22604
+    },
+    {
+      "file": "pericles.webp",
+      "source": "xs/pericles.webp",
+      "kind": "soma-384",
+      "owner": "pericles",
+      "offset": 1257472,
+      "size": 22318
+    },
+    {
+      "file": "philip-ii-of-spain.webp",
+      "source": "xs/philip-ii-of-spain.webp",
+      "kind": "soma-384",
+      "owner": "philip-ii-of-spain",
+      "offset": 1280512,
+      "size": 13330
+    },
+    {
+      "file": "pol-pot.webp",
+      "source": "xs/pol-pot.webp",
+      "kind": "soma-384",
+      "owner": "pol-pot",
+      "offset": 1294848,
+      "size": 15654
+    },
+    {
+      "file": "pompey.webp",
+      "source": "xs/pompey.webp",
+      "kind": "soma-384",
+      "owner": "pompey",
+      "offset": 1311232,
+      "size": 17294
+    },
+    {
+      "file": "pope-gregory-vii.webp",
+      "source": "xs/pope-gregory-vii.webp",
+      "kind": "soma-384",
+      "owner": "pope-gregory-vii",
+      "offset": 1329152,
+      "size": 18488
+    },
+    {
+      "file": "pope-innocent-iii.webp",
+      "source": "xs/pope-innocent-iii.webp",
+      "kind": "soma-384",
+      "owner": "pope-innocent-iii",
+      "offset": 1348608,
+      "size": 16388
+    },
+    {
+      "file": "prince-shotoku.webp",
+      "source": "xs/prince-shotoku.webp",
+      "kind": "soma-384",
+      "owner": "prince-shotoku",
+      "offset": 1366016,
+      "size": 12326
+    },
+    {
+      "file": "puyi.webp",
+      "source": "xs/puyi.webp",
+      "kind": "soma-384",
+      "owner": "puyi",
+      "offset": 1379328,
+      "size": 18704
+    },
+    {
+      "file": "qianlong-emperor.webp",
+      "source": "xs/qianlong-emperor.webp",
+      "kind": "soma-384",
+      "owner": "qianlong-emperor",
+      "offset": 1398784,
+      "size": 20956
+    },
+    {
+      "file": "recep-tayyip-erdogan.webp",
+      "source": "xs/recep-tayyip-erdogan.webp",
+      "kind": "soma-384",
+      "owner": "recep-tayyip-erdogan",
+      "offset": 1420288,
+      "size": 18988
+    },
+    {
+      "file": "robert-the-bruce.webp",
+      "source": "xs/robert-the-bruce.webp",
+      "kind": "soma-384",
+      "owner": "robert-the-bruce",
+      "offset": 1440256,
+      "size": 22134
+    },
+    {
+      "file": "robespierre.webp",
+      "source": "xs/robespierre.webp",
+      "kind": "soma-384",
+      "owner": "robespierre",
+      "offset": 1463296,
+      "size": 15256
+    },
+    {
+      "file": "scipio-africanus.webp",
+      "source": "xs/scipio-africanus.webp",
+      "kind": "soma-384",
+      "owner": "scipio-africanus",
+      "offset": 1479168,
+      "size": 16302
+    },
+    {
+      "file": "shah-ismail-i.webp",
+      "source": "xs/shah-ismail-i.webp",
+      "kind": "soma-384",
+      "owner": "shah-ismail-i",
+      "offset": 1496064,
+      "size": 17234
+    },
+    {
+      "file": "shah-jahan.webp",
+      "source": "xs/shah-jahan.webp",
+      "kind": "soma-384",
+      "owner": "shah-jahan",
+      "offset": 1513984,
+      "size": 17654
+    },
+    {
+      "file": "shaka-zulu.webp",
+      "source": "xs/shaka-zulu.webp",
+      "kind": "soma-384",
+      "owner": "shaka-zulu",
+      "offset": 1532416,
+      "size": 27166
+    },
+    {
+      "file": "shivaji.webp",
+      "source": "xs/shivaji.webp",
+      "kind": "soma-384",
+      "owner": "shivaji",
+      "offset": 1560576,
+      "size": 21834
+    },
+    {
+      "file": "solon.webp",
+      "source": "xs/solon.webp",
+      "kind": "soma-384",
+      "owner": "solon",
+      "offset": 1583104,
+      "size": 20442
+    },
+    {
+      "file": "spartacus.webp",
+      "source": "xs/spartacus.webp",
+      "kind": "soma-384",
+      "owner": "spartacus",
+      "offset": 1604096,
+      "size": 21574
+    },
+    {
+      "file": "sukarno.webp",
+      "source": "xs/sukarno.webp",
+      "kind": "soma-384",
+      "owner": "sukarno",
+      "offset": 1626624,
+      "size": 16920
+    },
+    {
+      "file": "sulla.webp",
+      "source": "xs/sulla.webp",
+      "kind": "soma-384",
+      "owner": "sulla",
+      "offset": 1644544,
+      "size": 24338
+    },
+    {
+      "file": "sun-yat-sen.webp",
+      "source": "xs/sun-yat-sen.webp",
+      "kind": "soma-384",
+      "owner": "sun-yat-sen",
+      "offset": 1669632,
+      "size": 16134
+    },
+    {
+      "file": "sundiata-keita.webp",
+      "source": "xs/sundiata-keita.webp",
+      "kind": "soma-384",
+      "owner": "sundiata-keita",
+      "offset": 1686528,
+      "size": 19002
+    },
+    {
+      "file": "themistocles.webp",
+      "source": "xs/themistocles.webp",
+      "kind": "soma-384",
+      "owner": "themistocles",
+      "offset": 1706496,
+      "size": 14346
+    },
+    {
+      "file": "theodoric-the-great.webp",
+      "source": "xs/theodoric-the-great.webp",
+      "kind": "soma-384",
+      "owner": "theodoric-the-great",
+      "offset": 1721856,
+      "size": 18170
+    },
+    {
+      "file": "thomas-jefferson.webp",
+      "source": "xs/thomas-jefferson.webp",
+      "kind": "soma-384",
+      "owner": "thomas-jefferson",
+      "offset": 1740800,
+      "size": 18790
+    },
+    {
+      "file": "thutmose-iii.webp",
+      "source": "xs/thutmose-iii.webp",
+      "kind": "soma-384",
+      "owner": "thutmose-iii",
+      "offset": 1760256,
+      "size": 15238
+    },
+    {
+      "file": "tiberius.webp",
+      "source": "xs/tiberius.webp",
+      "kind": "soma-384",
+      "owner": "tiberius",
+      "offset": 1776128,
+      "size": 16190
+    },
+    {
+      "file": "tokugawa-ieyasu.webp",
+      "source": "xs/tokugawa-ieyasu.webp",
+      "kind": "soma-384",
+      "owner": "tokugawa-ieyasu",
+      "offset": 1793024,
+      "size": 20262
+    },
+    {
+      "file": "tony-blair.webp",
+      "source": "xs/tony-blair.webp",
+      "kind": "soma-384",
+      "owner": "tony-blair",
+      "offset": 1814016,
+      "size": 14258
+    },
+    {
+      "file": "toussaint-louverture.webp",
+      "source": "xs/toussaint-louverture.webp",
+      "kind": "soma-384",
+      "owner": "toussaint-louverture",
+      "offset": 1828864,
+      "size": 14356
+    },
+    {
+      "file": "toyotomi-hideyoshi.webp",
+      "source": "xs/toyotomi-hideyoshi.webp",
+      "kind": "soma-384",
+      "owner": "toyotomi-hideyoshi",
+      "offset": 1844224,
+      "size": 17246
+    },
+    {
+      "file": "vercingetorix.webp",
+      "source": "xs/vercingetorix.webp",
+      "kind": "soma-384",
+      "owner": "vercingetorix",
+      "offset": 1862144,
+      "size": 24902
+    },
+    {
+      "file": "vladimir-putin.webp",
+      "source": "xs/vladimir-putin.webp",
+      "kind": "soma-384",
+      "owner": "vladimir-putin",
+      "offset": 1887744,
+      "size": 19020
+    },
+    {
+      "file": "vladimir-the-great.webp",
+      "source": "xs/vladimir-the-great.webp",
+      "kind": "soma-384",
+      "owner": "vladimir-the-great",
+      "offset": 1907712,
+      "size": 14926
+    },
+    {
+      "file": "volodymyr-zelensky.webp",
+      "source": "xs/volodymyr-zelensky.webp",
+      "kind": "soma-384",
+      "owner": "volodymyr-zelensky",
+      "offset": 1923584,
+      "size": 13620
+    },
+    {
+      "file": "william-wallace.webp",
+      "source": "xs/william-wallace.webp",
+      "kind": "soma-384",
+      "owner": "william-wallace",
+      "offset": 1937920,
+      "size": 19636
+    },
+    {
+      "file": "xerxes-i.webp",
+      "source": "xs/xerxes-i.webp",
+      "kind": "soma-384",
+      "owner": "xerxes-i",
+      "offset": 1958400,
+      "size": 18016
+    },
+    {
+      "file": "xi-jinping.webp",
+      "source": "xs/xi-jinping.webp",
+      "kind": "soma-384",
+      "owner": "xi-jinping",
+      "offset": 1977344,
+      "size": 13968
+    },
+    {
+      "file": "zheng-he.webp",
+      "source": "xs/zheng-he.webp",
+      "kind": "soma-384",
+      "owner": "zheng-he",
+      "offset": 1992192,
+      "size": 13412
+    },
+    {
+      "file": "zoroaster.webp",
+      "source": "xs/zoroaster.webp",
+      "kind": "soma-384",
+      "owner": "zoroaster",
+      "offset": 2006528,
+      "size": 12880
+    }
+  ]
+}

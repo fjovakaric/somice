@@ -1,0 +1,269 @@
+{
+  "name": "lifeforms",
+  "world": "parrots",
+  "url": "https://cdn.jsdelivr.net/gh/fjovakaric/somice@main/assets/parrots-lifeforms.06a578f5.tar",
+  "map": "https://cdn.jsdelivr.net/gh/fjovakaric/somice@main/assets/parrots-lifeforms.06a578f5.json",
+  "entries": 32,
+  "bytes": 535552,
+  "await": "never",
+  "hash": "06a578f5",
+  "builtAt": "2026-09-15",
+  "files": [
+    {
+      "file": "african-grey-parrot-body.webp",
+      "source": "lifeforms/parrots/xs/african-grey-parrot-body.webp",
+      "kind": "lifeform-body",
+      "owner": "319",
+      "offset": 512,
+      "size": 22098
+    },
+    {
+      "file": "african-grey-parrot-head.webp",
+      "source": "lifeforms/parrots/xs/african-grey-parrot-head.webp",
+      "kind": "lifeform-head",
+      "owner": "319",
+      "offset": 23552,
+      "size": 8988
+    },
+    {
+      "file": "blue-and-yellow-macaw-body.webp",
+      "source": "lifeforms/parrots/xs/blue-and-yellow-macaw-body.webp",
+      "kind": "lifeform-body",
+      "owner": "329",
+      "offset": 33280,
+      "size": 17560
+    },
+    {
+      "file": "blue-and-yellow-macaw-head.webp",
+      "source": "lifeforms/parrots/xs/blue-and-yellow-macaw-head.webp",
+      "kind": "lifeform-head",
+      "owner": "329",
+      "offset": 51712,
+      "size": 10362
+    },
+    {
+      "file": "carolina-parakeet-body.webp",
+      "source": "lifeforms/parrots/xs/carolina-parakeet-body.webp",
+      "kind": "lifeform-body",
+      "owner": "321",
+      "offset": 62976,
+      "size": 18288
+    },
+    {
+      "file": "carolina-parakeet-head.webp",
+      "source": "lifeforms/parrots/xs/carolina-parakeet-head.webp",
+      "kind": "lifeform-head",
+      "owner": "321",
+      "offset": 81920,
+      "size": 10558
+    },
+    {
+      "file": "default-parrot-body.webp",
+      "source": "lifeforms/parrots/xs/default-parrot-body.webp",
+      "kind": "archetype-body",
+      "owner": "parrots",
+      "offset": 93184,
+      "size": 16262
+    },
+    {
+      "file": "default-parrot-head.webp",
+      "source": "lifeforms/parrots/xs/default-parrot-head.webp",
+      "kind": "archetype-head",
+      "owner": "parrots",
+      "offset": 110080,
+      "size": 6656
+    },
+    {
+      "file": "double-yellow-headed-amazon-body.webp",
+      "source": "lifeforms/parrots/xs/double-yellow-headed-amazon-body.webp",
+      "kind": "lifeform-body",
+      "owner": "331",
+      "offset": 117248,
+      "size": 18112
+    },
+    {
+      "file": "double-yellow-headed-amazon-head.webp",
+      "source": "lifeforms/parrots/xs/double-yellow-headed-amazon-head.webp",
+      "kind": "lifeform-head",
+      "owner": "331",
+      "offset": 136192,
+      "size": 9148
+    },
+    {
+      "file": "hyacinth-macaw-body.webp",
+      "source": "lifeforms/parrots/xs/hyacinth-macaw-body.webp",
+      "kind": "lifeform-body",
+      "owner": "320",
+      "offset": 145920,
+      "size": 18050
+    },
+    {
+      "file": "hyacinth-macaw-head.webp",
+      "source": "lifeforms/parrots/xs/hyacinth-macaw-head.webp",
+      "kind": "lifeform-head",
+      "owner": "320",
+      "offset": 164864,
+      "size": 11248
+    },
+    {
+      "file": "kakapo-body.webp",
+      "source": "lifeforms/parrots/xs/kakapo-body.webp",
+      "kind": "lifeform-body",
+      "owner": "317",
+      "offset": 176640,
+      "size": 26072
+    },
+    {
+      "file": "kakapo-head.webp",
+      "source": "lifeforms/parrots/xs/kakapo-head.webp",
+      "kind": "lifeform-head",
+      "owner": "317",
+      "offset": 203264,
+      "size": 10176
+    },
+    {
+      "file": "kea-body.webp",
+      "source": "lifeforms/parrots/xs/kea-body.webp",
+      "kind": "lifeform-body",
+      "owner": "318",
+      "offset": 214016,
+      "size": 26138
+    },
+    {
+      "file": "kea-head.webp",
+      "source": "lifeforms/parrots/xs/kea-head.webp",
+      "kind": "lifeform-head",
+      "owner": "318",
+      "offset": 241152,
+      "size": 12150
+    },
+    {
+      "file": "major-mitchells-cockatoo-body.webp",
+      "source": "lifeforms/parrots/xs/major-mitchells-cockatoo-body.webp",
+      "kind": "lifeform-body",
+      "owner": "326",
+      "offset": 253952,
+      "size": 30866
+    },
+    {
+      "file": "major-mitchells-cockatoo-head.webp",
+      "source": "lifeforms/parrots/xs/major-mitchells-cockatoo-head.webp",
+      "kind": "lifeform-head",
+      "owner": "326",
+      "offset": 285696,
+      "size": 15902
+    },
+    {
+      "file": "night-parrot-body.webp",
+      "source": "lifeforms/parrots/xs/night-parrot-body.webp",
+      "kind": "lifeform-body",
+      "owner": "327",
+      "offset": 302592,
+      "size": 25724
+    },
+    {
+      "file": "night-parrot-head.webp",
+      "source": "lifeforms/parrots/xs/night-parrot-head.webp",
+      "kind": "lifeform-head",
+      "owner": "327",
+      "offset": 329216,
+      "size": 11392
+    },
+    {
+      "file": "palm-cockatoo-body.webp",
+      "source": "lifeforms/parrots/xs/palm-cockatoo-body.webp",
+      "kind": "lifeform-body",
+      "owner": "324",
+      "offset": 341504,
+      "size": 20924
+    },
+    {
+      "file": "palm-cockatoo-head.webp",
+      "source": "lifeforms/parrots/xs/palm-cockatoo-head.webp",
+      "kind": "lifeform-head",
+      "owner": "324",
+      "offset": 363008,
+      "size": 11024
+    },
+    {
+      "file": "puerto-rican-amazon-body.webp",
+      "source": "lifeforms/parrots/xs/puerto-rican-amazon-body.webp",
+      "kind": "lifeform-body",
+      "owner": "328",
+      "offset": 374784,
+      "size": 21044
+    },
+    {
+      "file": "puerto-rican-amazon-head.webp",
+      "source": "lifeforms/parrots/xs/puerto-rican-amazon-head.webp",
+      "kind": "lifeform-head",
+      "owner": "328",
+      "offset": 396800,
+      "size": 7694
+    },
+    {
+      "file": "scarlet-macaw-body.webp",
+      "source": "lifeforms/parrots/xs/scarlet-macaw-body.webp",
+      "kind": "lifeform-body",
+      "owner": "322",
+      "offset": 405504,
+      "size": 18560
+    },
+    {
+      "file": "scarlet-macaw-head.webp",
+      "source": "lifeforms/parrots/xs/scarlet-macaw-head.webp",
+      "kind": "lifeform-head",
+      "owner": "322",
+      "offset": 424960,
+      "size": 10946
+    },
+    {
+      "file": "spixs-macaw-body.webp",
+      "source": "lifeforms/parrots/xs/spixs-macaw-body.webp",
+      "kind": "lifeform-body",
+      "owner": "323",
+      "offset": 436736,
+      "size": 20026
+    },
+    {
+      "file": "spixs-macaw-head.webp",
+      "source": "lifeforms/parrots/xs/spixs-macaw-head.webp",
+      "kind": "lifeform-head",
+      "owner": "323",
+      "offset": 457728,
+      "size": 11186
+    },
+    {
+      "file": "sulphur-crested-cockatoo-body.webp",
+      "source": "lifeforms/parrots/xs/sulphur-crested-cockatoo-body.webp",
+      "kind": "lifeform-body",
+      "owner": "325",
+      "offset": 469504,
+      "size": 24064
+    },
+    {
+      "file": "sulphur-crested-cockatoo-head.webp",
+      "source": "lifeforms/parrots/xs/sulphur-crested-cockatoo-head.webp",
+      "kind": "lifeform-head",
+      "owner": "325",
+      "offset": 494080,
+      "size": 9162
+    },
+    {
+      "file": "yellow-crested-cockatoo-body.webp",
+      "source": "lifeforms/parrots/xs/yellow-crested-cockatoo-body.webp",
+      "kind": "lifeform-body",
+      "owner": "330",
+      "offset": 503808,
+      "size": 20298
+    },
+    {
+      "file": "yellow-crested-cockatoo-head.webp",
+      "source": "lifeforms/parrots/xs/yellow-crested-cockatoo-head.webp",
+      "kind": "lifeform-head",
+      "owner": "330",
+      "offset": 524800,
+      "size": 9630
+    }
+  ]
+}

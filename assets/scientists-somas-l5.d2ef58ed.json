@@ -1,0 +1,1013 @@
+{
+  "name": "somas-l5",
+  "world": "scientists",
+  "url": "https://cdn.jsdelivr.net/gh/fjovakaric/somice@main/assets/scientists-somas-l5.d2ef58ed.tar",
+  "map": "https://cdn.jsdelivr.net/gh/fjovakaric/somice@main/assets/scientists-somas-l5.d2ef58ed.json",
+  "entries": 125,
+  "bytes": 2085888,
+  "await": "reveal",
+  "hash": "d2ef58ed",
+  "builtAt": "2026-09-15",
+  "files": [
+    {
+      "file": "ada-lovelace.webp",
+      "source": "xs/ada-lovelace.webp",
+      "kind": "soma-384-l5",
+      "owner": "ada-lovelace",
+      "offset": 512,
+      "size": 20114
+    },
+    {
+      "file": "adam-smith.webp",
+      "source": "xs/adam-smith.webp",
+      "kind": "soma-384-l5",
+      "owner": "adam-smith",
+      "offset": 21504,
+      "size": 17508
+    },
+    {
+      "file": "aglaonice.webp",
+      "source": "xs/aglaonice.webp",
+      "kind": "soma-384-l5",
+      "owner": "aglaonice",
+      "offset": 39936,
+      "size": 13458
+    },
+    {
+      "file": "al-battani.webp",
+      "source": "xs/al-battani.webp",
+      "kind": "soma-384-l5",
+      "owner": "al-battani",
+      "offset": 54272,
+      "size": 16088
+    },
+    {
+      "file": "al-biruni.webp",
+      "source": "xs/al-biruni.webp",
+      "kind": "soma-384-l5",
+      "owner": "al-biruni",
+      "offset": 71168,
+      "size": 15730
+    },
+    {
+      "file": "al-khwarizmi.webp",
+      "source": "xs/al-khwarizmi.webp",
+      "kind": "soma-384-l5",
+      "owner": "al-khwarizmi",
+      "offset": 87552,
+      "size": 16142
+    },
+    {
+      "file": "al-kindi.webp",
+      "source": "xs/al-kindi.webp",
+      "kind": "soma-384-l5",
+      "owner": "al-kindi",
+      "offset": 104448,
+      "size": 15790
+    },
+    {
+      "file": "al-razi-rhazes.webp",
+      "source": "xs/al-razi-rhazes.webp",
+      "kind": "soma-384-l5",
+      "owner": "al-razi-(rhazes)",
+      "offset": 120832,
+      "size": 12382
+    },
+    {
+      "file": "alan-turing.webp",
+      "source": "xs/alan-turing.webp",
+      "kind": "soma-384-l5",
+      "owner": "alan-turing",
+      "offset": 134144,
+      "size": 14450
+    },
+    {
+      "file": "albert-einstein.webp",
+      "source": "xs/albert-einstein.webp",
+      "kind": "soma-384-l5",
+      "owner": "albert-einstein",
+      "offset": 149504,
+      "size": 16184
+    },
+    {
+      "file": "alhazen-ibn-al-haytham.webp",
+      "source": "xs/alhazen-ibn-al-haytham.webp",
+      "kind": "soma-384-l5",
+      "owner": "alhazen-(ibn-al-haytham)",
+      "offset": 166400,
+      "size": 12638
+    },
+    {
+      "file": "andrei-sakharov.webp",
+      "source": "xs/andrei-sakharov.webp",
+      "kind": "soma-384-l5",
+      "owner": "andrei-sakharov",
+      "offset": 179712,
+      "size": 16780
+    },
+    {
+      "file": "antoine-lavoisier.webp",
+      "source": "xs/antoine-lavoisier.webp",
+      "kind": "soma-384-l5",
+      "owner": "antoine-lavoisier",
+      "offset": 197120,
+      "size": 15212
+    },
+    {
+      "file": "archimedes.webp",
+      "source": "xs/archimedes.webp",
+      "kind": "soma-384-l5",
+      "owner": "archimedes",
+      "offset": 212992,
+      "size": 16664
+    },
+    {
+      "file": "aristotle.webp",
+      "source": "xs/aristotle.webp",
+      "kind": "soma-384-l5",
+      "owner": "aristotle",
+      "offset": 230400,
+      "size": 17828
+    },
+    {
+      "file": "averroes.webp",
+      "source": "xs/averroes.webp",
+      "kind": "soma-384-l5",
+      "owner": "averroes",
+      "offset": 248832,
+      "size": 13484
+    },
+    {
+      "file": "avicenna.webp",
+      "source": "xs/avicenna.webp",
+      "kind": "soma-384-l5",
+      "owner": "avicenna",
+      "offset": 263168,
+      "size": 17016
+    },
+    {
+      "file": "bede.webp",
+      "source": "xs/bede.webp",
+      "kind": "soma-384-l5",
+      "owner": "bede",
+      "offset": 281088,
+      "size": 11138
+    },
+    {
+      "file": "benjamin-franklin.webp",
+      "source": "xs/benjamin-franklin.webp",
+      "kind": "soma-384-l5",
+      "owner": "benjamin-franklin",
+      "offset": 292864,
+      "size": 17760
+    },
+    {
+      "file": "bhaskara-ii.webp",
+      "source": "xs/bhaskara-ii.webp",
+      "kind": "soma-384-l5",
+      "owner": "bhaskara-ii",
+      "offset": 311296,
+      "size": 14288
+    },
+    {
+      "file": "blaise-pascal.webp",
+      "source": "xs/blaise-pascal.webp",
+      "kind": "soma-384-l5",
+      "owner": "blaise-pascal",
+      "offset": 326144,
+      "size": 17720
+    },
+    {
+      "file": "brahmagupta.webp",
+      "source": "xs/brahmagupta.webp",
+      "kind": "soma-384-l5",
+      "owner": "brahmagupta",
+      "offset": 344576,
+      "size": 15492
+    },
+    {
+      "file": "c-v-raman.webp",
+      "source": "xs/c-v-raman.webp",
+      "kind": "soma-384-l5",
+      "owner": "c-v-raman",
+      "offset": 360960,
+      "size": 12738
+    },
+    {
+      "file": "cai-lun.webp",
+      "source": "xs/cai-lun.webp",
+      "kind": "soma-384-l5",
+      "owner": "cai-lun",
+      "offset": 374272,
+      "size": 13066
+    },
+    {
+      "file": "carl-friedrich-gauss.webp",
+      "source": "xs/carl-friedrich-gauss.webp",
+      "kind": "soma-384-l5",
+      "owner": "carl-friedrich-gauss",
+      "offset": 388096,
+      "size": 19364
+    },
+    {
+      "file": "carl-linnaeus.webp",
+      "source": "xs/carl-linnaeus.webp",
+      "kind": "soma-384-l5",
+      "owner": "carl-linnaeus",
+      "offset": 408064,
+      "size": 20214
+    },
+    {
+      "file": "caroline-herschel.webp",
+      "source": "xs/caroline-herschel.webp",
+      "kind": "soma-384-l5",
+      "owner": "caroline-herschel",
+      "offset": 429056,
+      "size": 16946
+    },
+    {
+      "file": "charles-babbage.webp",
+      "source": "xs/charles-babbage.webp",
+      "kind": "soma-384-l5",
+      "owner": "charles-babbage",
+      "offset": 446976,
+      "size": 15600
+    },
+    {
+      "file": "charles-darwin.webp",
+      "source": "xs/charles-darwin.webp",
+      "kind": "soma-384-l5",
+      "owner": "charles-darwin",
+      "offset": 463360,
+      "size": 22764
+    },
+    {
+      "file": "christiaan-barnard.webp",
+      "source": "xs/christiaan-barnard.webp",
+      "kind": "soma-384-l5",
+      "owner": "christiaan-barnard",
+      "offset": 486912,
+      "size": 14610
+    },
+    {
+      "file": "dorothy-hodgkin.webp",
+      "source": "xs/dorothy-hodgkin.webp",
+      "kind": "soma-384-l5",
+      "owner": "dorothy-hodgkin",
+      "offset": 502272,
+      "size": 21462
+    },
+    {
+      "file": "elizabeth-blackwell.webp",
+      "source": "xs/elizabeth-blackwell.webp",
+      "kind": "soma-384-l5",
+      "owner": "elizabeth-blackwell",
+      "offset": 524288,
+      "size": 14404
+    },
+    {
+      "file": "emilie-du-chatelet.webp",
+      "source": "xs/emilie-du-chatelet.webp",
+      "kind": "soma-384-l5",
+      "owner": "émilie-du-châtelet",
+      "offset": 539648,
+      "size": 15506
+    },
+    {
+      "file": "emmanuelle-charpentier.webp",
+      "source": "xs/emmanuelle-charpentier.webp",
+      "kind": "soma-384-l5",
+      "owner": "emmanuelle-charpentier",
+      "offset": 556032,
+      "size": 20304
+    },
+    {
+      "file": "emmy-noether.webp",
+      "source": "xs/emmy-noether.webp",
+      "kind": "soma-384-l5",
+      "owner": "emmy-noether",
+      "offset": 577024,
+      "size": 18548
+    },
+    {
+      "file": "eratosthenes.webp",
+      "source": "xs/eratosthenes.webp",
+      "kind": "soma-384-l5",
+      "owner": "eratosthenes",
+      "offset": 596480,
+      "size": 16012
+    },
+    {
+      "file": "euclid.webp",
+      "source": "xs/euclid.webp",
+      "kind": "soma-384-l5",
+      "owner": "euclid",
+      "offset": 613376,
+      "size": 17446
+    },
+    {
+      "file": "fibonacci.webp",
+      "source": "xs/fibonacci.webp",
+      "kind": "soma-384-l5",
+      "owner": "fibonacci",
+      "offset": 631808,
+      "size": 13368
+    },
+    {
+      "file": "florence-nightingale.webp",
+      "source": "xs/florence-nightingale.webp",
+      "kind": "soma-384-l5",
+      "owner": "florence-nightingale",
+      "offset": 646144,
+      "size": 14726
+    },
+    {
+      "file": "francis-bacon.webp",
+      "source": "xs/francis-bacon.webp",
+      "kind": "soma-384-l5",
+      "owner": "francis-bacon",
+      "offset": 661504,
+      "size": 14102
+    },
+    {
+      "file": "galen.webp",
+      "source": "xs/galen.webp",
+      "kind": "soma-384-l5",
+      "owner": "galen",
+      "offset": 676352,
+      "size": 14844
+    },
+    {
+      "file": "galileo-galilei.webp",
+      "source": "xs/galileo-galilei.webp",
+      "kind": "soma-384-l5",
+      "owner": "galileo-galilei",
+      "offset": 691712,
+      "size": 14200
+    },
+    {
+      "file": "gerty-cori.webp",
+      "source": "xs/gerty-cori.webp",
+      "kind": "soma-384-l5",
+      "owner": "gerty-cori",
+      "offset": 706560,
+      "size": 15852
+    },
+    {
+      "file": "gottfried-wilhelm-leibniz.webp",
+      "source": "xs/gottfried-wilhelm-leibniz.webp",
+      "kind": "soma-384-l5",
+      "owner": "gottfried-wilhelm-leibniz",
+      "offset": 722944,
+      "size": 14806
+    },
+    {
+      "file": "grace-hopper.webp",
+      "source": "xs/grace-hopper.webp",
+      "kind": "soma-384-l5",
+      "owner": "grace-hopper",
+      "offset": 738304,
+      "size": 16914
+    },
+    {
+      "file": "henrietta-swan-leavitt.webp",
+      "source": "xs/henrietta-swan-leavitt.webp",
+      "kind": "soma-384-l5",
+      "owner": "henrietta-swan-leavitt",
+      "offset": 756224,
+      "size": 12528
+    },
+    {
+      "file": "hideki-yukawa.webp",
+      "source": "xs/hideki-yukawa.webp",
+      "kind": "soma-384-l5",
+      "owner": "hideki-yukawa",
+      "offset": 769536,
+      "size": 15534
+    },
+    {
+      "file": "hildegard-of-bingen.webp",
+      "source": "xs/hildegard-of-bingen.webp",
+      "kind": "soma-384-l5",
+      "owner": "hildegard-of-bingen",
+      "offset": 785920,
+      "size": 14102
+    },
+    {
+      "file": "hipparchus.webp",
+      "source": "xs/hipparchus.webp",
+      "kind": "soma-384-l5",
+      "owner": "hipparchus",
+      "offset": 800768,
+      "size": 15006
+    },
+    {
+      "file": "hippocrates.webp",
+      "source": "xs/hippocrates.webp",
+      "kind": "soma-384-l5",
+      "owner": "hippocrates",
+      "offset": 816640,
+      "size": 13646
+    },
+    {
+      "file": "hypatia.webp",
+      "source": "xs/hypatia.webp",
+      "kind": "soma-384-l5",
+      "owner": "hypatia",
+      "offset": 830976,
+      "size": 15232
+    },
+    {
+      "file": "ibn-battuta.webp",
+      "source": "xs/ibn-battuta.webp",
+      "kind": "soma-384-l5",
+      "owner": "ibn-battuta",
+      "offset": 846848,
+      "size": 17640
+    },
+    {
+      "file": "ibn-khaldun.webp",
+      "source": "xs/ibn-khaldun.webp",
+      "kind": "soma-384-l5",
+      "owner": "ibn-khaldun",
+      "offset": 865280,
+      "size": 14310
+    },
+    {
+      "file": "imhotep.webp",
+      "source": "xs/imhotep.webp",
+      "kind": "soma-384-l5",
+      "owner": "imhotep",
+      "offset": 880128,
+      "size": 12388
+    },
+    {
+      "file": "irene-joliot-curie.webp",
+      "source": "xs/irene-joliot-curie.webp",
+      "kind": "soma-384-l5",
+      "owner": "irene-joliot-curie",
+      "offset": 893440,
+      "size": 14278
+    },
+    {
+      "file": "isaac-newton.webp",
+      "source": "xs/isaac-newton.webp",
+      "kind": "soma-384-l5",
+      "owner": "isaac-newton",
+      "offset": 908288,
+      "size": 21584
+    },
+    {
+      "file": "ismail-al-jazari.webp",
+      "source": "xs/ismail-al-jazari.webp",
+      "kind": "soma-384-l5",
+      "owner": "ismail-al-jazari",
+      "offset": 930816,
+      "size": 16448
+    },
+    {
+      "file": "ivan-pavlov.webp",
+      "source": "xs/ivan-pavlov.webp",
+      "kind": "soma-384-l5",
+      "owner": "ivan-pavlov",
+      "offset": 948224,
+      "size": 13866
+    },
+    {
+      "file": "james-clerk-maxwell.webp",
+      "source": "xs/james-clerk-maxwell.webp",
+      "kind": "soma-384-l5",
+      "owner": "james-clerk-maxwell",
+      "offset": 963072,
+      "size": 14556
+    },
+    {
+      "file": "james-watt.webp",
+      "source": "xs/james-watt.webp",
+      "kind": "soma-384-l5",
+      "owner": "james-watt",
+      "offset": 978432,
+      "size": 17428
+    },
+    {
+      "file": "jane-goodall.webp",
+      "source": "xs/jane-goodall.webp",
+      "kind": "soma-384-l5",
+      "owner": "jane-goodall",
+      "offset": 996864,
+      "size": 20314
+    },
+    {
+      "file": "jang-yeong-sil.webp",
+      "source": "xs/jang-yeong-sil.webp",
+      "kind": "soma-384-l5",
+      "owner": "jang-yeong-sil",
+      "offset": 1017856,
+      "size": 12724
+    },
+    {
+      "file": "jennifer-doudna.webp",
+      "source": "xs/jennifer-doudna.webp",
+      "kind": "soma-384-l5",
+      "owner": "jennifer-doudna",
+      "offset": 1031168,
+      "size": 18002
+    },
+    {
+      "file": "jocelyn-bell-burnell.webp",
+      "source": "xs/jocelyn-bell-burnell.webp",
+      "kind": "soma-384-l5",
+      "owner": "jocelyn-bell-burnell",
+      "offset": 1050112,
+      "size": 15788
+    },
+    {
+      "file": "johannes-gutenberg.webp",
+      "source": "xs/johannes-gutenberg.webp",
+      "kind": "soma-384-l5",
+      "owner": "johannes-gutenberg",
+      "offset": 1066496,
+      "size": 14512
+    },
+    {
+      "file": "johannes-kepler.webp",
+      "source": "xs/johannes-kepler.webp",
+      "kind": "soma-384-l5",
+      "owner": "johannes-kepler",
+      "offset": 1081856,
+      "size": 24678
+    },
+    {
+      "file": "john-von-neumann.webp",
+      "source": "xs/john-von-neumann.webp",
+      "kind": "soma-384-l5",
+      "owner": "john-von-neumann",
+      "offset": 1107456,
+      "size": 13248
+    },
+    {
+      "file": "katalin-kariko.webp",
+      "source": "xs/katalin-kariko.webp",
+      "kind": "soma-384-l5",
+      "owner": "katalin-karikó",
+      "offset": 1121280,
+      "size": 15298
+    },
+    {
+      "file": "katherine-johnson.webp",
+      "source": "xs/katherine-johnson.webp",
+      "kind": "soma-384-l5",
+      "owner": "katherine-johnson",
+      "offset": 1137152,
+      "size": 13916
+    },
+    {
+      "file": "laura-bassi.webp",
+      "source": "xs/laura-bassi.webp",
+      "kind": "soma-384-l5",
+      "owner": "laura-bassi",
+      "offset": 1152000,
+      "size": 14404
+    },
+    {
+      "file": "leonardo-da-vinci.webp",
+      "source": "xs/leonardo-da-vinci.webp",
+      "kind": "soma-384-l5",
+      "owner": "leonardo-da-vinci",
+      "offset": 1167360,
+      "size": 17998
+    },
+    {
+      "file": "leonhard-euler.webp",
+      "source": "xs/leonhard-euler.webp",
+      "kind": "soma-384-l5",
+      "owner": "leonhard-euler",
+      "offset": 1186304,
+      "size": 16386
+    },
+    {
+      "file": "li-shizhen.webp",
+      "source": "xs/li-shizhen.webp",
+      "kind": "soma-384-l5",
+      "owner": "li-shizhen",
+      "offset": 1203712,
+      "size": 18708
+    },
+    {
+      "file": "lise-meitner.webp",
+      "source": "xs/lise-meitner.webp",
+      "kind": "soma-384-l5",
+      "owner": "lise-meitner",
+      "offset": 1223168,
+      "size": 16010
+    },
+    {
+      "file": "liu-hui.webp",
+      "source": "xs/liu-hui.webp",
+      "kind": "soma-384-l5",
+      "owner": "liu-hui",
+      "offset": 1240064,
+      "size": 12376
+    },
+    {
+      "file": "louis-pasteur.webp",
+      "source": "xs/louis-pasteur.webp",
+      "kind": "soma-384-l5",
+      "owner": "louis-pasteur",
+      "offset": 1253376,
+      "size": 19624
+    },
+    {
+      "file": "lucretius.webp",
+      "source": "xs/lucretius.webp",
+      "kind": "soma-384-l5",
+      "owner": "lucretius",
+      "offset": 1273856,
+      "size": 16274
+    },
+    {
+      "file": "lynn-margulis.webp",
+      "source": "xs/lynn-margulis.webp",
+      "kind": "soma-384-l5",
+      "owner": "lynn-margulis",
+      "offset": 1290752,
+      "size": 13308
+    },
+    {
+      "file": "maimonides.webp",
+      "source": "xs/maimonides.webp",
+      "kind": "soma-384-l5",
+      "owner": "maimonides",
+      "offset": 1304576,
+      "size": 24390
+    },
+    {
+      "file": "maria-gaetana-agnesi.webp",
+      "source": "xs/maria-gaetana-agnesi.webp",
+      "kind": "soma-384-l5",
+      "owner": "maria-gaetana-agnesi",
+      "offset": 1329664,
+      "size": 16760
+    },
+    {
+      "file": "maria-sibylla-merian.webp",
+      "source": "xs/maria-sibylla-merian.webp",
+      "kind": "soma-384-l5",
+      "owner": "maria-sibylla-merian",
+      "offset": 1347072,
+      "size": 16484
+    },
+    {
+      "file": "marie-curie.webp",
+      "source": "xs/marie-curie.webp",
+      "kind": "soma-384-l5",
+      "owner": "marie-curie",
+      "offset": 1364480,
+      "size": 12230
+    },
+    {
+      "file": "mario-molina.webp",
+      "source": "xs/mario-molina.webp",
+      "kind": "soma-384-l5",
+      "owner": "mario-molina",
+      "offset": 1377280,
+      "size": 12860
+    },
+    {
+      "file": "mary-anning.webp",
+      "source": "xs/mary-anning.webp",
+      "kind": "soma-384-l5",
+      "owner": "mary-anning",
+      "offset": 1391104,
+      "size": 16076
+    },
+    {
+      "file": "mary-somerville.webp",
+      "source": "xs/mary-somerville.webp",
+      "kind": "soma-384-l5",
+      "owner": "mary-somerville",
+      "offset": 1408000,
+      "size": 15474
+    },
+    {
+      "file": "maryam-mirzakhani.webp",
+      "source": "xs/maryam-mirzakhani.webp",
+      "kind": "soma-384-l5",
+      "owner": "maryam-mirzakhani",
+      "offset": 1424384,
+      "size": 12532
+    },
+    {
+      "file": "michael-faraday.webp",
+      "source": "xs/michael-faraday.webp",
+      "kind": "soma-384-l5",
+      "owner": "michael-faraday",
+      "offset": 1437696,
+      "size": 19180
+    },
+    {
+      "file": "mikhail-lomonosov.webp",
+      "source": "xs/mikhail-lomonosov.webp",
+      "kind": "soma-384-l5",
+      "owner": "mikhail-lomonosov",
+      "offset": 1457664,
+      "size": 17372
+    },
+    {
+      "file": "nasir-al-din-al-tusi.webp",
+      "source": "xs/nasir-al-din-al-tusi.webp",
+      "kind": "soma-384-l5",
+      "owner": "nasir-al-din-al-tusi",
+      "offset": 1475584,
+      "size": 13308
+    },
+    {
+      "file": "nicolaus-copernicus.webp",
+      "source": "xs/nicolaus-copernicus.webp",
+      "kind": "soma-384-l5",
+      "owner": "nicolaus-copernicus",
+      "offset": 1489408,
+      "size": 12720
+    },
+    {
+      "file": "nikola-tesla.webp",
+      "source": "xs/nikola-tesla.webp",
+      "kind": "soma-384-l5",
+      "owner": "nikola-tesla",
+      "offset": 1502720,
+      "size": 18614
+    },
+    {
+      "file": "omar-khayyam.webp",
+      "source": "xs/omar-khayyam.webp",
+      "kind": "soma-384-l5",
+      "owner": "omar-khayyam",
+      "offset": 1522176,
+      "size": 12048
+    },
+    {
+      "file": "panini.webp",
+      "source": "xs/panini.webp",
+      "kind": "soma-384-l5",
+      "owner": "panini",
+      "offset": 1534976,
+      "size": 14984
+    },
+    {
+      "file": "paracelsus.webp",
+      "source": "xs/paracelsus.webp",
+      "kind": "soma-384-l5",
+      "owner": "paracelsus",
+      "offset": 1550848,
+      "size": 14696
+    },
+    {
+      "file": "peseshet.webp",
+      "source": "xs/peseshet.webp",
+      "kind": "soma-384-l5",
+      "owner": "peseshet",
+      "offset": 1566208,
+      "size": 14330
+    },
+    {
+      "file": "pierre-de-fermat.webp",
+      "source": "xs/pierre-de-fermat.webp",
+      "kind": "soma-384-l5",
+      "owner": "pierre-de-fermat",
+      "offset": 1581056,
+      "size": 13652
+    },
+    {
+      "file": "pierre-simon-laplace.webp",
+      "source": "xs/pierre-simon-laplace.webp",
+      "kind": "soma-384-l5",
+      "owner": "pierre-simon-laplace",
+      "offset": 1595392,
+      "size": 21198
+    },
+    {
+      "file": "plato.webp",
+      "source": "xs/plato.webp",
+      "kind": "soma-384-l5",
+      "owner": "plato",
+      "offset": 1617408,
+      "size": 19482
+    },
+    {
+      "file": "pliny-the-elder.webp",
+      "source": "xs/pliny-the-elder.webp",
+      "kind": "soma-384-l5",
+      "owner": "pliny-the-elder",
+      "offset": 1637888,
+      "size": 13904
+    },
+    {
+      "file": "ptolemy.webp",
+      "source": "xs/ptolemy.webp",
+      "kind": "soma-384-l5",
+      "owner": "ptolemy",
+      "offset": 1652736,
+      "size": 19286
+    },
+    {
+      "file": "pythagoras.webp",
+      "source": "xs/pythagoras.webp",
+      "kind": "soma-384-l5",
+      "owner": "pythagoras",
+      "offset": 1672704,
+      "size": 14464
+    },
+    {
+      "file": "rachel-carson.webp",
+      "source": "xs/rachel-carson.webp",
+      "kind": "soma-384-l5",
+      "owner": "rachel-carson",
+      "offset": 1688064,
+      "size": 14480
+    },
+    {
+      "file": "rené-descartes.webp",
+      "source": "xs/rené-descartes.webp",
+      "kind": "soma-384-l5",
+      "owner": "rené-descartes",
+      "offset": 1703424,
+      "size": 21510
+    },
+    {
+      "file": "robert-oppenheimer.webp",
+      "source": "xs/robert-oppenheimer.webp",
+      "kind": "soma-384-l5",
+      "owner": "robert-oppenheimer",
+      "offset": 1725952,
+      "size": 15390
+    },
+    {
+      "file": "roger-bacon.webp",
+      "source": "xs/roger-bacon.webp",
+      "kind": "soma-384-l5",
+      "owner": "roger-bacon",
+      "offset": 1742336,
+      "size": 15540
+    },
+    {
+      "file": "rosalind-franklin.webp",
+      "source": "xs/rosalind-franklin.webp",
+      "kind": "soma-384-l5",
+      "owner": "rosalind-franklin",
+      "offset": 1758720,
+      "size": 16766
+    },
+    {
+      "file": "satyendra-nath-bose.webp",
+      "source": "xs/satyendra-nath-bose.webp",
+      "kind": "soma-384-l5",
+      "owner": "satyendra-nath-bose",
+      "offset": 1776128,
+      "size": 15206
+    },
+    {
+      "file": "seki-takakazu.webp",
+      "source": "xs/seki-takakazu.webp",
+      "kind": "soma-384-l5",
+      "owner": "seki-takakazu",
+      "offset": 1792000,
+      "size": 16030
+    },
+    {
+      "file": "sergei-korolev.webp",
+      "source": "xs/sergei-korolev.webp",
+      "kind": "soma-384-l5",
+      "owner": "sergei-korolev",
+      "offset": 1808896,
+      "size": 15930
+    },
+    {
+      "file": "shen-kuo.webp",
+      "source": "xs/shen-kuo.webp",
+      "kind": "soma-384-l5",
+      "owner": "shen-kuo",
+      "offset": 1825792,
+      "size": 13496
+    },
+    {
+      "file": "shinya-yamanaka.webp",
+      "source": "xs/shinya-yamanaka.webp",
+      "kind": "soma-384-l5",
+      "owner": "shinya-yamanaka",
+      "offset": 1840128,
+      "size": 12204
+    },
+    {
+      "file": "sigmund-freud.webp",
+      "source": "xs/sigmund-freud.webp",
+      "kind": "soma-384-l5",
+      "owner": "sigmund-freud",
+      "offset": 1852928,
+      "size": 14410
+    },
+    {
+      "file": "sofia-kovalevskaya.webp",
+      "source": "xs/sofia-kovalevskaya.webp",
+      "kind": "soma-384-l5",
+      "owner": "sofia-kovalevskaya",
+      "offset": 1868288,
+      "size": 16052
+    },
+    {
+      "file": "sophie-germain.webp",
+      "source": "xs/sophie-germain.webp",
+      "kind": "soma-384-l5",
+      "owner": "sophie-germain",
+      "offset": 1885184,
+      "size": 19466
+    },
+    {
+      "file": "stephen-hawking.webp",
+      "source": "xs/stephen-hawking.webp",
+      "kind": "soma-384-l5",
+      "owner": "stephen-hawking",
+      "offset": 1905664,
+      "size": 23238
+    },
+    {
+      "file": "subrahmanyan-chandrasekhar.webp",
+      "source": "xs/subrahmanyan-chandrasekhar.webp",
+      "kind": "soma-384-l5",
+      "owner": "subrahmanyan-chandrasekhar",
+      "offset": 1929728,
+      "size": 14838
+    },
+    {
+      "file": "sushruta.webp",
+      "source": "xs/sushruta.webp",
+      "kind": "soma-384-l5",
+      "owner": "sushruta",
+      "offset": 1945088,
+      "size": 15478
+    },
+    {
+      "file": "theano.webp",
+      "source": "xs/theano.webp",
+      "kind": "soma-384-l5",
+      "owner": "theano",
+      "offset": 1961472,
+      "size": 13616
+    },
+    {
+      "file": "thomas-edison.webp",
+      "source": "xs/thomas-edison.webp",
+      "kind": "soma-384-l5",
+      "owner": "thomas-edison",
+      "offset": 1975808,
+      "size": 15750
+    },
+    {
+      "file": "tu-youyou.webp",
+      "source": "xs/tu-youyou.webp",
+      "kind": "soma-384-l5",
+      "owner": "tu-youyou",
+      "offset": 1992192,
+      "size": 18126
+    },
+    {
+      "file": "tycho-brahe.webp",
+      "source": "xs/tycho-brahe.webp",
+      "kind": "soma-384-l5",
+      "owner": "tycho-brahe",
+      "offset": 2011136,
+      "size": 14888
+    },
+    {
+      "file": "wang-zhenyi.webp",
+      "source": "xs/wang-zhenyi.webp",
+      "kind": "soma-384-l5",
+      "owner": "wang-zhenyi",
+      "offset": 2027008,
+      "size": 12994
+    },
+    {
+      "file": "wangari-maathai.webp",
+      "source": "xs/wangari-maathai.webp",
+      "kind": "soma-384-l5",
+      "owner": "wangari-maathai",
+      "offset": 2040832,
+      "size": 14878
+    },
+    {
+      "file": "zhang-heng.webp",
+      "source": "xs/zhang-heng.webp",
+      "kind": "soma-384-l5",
+      "owner": "zhang-heng",
+      "offset": 2056704,
+      "size": 11876
+    },
+    {
+      "file": "zu-chongzhi.webp",
+      "source": "xs/zu-chongzhi.webp",
+      "kind": "soma-384-l5",
+      "owner": "zu-chongzhi",
+      "offset": 2069504,
+      "size": 15026
+    }
+  ]
+}

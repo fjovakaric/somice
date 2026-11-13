@@ -1,0 +1,189 @@
+{
+  "name": "lifeforms",
+  "world": "sharks",
+  "url": "https://cdn.jsdelivr.net/gh/fjovakaric/somice@main/assets/sharks-lifeforms.9378c9bf.tar",
+  "map": "https://cdn.jsdelivr.net/gh/fjovakaric/somice@main/assets/sharks-lifeforms.9378c9bf.json",
+  "entries": 22,
+  "bytes": 315904,
+  "await": "never",
+  "hash": "9378c9bf",
+  "builtAt": "2026-09-15",
+  "files": [
+    {
+      "file": "basking-shark-body.webp",
+      "source": "lifeforms/sharks/xs/basking-shark-body.webp",
+      "kind": "lifeform-body",
+      "owner": "167",
+      "offset": 512,
+      "size": 19886
+    },
+    {
+      "file": "basking-shark-head.webp",
+      "source": "lifeforms/sharks/xs/basking-shark-head.webp",
+      "kind": "lifeform-head",
+      "owner": "167",
+      "offset": 20992,
+      "size": 7992
+    },
+    {
+      "file": "common-thresher-body.webp",
+      "source": "lifeforms/sharks/xs/common-thresher-body.webp",
+      "kind": "lifeform-body",
+      "owner": "169",
+      "offset": 29696,
+      "size": 20894
+    },
+    {
+      "file": "common-thresher-head.webp",
+      "source": "lifeforms/sharks/xs/common-thresher-head.webp",
+      "kind": "lifeform-head",
+      "owner": "169",
+      "offset": 51200,
+      "size": 6824
+    },
+    {
+      "file": "cookiecutter-shark-body.webp",
+      "source": "lifeforms/sharks/xs/cookiecutter-shark-body.webp",
+      "kind": "lifeform-body",
+      "owner": "160",
+      "offset": 58880,
+      "size": 14276
+    },
+    {
+      "file": "cookiecutter-shark-head.webp",
+      "source": "lifeforms/sharks/xs/cookiecutter-shark-head.webp",
+      "kind": "lifeform-head",
+      "owner": "160",
+      "offset": 73728,
+      "size": 8332
+    },
+    {
+      "file": "default-shark-body.webp",
+      "source": "lifeforms/sharks/xs/default-shark-body.webp",
+      "kind": "archetype-body",
+      "owner": "sharks",
+      "offset": 82944,
+      "size": 16352
+    },
+    {
+      "file": "default-shark-head.webp",
+      "source": "lifeforms/sharks/xs/default-shark-head.webp",
+      "kind": "archetype-head",
+      "owner": "sharks",
+      "offset": 99840,
+      "size": 7050
+    },
+    {
+      "file": "epaulette-shark-body.webp",
+      "source": "lifeforms/sharks/xs/epaulette-shark-body.webp",
+      "kind": "lifeform-body",
+      "owner": "161",
+      "offset": 107520,
+      "size": 17208
+    },
+    {
+      "file": "epaulette-shark-head.webp",
+      "source": "lifeforms/sharks/xs/epaulette-shark-head.webp",
+      "kind": "lifeform-head",
+      "owner": "161",
+      "offset": 125440,
+      "size": 8192
+    },
+    {
+      "file": "frilled-shark-body.webp",
+      "source": "lifeforms/sharks/xs/frilled-shark-body.webp",
+      "kind": "lifeform-body",
+      "owner": "170",
+      "offset": 134144,
+      "size": 13856
+    },
+    {
+      "file": "frilled-shark-head.webp",
+      "source": "lifeforms/sharks/xs/frilled-shark-head.webp",
+      "kind": "lifeform-head",
+      "owner": "170",
+      "offset": 148992,
+      "size": 6280
+    },
+    {
+      "file": "goblin-shark-body.webp",
+      "source": "lifeforms/sharks/xs/goblin-shark-body.webp",
+      "kind": "lifeform-body",
+      "owner": "159",
+      "offset": 156160,
+      "size": 15066
+    },
+    {
+      "file": "goblin-shark-head.webp",
+      "source": "lifeforms/sharks/xs/goblin-shark-head.webp",
+      "kind": "lifeform-head",
+      "owner": "159",
+      "offset": 172032,
+      "size": 6988
+    },
+    {
+      "file": "great-hammerhead-body.webp",
+      "source": "lifeforms/sharks/xs/great-hammerhead-body.webp",
+      "kind": "lifeform-body",
+      "owner": "165",
+      "offset": 179712,
+      "size": 21368
+    },
+    {
+      "file": "great-hammerhead-head.webp",
+      "source": "lifeforms/sharks/xs/great-hammerhead-head.webp",
+      "kind": "lifeform-head",
+      "owner": "165",
+      "offset": 201728,
+      "size": 9562
+    },
+    {
+      "file": "great-white-shark-body.webp",
+      "source": "lifeforms/sharks/xs/great-white-shark-body.webp",
+      "kind": "lifeform-body",
+      "owner": "162",
+      "offset": 211968,
+      "size": 19330
+    },
+    {
+      "file": "great-white-shark-head.webp",
+      "source": "lifeforms/sharks/xs/great-white-shark-head.webp",
+      "kind": "lifeform-head",
+      "owner": "162",
+      "offset": 231936,
+      "size": 8142
+    },
+    {
+      "file": "tiger-shark-body.webp",
+      "source": "lifeforms/sharks/xs/tiger-shark-body.webp",
+      "kind": "lifeform-body",
+      "owner": "163",
+      "offset": 240640,
+      "size": 18684
+    },
+    {
+      "file": "tiger-shark-head.webp",
+      "source": "lifeforms/sharks/xs/tiger-shark-head.webp",
+      "kind": "lifeform-head",
+      "owner": "163",
+      "offset": 260096,
+      "size": 7620
+    },
+    {
+      "file": "whale-shark-body.webp",
+      "source": "lifeforms/sharks/xs/whale-shark-body.webp",
+      "kind": "lifeform-body",
+      "owner": "158",
+      "offset": 268288,
+      "size": 31984
+    },
+    {
+      "file": "whale-shark-head.webp",
+      "source": "lifeforms/sharks/xs/whale-shark-head.webp",
+      "kind": "lifeform-head",
+      "owner": "158",
+      "offset": 301056,
+      "size": 13722
+    }
+  ]
+}

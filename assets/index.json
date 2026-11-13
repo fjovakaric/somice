@@ -1,0 +1,336 @@
+{
+  "ants": [
+    {
+      "name": "lifeforms",
+      "world": "ants",
+      "url": "https://cdn.jsdelivr.net/gh/fjovakaric/somice@main/assets/ants-lifeforms.6a17cc94.tar",
+      "map": "https://cdn.jsdelivr.net/gh/fjovakaric/somice@main/assets/ants-lifeforms.6a17cc94.json",
+      "entries": 22,
+      "bytes": 613376,
+      "await": "never"
+    },
+    {
+      "name": "emblems",
+      "world": "worlds",
+      "url": "https://cdn.jsdelivr.net/gh/fjovakaric/somice@main/assets/worlds-emblems.13e22618.tar",
+      "map": "https://cdn.jsdelivr.net/gh/fjovakaric/somice@main/assets/worlds-emblems.13e22618.json",
+      "entries": 5,
+      "bytes": 76800,
+      "await": "never"
+    }
+  ],
+  "artists": [
+    {
+      "name": "somas-l5",
+      "world": "artists",
+      "url": "https://cdn.jsdelivr.net/gh/fjovakaric/somice@main/assets/artists-somas-l5.e7d26cb6.tar",
+      "map": "https://cdn.jsdelivr.net/gh/fjovakaric/somice@main/assets/artists-somas-l5.e7d26cb6.json",
+      "entries": 36,
+      "bytes": 595968,
+      "await": "reveal"
+    },
+    {
+      "name": "somas",
+      "world": "artists",
+      "url": "https://cdn.jsdelivr.net/gh/fjovakaric/somice@main/assets/artists-somas.92cf0ca7.tar",
+      "map": "https://cdn.jsdelivr.net/gh/fjovakaric/somice@main/assets/artists-somas.92cf0ca7.json",
+      "entries": 113,
+      "bytes": 1884672,
+      "await": "never"
+    },
+    {
+      "name": "emblems",
+      "world": "worlds",
+      "url": "https://cdn.jsdelivr.net/gh/fjovakaric/somice@main/assets/worlds-emblems.13e22618.tar",
+      "map": "https://cdn.jsdelivr.net/gh/fjovakaric/somice@main/assets/worlds-emblems.13e22618.json",
+      "entries": 5,
+      "bytes": 76800,
+      "await": "never"
+    }
+  ],
+  "cats": [
+    {
+      "name": "lifeforms",
+      "world": "cats",
+      "url": "https://cdn.jsdelivr.net/gh/fjovakaric/somice@main/assets/cats-lifeforms.bf27f8c8.tar",
+      "map": "https://cdn.jsdelivr.net/gh/fjovakaric/somice@main/assets/cats-lifeforms.bf27f8c8.json",
+      "entries": 12,
+      "bytes": 312320,
+      "await": "never"
+    },
+    {
+      "name": "emblems",
+      "world": "worlds",
+      "url": "https://cdn.jsdelivr.net/gh/fjovakaric/somice@main/assets/worlds-emblems.13e22618.tar",
+      "map": "https://cdn.jsdelivr.net/gh/fjovakaric/somice@main/assets/worlds-emblems.13e22618.json",
+      "entries": 5,
+      "bytes": 76800,
+      "await": "never"
+    }
+  ],
+  "corals": [
+    {
+      "name": "lifeforms",
+      "world": "corals",
+      "url": "https://cdn.jsdelivr.net/gh/fjovakaric/somice@main/assets/corals-lifeforms.f9d14317.tar",
+      "map": "https://cdn.jsdelivr.net/gh/fjovakaric/somice@main/assets/corals-lifeforms.f9d14317.json",
+      "entries": 32,
+      "bytes": 1207296,
+      "await": "never"
+    },
+    {
+      "name": "emblems",
+      "world": "worlds",
+      "url": "https://cdn.jsdelivr.net/gh/fjovakaric/somice@main/assets/worlds-emblems.13e22618.tar",
+      "map": "https://cdn.jsdelivr.net/gh/fjovakaric/somice@main/assets/worlds-emblems.13e22618.json",
+      "entries": 5,
+      "bytes": 76800,
+      "await": "never"
+    }
+  ],
+  "frogs": [
+    {
+      "name": "lifeforms",
+      "world": "frogs",
+      "url": "https://cdn.jsdelivr.net/gh/fjovakaric/somice@main/assets/frogs-lifeforms.5f9df9d9.tar",
+      "map": "https://cdn.jsdelivr.net/gh/fjovakaric/somice@main/assets/frogs-lifeforms.5f9df9d9.json",
+      "entries": 22,
+      "bytes": 516608,
+      "await": "never"
+    },
+    {
+      "name": "emblems",
+      "world": "worlds",
+      "url": "https://cdn.jsdelivr.net/gh/fjovakaric/somice@main/assets/worlds-emblems.13e22618.tar",
+      "map": "https://cdn.jsdelivr.net/gh/fjovakaric/somice@main/assets/worlds-emblems.13e22618.json",
+      "entries": 5,
+      "bytes": 76800,
+      "await": "never"
+    }
+  ],
+  "megatrees": [
+    {
+      "name": "emblems",
+      "world": "worlds",
+      "url": "https://cdn.jsdelivr.net/gh/fjovakaric/somice@main/assets/worlds-emblems.13e22618.tar",
+      "map": "https://cdn.jsdelivr.net/gh/fjovakaric/somice@main/assets/worlds-emblems.13e22618.json",
+      "entries": 5,
+      "bytes": 76800,
+      "await": "never"
+    }
+  ],
+  "musicians": [
+    {
+      "name": "somas-l5",
+      "world": "musicians",
+      "url": "https://cdn.jsdelivr.net/gh/fjovakaric/somice@main/assets/musicians-somas-l5.9444432b.tar",
+      "map": "https://cdn.jsdelivr.net/gh/fjovakaric/somice@main/assets/musicians-somas-l5.9444432b.json",
+      "entries": 65,
+      "bytes": 1115648,
+      "await": "reveal"
+    },
+    {
+      "name": "somas",
+      "world": "musicians",
+      "url": "https://cdn.jsdelivr.net/gh/fjovakaric/somice@main/assets/musicians-somas.e438b589.tar",
+      "map": "https://cdn.jsdelivr.net/gh/fjovakaric/somice@main/assets/musicians-somas.e438b589.json",
+      "entries": 130,
+      "bytes": 2163712,
+      "await": "never"
+    },
+    {
+      "name": "emblems",
+      "world": "worlds",
+      "url": "https://cdn.jsdelivr.net/gh/fjovakaric/somice@main/assets/worlds-emblems.13e22618.tar",
+      "map": "https://cdn.jsdelivr.net/gh/fjovakaric/somice@main/assets/worlds-emblems.13e22618.json",
+      "entries": 5,
+      "bytes": 76800,
+      "await": "never"
+    }
+  ],
+  "parrots": [
+    {
+      "name": "lifeforms",
+      "world": "parrots",
+      "url": "https://cdn.jsdelivr.net/gh/fjovakaric/somice@main/assets/parrots-lifeforms.06a578f5.tar",
+      "map": "https://cdn.jsdelivr.net/gh/fjovakaric/somice@main/assets/parrots-lifeforms.06a578f5.json",
+      "entries": 32,
+      "bytes": 535552,
+      "await": "never"
+    },
+    {
+      "name": "emblems",
+      "world": "worlds",
+      "url": "https://cdn.jsdelivr.net/gh/fjovakaric/somice@main/assets/worlds-emblems.13e22618.tar",
+      "map": "https://cdn.jsdelivr.net/gh/fjovakaric/somice@main/assets/worlds-emblems.13e22618.json",
+      "entries": 5,
+      "bytes": 76800,
+      "await": "never"
+    }
+  ],
+  "primates": [
+    {
+      "name": "lifeforms",
+      "world": "primates",
+      "url": "https://cdn.jsdelivr.net/gh/fjovakaric/somice@main/assets/primates-lifeforms.72016ccd.tar",
+      "map": "https://cdn.jsdelivr.net/gh/fjovakaric/somice@main/assets/primates-lifeforms.72016ccd.json",
+      "entries": 42,
+      "bytes": 821248,
+      "await": "never"
+    },
+    {
+      "name": "emblems",
+      "world": "worlds",
+      "url": "https://cdn.jsdelivr.net/gh/fjovakaric/somice@main/assets/worlds-emblems.13e22618.tar",
+      "map": "https://cdn.jsdelivr.net/gh/fjovakaric/somice@main/assets/worlds-emblems.13e22618.json",
+      "entries": 5,
+      "bytes": 76800,
+      "await": "never"
+    }
+  ],
+  "rulers": [
+    {
+      "name": "somas-l5",
+      "world": "rulers",
+      "url": "https://cdn.jsdelivr.net/gh/fjovakaric/somice@main/assets/rulers-somas-l5.5bd5f81b.tar",
+      "map": "https://cdn.jsdelivr.net/gh/fjovakaric/somice@main/assets/rulers-somas-l5.5bd5f81b.json",
+      "entries": 136,
+      "bytes": 2676736,
+      "await": "reveal"
+    },
+    {
+      "name": "somas",
+      "world": "rulers",
+      "url": "https://cdn.jsdelivr.net/gh/fjovakaric/somice@main/assets/rulers-somas.69ec7abd.tar",
+      "map": "https://cdn.jsdelivr.net/gh/fjovakaric/somice@main/assets/rulers-somas.69ec7abd.json",
+      "entries": 111,
+      "bytes": 2020864,
+      "await": "never"
+    },
+    {
+      "name": "civs",
+      "world": "rulers",
+      "url": "https://cdn.jsdelivr.net/gh/fjovakaric/somice@main/assets/rulers-civs.5f7f77be.tar",
+      "map": "https://cdn.jsdelivr.net/gh/fjovakaric/somice@main/assets/rulers-civs.5f7f77be.json",
+      "entries": 214,
+      "bytes": 4537344,
+      "await": "never"
+    },
+    {
+      "name": "emblems",
+      "world": "worlds",
+      "url": "https://cdn.jsdelivr.net/gh/fjovakaric/somice@main/assets/worlds-emblems.13e22618.tar",
+      "map": "https://cdn.jsdelivr.net/gh/fjovakaric/somice@main/assets/worlds-emblems.13e22618.json",
+      "entries": 5,
+      "bytes": 76800,
+      "await": "never"
+    }
+  ],
+  "scientists": [
+    {
+      "name": "somas-l5",
+      "world": "scientists",
+      "url": "https://cdn.jsdelivr.net/gh/fjovakaric/somice@main/assets/scientists-somas-l5.d2ef58ed.tar",
+      "map": "https://cdn.jsdelivr.net/gh/fjovakaric/somice@main/assets/scientists-somas-l5.d2ef58ed.json",
+      "entries": 125,
+      "bytes": 2085888,
+      "await": "reveal"
+    },
+    {
+      "name": "somas",
+      "world": "scientists",
+      "url": "https://cdn.jsdelivr.net/gh/fjovakaric/somice@main/assets/scientists-somas.9b1780a5.tar",
+      "map": "https://cdn.jsdelivr.net/gh/fjovakaric/somice@main/assets/scientists-somas.9b1780a5.json",
+      "entries": 50,
+      "bytes": 808448,
+      "await": "never"
+    },
+    {
+      "name": "discoveries",
+      "world": "scientists",
+      "url": "https://cdn.jsdelivr.net/gh/fjovakaric/somice@main/assets/scientists-discoveries.cb0eb9ca.tar",
+      "map": "https://cdn.jsdelivr.net/gh/fjovakaric/somice@main/assets/scientists-discoveries.cb0eb9ca.json",
+      "entries": 415,
+      "bytes": 1928192,
+      "await": "never"
+    },
+    {
+      "name": "emblems",
+      "world": "worlds",
+      "url": "https://cdn.jsdelivr.net/gh/fjovakaric/somice@main/assets/worlds-emblems.13e22618.tar",
+      "map": "https://cdn.jsdelivr.net/gh/fjovakaric/somice@main/assets/worlds-emblems.13e22618.json",
+      "entries": 5,
+      "bytes": 76800,
+      "await": "never"
+    }
+  ],
+  "sharks": [
+    {
+      "name": "lifeforms",
+      "world": "sharks",
+      "url": "https://cdn.jsdelivr.net/gh/fjovakaric/somice@main/assets/sharks-lifeforms.9378c9bf.tar",
+      "map": "https://cdn.jsdelivr.net/gh/fjovakaric/somice@main/assets/sharks-lifeforms.9378c9bf.json",
+      "entries": 22,
+      "bytes": 315904,
+      "await": "never"
+    },
+    {
+      "name": "emblems",
+      "world": "worlds",
+      "url": "https://cdn.jsdelivr.net/gh/fjovakaric/somice@main/assets/worlds-emblems.13e22618.tar",
+      "map": "https://cdn.jsdelivr.net/gh/fjovakaric/somice@main/assets/worlds-emblems.13e22618.json",
+      "entries": 5,
+      "bytes": 76800,
+      "await": "never"
+    }
+  ],
+  "snakes": [
+    {
+      "name": "lifeforms",
+      "world": "snakes",
+      "url": "https://cdn.jsdelivr.net/gh/fjovakaric/somice@main/assets/snakes-lifeforms.2584d4ed.tar",
+      "map": "https://cdn.jsdelivr.net/gh/fjovakaric/somice@main/assets/snakes-lifeforms.2584d4ed.json",
+      "entries": 32,
+      "bytes": 1106432,
+      "await": "never"
+    },
+    {
+      "name": "emblems",
+      "world": "worlds",
+      "url": "https://cdn.jsdelivr.net/gh/fjovakaric/somice@main/assets/worlds-emblems.13e22618.tar",
+      "map": "https://cdn.jsdelivr.net/gh/fjovakaric/somice@main/assets/worlds-emblems.13e22618.json",
+      "entries": 5,
+      "bytes": 76800,
+      "await": "never"
+    }
+  ],
+  "writers": [
+    {
+      "name": "somas-l5",
+      "world": "writers",
+      "url": "https://cdn.jsdelivr.net/gh/fjovakaric/somice@main/assets/writers-somas-l5.294919dd.tar",
+      "map": "https://cdn.jsdelivr.net/gh/fjovakaric/somice@main/assets/writers-somas-l5.294919dd.json",
+      "entries": 36,
+      "bytes": 665088,
+      "await": "reveal"
+    },
+    {
+      "name": "somas",
+      "world": "writers",
+      "url": "https://cdn.jsdelivr.net/gh/fjovakaric/somice@main/assets/writers-somas.420f272a.tar",
+      "map": "https://cdn.jsdelivr.net/gh/fjovakaric/somice@main/assets/writers-somas.420f272a.json",
+      "entries": 14,
+      "bytes": 265216,
+      "await": "never"
+    },
+    {
+      "name": "emblems",
+      "world": "worlds",
+      "url": "https://cdn.jsdelivr.net/gh/fjovakaric/somice@main/assets/worlds-emblems.13e22618.tar",
+      "map": "https://cdn.jsdelivr.net/gh/fjovakaric/somice@main/assets/worlds-emblems.13e22618.json",
+      "entries": 5,
+      "bytes": 76800,
+      "await": "never"
+    }
+  ]
+}

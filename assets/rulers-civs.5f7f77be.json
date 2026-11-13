@@ -1,0 +1,1725 @@
+{
+  "name": "civs",
+  "world": "rulers",
+  "url": "https://cdn.jsdelivr.net/gh/fjovakaric/somice@main/assets/rulers-civs.5f7f77be.tar",
+  "map": "https://cdn.jsdelivr.net/gh/fjovakaric/somice@main/assets/rulers-civs.5f7f77be.json",
+  "entries": 214,
+  "bytes": 4537344,
+  "await": "never",
+  "hash": "5f7f77be",
+  "builtAt": "2026-09-15",
+  "files": [
+    {
+      "file": "achaemenid-court-lady.webp",
+      "source": "xs/achaemenid-court-lady.webp",
+      "kind": "civ-soma-f",
+      "owner": "achaemenid",
+      "offset": 512,
+      "size": 15478
+    },
+    {
+      "file": "achaemenid-warrior.webp",
+      "source": "xs/achaemenid-warrior.webp",
+      "kind": "civ-soma-m",
+      "owner": "achaemenid",
+      "offset": 16896,
+      "size": 17366
+    },
+    {
+      "file": "achaemenid.webp",
+      "source": "wonders/achaemenid.webp",
+      "kind": "wonder",
+      "owner": "achaemenid",
+      "offset": 34816,
+      "size": 37524
+    },
+    {
+      "file": "akkadian-court-lady.webp",
+      "source": "xs/akkadian-court-lady.webp",
+      "kind": "civ-soma-f",
+      "owner": "akkadian",
+      "offset": 73216,
+      "size": 17212
+    },
+    {
+      "file": "akkadian-warrior.webp",
+      "source": "xs/akkadian-warrior.webp",
+      "kind": "civ-soma-m",
+      "owner": "akkadian",
+      "offset": 91136,
+      "size": 19460
+    },
+    {
+      "file": "akkadian.webp",
+      "source": "wonders/akkadian.webp",
+      "kind": "wonder",
+      "owner": "akkadian",
+      "offset": 111616,
+      "size": 11666
+    },
+    {
+      "file": "aksumite-court-lady.webp",
+      "source": "xs/aksumite-court-lady.webp",
+      "kind": "civ-soma-f",
+      "owner": "aksumite",
+      "offset": 123904,
+      "size": 17678
+    },
+    {
+      "file": "aksumite-warrior.webp",
+      "source": "xs/aksumite-warrior.webp",
+      "kind": "civ-soma-m",
+      "owner": "aksumite",
+      "offset": 142336,
+      "size": 16264
+    },
+    {
+      "file": "aksumite.webp",
+      "source": "wonders/aksumite.webp",
+      "kind": "wonder",
+      "owner": "aksumite",
+      "offset": 159232,
+      "size": 15198
+    },
+    {
+      "file": "andalusi-court-lady.webp",
+      "source": "xs/andalusi-court-lady.webp",
+      "kind": "civ-soma-f",
+      "owner": "andalusi",
+      "offset": 175104,
+      "size": 18856
+    },
+    {
+      "file": "andalusi-warrior.webp",
+      "source": "xs/andalusi-warrior.webp",
+      "kind": "civ-soma-m",
+      "owner": "andalusi",
+      "offset": 194560,
+      "size": 16460
+    },
+    {
+      "file": "andalusi.webp",
+      "source": "wonders/andalusi.webp",
+      "kind": "wonder",
+      "owner": "andalusi",
+      "offset": 211968,
+      "size": 17760
+    },
+    {
+      "file": "armenian-court-lady.webp",
+      "source": "xs/armenian-court-lady.webp",
+      "kind": "civ-soma-f",
+      "owner": "armenian",
+      "offset": 230400,
+      "size": 16354
+    },
+    {
+      "file": "armenian-warrior.webp",
+      "source": "xs/armenian-warrior.webp",
+      "kind": "civ-soma-m",
+      "owner": "armenian",
+      "offset": 247296,
+      "size": 19716
+    },
+    {
+      "file": "armenian.webp",
+      "source": "wonders/armenian.webp",
+      "kind": "wonder",
+      "owner": "armenian",
+      "offset": 267776,
+      "size": 26040
+    },
+    {
+      "file": "assyrian-court-lady.webp",
+      "source": "xs/assyrian-court-lady.webp",
+      "kind": "civ-soma-f",
+      "owner": "assyrian",
+      "offset": 294400,
+      "size": 18812
+    },
+    {
+      "file": "assyrian-warrior.webp",
+      "source": "xs/assyrian-warrior.webp",
+      "kind": "civ-soma-m",
+      "owner": "assyrian",
+      "offset": 313856,
+      "size": 22604
+    },
+    {
+      "file": "assyrian.webp",
+      "source": "wonders/assyrian.webp",
+      "kind": "wonder",
+      "owner": "assyrian",
+      "offset": 337408,
+      "size": 30894
+    },
+    {
+      "file": "aztec-court-lady.webp",
+      "source": "xs/aztec-court-lady.webp",
+      "kind": "civ-soma-f",
+      "owner": "aztec",
+      "offset": 369152,
+      "size": 17874
+    },
+    {
+      "file": "aztec-warrior.webp",
+      "source": "xs/aztec-warrior.webp",
+      "kind": "civ-soma-m",
+      "owner": "aztec",
+      "offset": 387584,
+      "size": 21402
+    },
+    {
+      "file": "aztec.webp",
+      "source": "wonders/aztec.webp",
+      "kind": "wonder",
+      "owner": "aztec",
+      "offset": 409600,
+      "size": 29190
+    },
+    {
+      "file": "babylonian-court-lady.webp",
+      "source": "xs/babylonian-court-lady.webp",
+      "kind": "civ-soma-f",
+      "owner": "babylonian",
+      "offset": 439808,
+      "size": 19378
+    },
+    {
+      "file": "babylonian-warrior.webp",
+      "source": "xs/babylonian-warrior.webp",
+      "kind": "civ-soma-m",
+      "owner": "babylonian",
+      "offset": 459776,
+      "size": 18048
+    },
+    {
+      "file": "babylonian.webp",
+      "source": "wonders/babylonian.webp",
+      "kind": "wonder",
+      "owner": "babylonian",
+      "offset": 478720,
+      "size": 44296
+    },
+    {
+      "file": "bagan-court-lady.webp",
+      "source": "xs/bagan-court-lady.webp",
+      "kind": "civ-soma-f",
+      "owner": "bagan",
+      "offset": 523776,
+      "size": 13346
+    },
+    {
+      "file": "bagan-warrior.webp",
+      "source": "xs/bagan-warrior.webp",
+      "kind": "civ-soma-m",
+      "owner": "bagan",
+      "offset": 538112,
+      "size": 17928
+    },
+    {
+      "file": "bagan.webp",
+      "source": "wonders/bagan.webp",
+      "kind": "wonder",
+      "owner": "bagan",
+      "offset": 557056,
+      "size": 32718
+    },
+    {
+      "file": "benin-court-lady.webp",
+      "source": "xs/benin-court-lady.webp",
+      "kind": "civ-soma-f",
+      "owner": "benin",
+      "offset": 590336,
+      "size": 14954
+    },
+    {
+      "file": "benin-warrior.webp",
+      "source": "xs/benin-warrior.webp",
+      "kind": "civ-soma-m",
+      "owner": "benin",
+      "offset": 606208,
+      "size": 17284
+    },
+    {
+      "file": "benin.webp",
+      "source": "wonders/benin.webp",
+      "kind": "wonder",
+      "owner": "benin",
+      "offset": 624128,
+      "size": 20212
+    },
+    {
+      "file": "briton-court-lady.webp",
+      "source": "xs/briton-court-lady.webp",
+      "kind": "civ-soma-f",
+      "owner": "briton",
+      "offset": 645120,
+      "size": 13354
+    },
+    {
+      "file": "briton-warrior.webp",
+      "source": "xs/briton-warrior.webp",
+      "kind": "civ-soma-m",
+      "owner": "briton",
+      "offset": 659456,
+      "size": 16010
+    },
+    {
+      "file": "briton.webp",
+      "source": "wonders/briton.webp",
+      "kind": "wonder",
+      "owner": "briton",
+      "offset": 676352,
+      "size": 22840
+    },
+    {
+      "file": "byzantine-court-lady.webp",
+      "source": "xs/byzantine-court-lady.webp",
+      "kind": "civ-soma-f",
+      "owner": "byzantine",
+      "offset": 699904,
+      "size": 16764
+    },
+    {
+      "file": "byzantine-warrior.webp",
+      "source": "xs/byzantine-warrior.webp",
+      "kind": "civ-soma-m",
+      "owner": "byzantine",
+      "offset": 717312,
+      "size": 17996
+    },
+    {
+      "file": "byzantine.webp",
+      "source": "wonders/byzantine.webp",
+      "kind": "wonder",
+      "owner": "byzantine",
+      "offset": 736256,
+      "size": 22742
+    },
+    {
+      "file": "caliphates-court-lady.webp",
+      "source": "xs/caliphates-court-lady.webp",
+      "kind": "civ-soma-f",
+      "owner": "caliphates",
+      "offset": 759808,
+      "size": 14544
+    },
+    {
+      "file": "caliphates-warrior.webp",
+      "source": "xs/caliphates-warrior.webp",
+      "kind": "civ-soma-m",
+      "owner": "caliphates",
+      "offset": 775168,
+      "size": 18766
+    },
+    {
+      "file": "caliphates.webp",
+      "source": "wonders/caliphates.webp",
+      "kind": "wonder",
+      "owner": "caliphates",
+      "offset": 794624,
+      "size": 21348
+    },
+    {
+      "file": "carthaginian-court-lady.webp",
+      "source": "xs/carthaginian-court-lady.webp",
+      "kind": "civ-soma-f",
+      "owner": "carthaginian",
+      "offset": 816640,
+      "size": 14984
+    },
+    {
+      "file": "carthaginian-warrior.webp",
+      "source": "xs/carthaginian-warrior.webp",
+      "kind": "civ-soma-m",
+      "owner": "carthaginian",
+      "offset": 832512,
+      "size": 16194
+    },
+    {
+      "file": "carthaginian.webp",
+      "source": "wonders/carthaginian.webp",
+      "kind": "wonder",
+      "owner": "carthaginian",
+      "offset": 849408,
+      "size": 31592
+    },
+    {
+      "file": "chola-court-lady.webp",
+      "source": "xs/chola-court-lady.webp",
+      "kind": "civ-soma-f",
+      "owner": "chola",
+      "offset": 881664,
+      "size": 15644
+    },
+    {
+      "file": "chola-warrior.webp",
+      "source": "xs/chola-warrior.webp",
+      "kind": "civ-soma-m",
+      "owner": "chola",
+      "offset": 898048,
+      "size": 16098
+    },
+    {
+      "file": "chola.webp",
+      "source": "wonders/chola.webp",
+      "kind": "wonder",
+      "owner": "chola",
+      "offset": 914944,
+      "size": 35640
+    },
+    {
+      "file": "dacian-court-lady.webp",
+      "source": "xs/dacian-court-lady.webp",
+      "kind": "civ-soma-f",
+      "owner": "dacian",
+      "offset": 951296,
+      "size": 18564
+    },
+    {
+      "file": "dacian-warrior.webp",
+      "source": "xs/dacian-warrior.webp",
+      "kind": "civ-soma-m",
+      "owner": "dacian",
+      "offset": 970752,
+      "size": 15788
+    },
+    {
+      "file": "dacian.webp",
+      "source": "wonders/dacian.webp",
+      "kind": "wonder",
+      "owner": "dacian",
+      "offset": 987136,
+      "size": 42502
+    },
+    {
+      "file": "delhi-court-lady.webp",
+      "source": "xs/delhi-court-lady.webp",
+      "kind": "civ-soma-f",
+      "owner": "delhi",
+      "offset": 1030656,
+      "size": 17098
+    },
+    {
+      "file": "delhi-warrior.webp",
+      "source": "xs/delhi-warrior.webp",
+      "kind": "civ-soma-m",
+      "owner": "delhi",
+      "offset": 1048576,
+      "size": 20014
+    },
+    {
+      "file": "delhi.webp",
+      "source": "wonders/delhi.webp",
+      "kind": "wonder",
+      "owner": "delhi",
+      "offset": 1069568,
+      "size": 15682
+    },
+    {
+      "file": "etruscan-court-lady.webp",
+      "source": "xs/etruscan-court-lady.webp",
+      "kind": "civ-soma-f",
+      "owner": "etruscan",
+      "offset": 1085952,
+      "size": 14850
+    },
+    {
+      "file": "etruscan-warrior.webp",
+      "source": "xs/etruscan-warrior.webp",
+      "kind": "civ-soma-m",
+      "owner": "etruscan",
+      "offset": 1101824,
+      "size": 15612
+    },
+    {
+      "file": "etruscan.webp",
+      "source": "wonders/etruscan.webp",
+      "kind": "wonder",
+      "owner": "etruscan",
+      "offset": 1118208,
+      "size": 22740
+    },
+    {
+      "file": "frankish-court-lady.webp",
+      "source": "xs/frankish-court-lady.webp",
+      "kind": "civ-soma-f",
+      "owner": "frankish",
+      "offset": 1141760,
+      "size": 15920
+    },
+    {
+      "file": "frankish-warrior.webp",
+      "source": "xs/frankish-warrior.webp",
+      "kind": "civ-soma-m",
+      "owner": "frankish",
+      "offset": 1158656,
+      "size": 21340
+    },
+    {
+      "file": "frankish.webp",
+      "source": "wonders/frankish.webp",
+      "kind": "wonder",
+      "owner": "frankish",
+      "offset": 1180672,
+      "size": 17172
+    },
+    {
+      "file": "gaul-court-lady.webp",
+      "source": "xs/gaul-court-lady.webp",
+      "kind": "civ-soma-f",
+      "owner": "gaul",
+      "offset": 1198592,
+      "size": 17582
+    },
+    {
+      "file": "gaul-warrior.webp",
+      "source": "xs/gaul-warrior.webp",
+      "kind": "civ-soma-m",
+      "owner": "gaul",
+      "offset": 1217024,
+      "size": 17394
+    },
+    {
+      "file": "gaul.webp",
+      "source": "wonders/gaul.webp",
+      "kind": "wonder",
+      "owner": "gaul",
+      "offset": 1234944,
+      "size": 28244
+    },
+    {
+      "file": "goryeo-court-lady.webp",
+      "source": "xs/goryeo-court-lady.webp",
+      "kind": "civ-soma-f",
+      "owner": "goryeo",
+      "offset": 1264128,
+      "size": 11934
+    },
+    {
+      "file": "goryeo-warrior.webp",
+      "source": "xs/goryeo-warrior.webp",
+      "kind": "civ-soma-m",
+      "owner": "goryeo",
+      "offset": 1276928,
+      "size": 24880
+    },
+    {
+      "file": "goryeo.webp",
+      "source": "wonders/goryeo.webp",
+      "kind": "wonder",
+      "owner": "goryeo",
+      "offset": 1302528,
+      "size": 15912
+    },
+    {
+      "file": "greek-court-lady.webp",
+      "source": "xs/greek-court-lady.webp",
+      "kind": "civ-soma-f",
+      "owner": "greek",
+      "offset": 1319424,
+      "size": 15122
+    },
+    {
+      "file": "greek-warrior.webp",
+      "source": "xs/greek-warrior.webp",
+      "kind": "civ-soma-m",
+      "owner": "greek",
+      "offset": 1335296,
+      "size": 14784
+    },
+    {
+      "file": "greek.webp",
+      "source": "wonders/greek.webp",
+      "kind": "wonder",
+      "owner": "greek",
+      "offset": 1350656,
+      "size": 24546
+    },
+    {
+      "file": "gupta-court-lady.webp",
+      "source": "xs/gupta-court-lady.webp",
+      "kind": "civ-soma-f",
+      "owner": "gupta",
+      "offset": 1375744,
+      "size": 20464
+    },
+    {
+      "file": "gupta-warrior.webp",
+      "source": "xs/gupta-warrior.webp",
+      "kind": "civ-soma-m",
+      "owner": "gupta",
+      "offset": 1396736,
+      "size": 21982
+    },
+    {
+      "file": "gupta.webp",
+      "source": "wonders/gupta.webp",
+      "kind": "wonder",
+      "owner": "gupta",
+      "offset": 1419264,
+      "size": 20782
+    },
+    {
+      "file": "han-court-lady.webp",
+      "source": "xs/han-court-lady.webp",
+      "kind": "civ-soma-f",
+      "owner": "han",
+      "offset": 1440768,
+      "size": 13498
+    },
+    {
+      "file": "han-warrior.webp",
+      "source": "xs/han-warrior.webp",
+      "kind": "civ-soma-m",
+      "owner": "han",
+      "offset": 1455104,
+      "size": 20742
+    },
+    {
+      "file": "han.webp",
+      "source": "wonders/han.webp",
+      "kind": "wonder",
+      "owner": "han",
+      "offset": 1476608,
+      "size": 18460
+    },
+    {
+      "file": "hittite-court-lady.webp",
+      "source": "xs/hittite-court-lady.webp",
+      "kind": "civ-soma-f",
+      "owner": "hittite",
+      "offset": 1496064,
+      "size": 13926
+    },
+    {
+      "file": "hittite-warrior.webp",
+      "source": "xs/hittite-warrior.webp",
+      "kind": "civ-soma-m",
+      "owner": "hittite",
+      "offset": 1510912,
+      "size": 19166
+    },
+    {
+      "file": "hittite.webp",
+      "source": "wonders/hittite.webp",
+      "kind": "wonder",
+      "owner": "hittite",
+      "offset": 1530880,
+      "size": 35278
+    },
+    {
+      "file": "hunnic-court-lady.webp",
+      "source": "xs/hunnic-court-lady.webp",
+      "kind": "civ-soma-f",
+      "owner": "hunnic",
+      "offset": 1566720,
+      "size": 15440
+    },
+    {
+      "file": "hunnic-warrior.webp",
+      "source": "xs/hunnic-warrior.webp",
+      "kind": "civ-soma-m",
+      "owner": "hunnic",
+      "offset": 1583104,
+      "size": 15592
+    },
+    {
+      "file": "inca-court-lady.webp",
+      "source": "xs/inca-court-lady.webp",
+      "kind": "civ-soma-f",
+      "owner": "inca",
+      "offset": 1599488,
+      "size": 15454
+    },
+    {
+      "file": "inca-warrior.webp",
+      "source": "xs/inca-warrior.webp",
+      "kind": "civ-soma-m",
+      "owner": "inca",
+      "offset": 1615872,
+      "size": 15032
+    },
+    {
+      "file": "inca.webp",
+      "source": "wonders/inca.webp",
+      "kind": "wonder",
+      "owner": "inca",
+      "offset": 1631744,
+      "size": 39478
+    },
+    {
+      "file": "judean-court-lady.webp",
+      "source": "xs/judean-court-lady.webp",
+      "kind": "civ-soma-f",
+      "owner": "judean",
+      "offset": 1672192,
+      "size": 13622
+    },
+    {
+      "file": "judean-warrior.webp",
+      "source": "xs/judean-warrior.webp",
+      "kind": "civ-soma-m",
+      "owner": "judean",
+      "offset": 1686528,
+      "size": 17646
+    },
+    {
+      "file": "judean.webp",
+      "source": "wonders/judean.webp",
+      "kind": "wonder",
+      "owner": "judean",
+      "offset": 1704960,
+      "size": 25024
+    },
+    {
+      "file": "khmer-court-lady.webp",
+      "source": "xs/khmer-court-lady.webp",
+      "kind": "civ-soma-f",
+      "owner": "khmer",
+      "offset": 1730560,
+      "size": 15180
+    },
+    {
+      "file": "khmer-warrior.webp",
+      "source": "xs/khmer-warrior.webp",
+      "kind": "civ-soma-m",
+      "owner": "khmer",
+      "offset": 1746432,
+      "size": 16888
+    },
+    {
+      "file": "khmer.webp",
+      "source": "wonders/khmer.webp",
+      "kind": "wonder",
+      "owner": "khmer",
+      "offset": 1763840,
+      "size": 32220
+    },
+    {
+      "file": "kushite-court-lady.webp",
+      "source": "xs/kushite-court-lady.webp",
+      "kind": "civ-soma-f",
+      "owner": "kushite",
+      "offset": 1796608,
+      "size": 18382
+    },
+    {
+      "file": "kushite-warrior.webp",
+      "source": "xs/kushite-warrior.webp",
+      "kind": "civ-soma-m",
+      "owner": "kushite",
+      "offset": 1815552,
+      "size": 20486
+    },
+    {
+      "file": "kushite.webp",
+      "source": "wonders/kushite.webp",
+      "kind": "wonder",
+      "owner": "kushite",
+      "offset": 1837056,
+      "size": 17350
+    },
+    {
+      "file": "macedonian-court-lady.webp",
+      "source": "xs/macedonian-court-lady.webp",
+      "kind": "civ-soma-f",
+      "owner": "macedonian",
+      "offset": 1854976,
+      "size": 14842
+    },
+    {
+      "file": "macedonian-warrior.webp",
+      "source": "xs/macedonian-warrior.webp",
+      "kind": "civ-soma-m",
+      "owner": "macedonian",
+      "offset": 1870336,
+      "size": 17784
+    },
+    {
+      "file": "macedonian.webp",
+      "source": "wonders/macedonian.webp",
+      "kind": "wonder",
+      "owner": "macedonian",
+      "offset": 1888768,
+      "size": 19936
+    },
+    {
+      "file": "majapahit-court-lady.webp",
+      "source": "xs/majapahit-court-lady.webp",
+      "kind": "civ-soma-f",
+      "owner": "majapahit",
+      "offset": 1909248,
+      "size": 15536
+    },
+    {
+      "file": "majapahit-warrior.webp",
+      "source": "xs/majapahit-warrior.webp",
+      "kind": "civ-soma-m",
+      "owner": "majapahit",
+      "offset": 1925632,
+      "size": 15144
+    },
+    {
+      "file": "majapahit.webp",
+      "source": "wonders/majapahit.webp",
+      "kind": "wonder",
+      "owner": "majapahit",
+      "offset": 1941504,
+      "size": 25796
+    },
+    {
+      "file": "malian-court-lady.webp",
+      "source": "xs/malian-court-lady.webp",
+      "kind": "civ-soma-f",
+      "owner": "malian",
+      "offset": 1968128,
+      "size": 14806
+    },
+    {
+      "file": "malian-warrior.webp",
+      "source": "xs/malian-warrior.webp",
+      "kind": "civ-soma-m",
+      "owner": "malian",
+      "offset": 1983488,
+      "size": 16276
+    },
+    {
+      "file": "malian.webp",
+      "source": "wonders/malian.webp",
+      "kind": "wonder",
+      "owner": "malian",
+      "offset": 2000384,
+      "size": 16694
+    },
+    {
+      "file": "mamluk-court-lady.webp",
+      "source": "xs/mamluk-court-lady.webp",
+      "kind": "civ-soma-f",
+      "owner": "mamluk",
+      "offset": 2017792,
+      "size": 13048
+    },
+    {
+      "file": "mamluk-warrior.webp",
+      "source": "xs/mamluk-warrior.webp",
+      "kind": "civ-soma-m",
+      "owner": "mamluk",
+      "offset": 2031616,
+      "size": 18800
+    },
+    {
+      "file": "mamluk.webp",
+      "source": "wonders/mamluk.webp",
+      "kind": "wonder",
+      "owner": "mamluk",
+      "offset": 2051072,
+      "size": 26674
+    },
+    {
+      "file": "mauryan-court-lady.webp",
+      "source": "xs/mauryan-court-lady.webp",
+      "kind": "civ-soma-f",
+      "owner": "mauryan",
+      "offset": 2078720,
+      "size": 19962
+    },
+    {
+      "file": "mauryan-warrior.webp",
+      "source": "xs/mauryan-warrior.webp",
+      "kind": "civ-soma-m",
+      "owner": "mauryan",
+      "offset": 2099200,
+      "size": 16590
+    },
+    {
+      "file": "mauryan.webp",
+      "source": "wonders/mauryan.webp",
+      "kind": "wonder",
+      "owner": "mauryan",
+      "offset": 2116608,
+      "size": 27758
+    },
+    {
+      "file": "maya-court-lady.webp",
+      "source": "xs/maya-court-lady.webp",
+      "kind": "civ-soma-f",
+      "owner": "maya",
+      "offset": 2145280,
+      "size": 15272
+    },
+    {
+      "file": "maya-warrior.webp",
+      "source": "xs/maya-warrior.webp",
+      "kind": "civ-soma-m",
+      "owner": "maya",
+      "offset": 2161152,
+      "size": 20184
+    },
+    {
+      "file": "maya.webp",
+      "source": "wonders/maya.webp",
+      "kind": "wonder",
+      "owner": "maya",
+      "offset": 2182144,
+      "size": 19940
+    },
+    {
+      "file": "memphite-court-lady.webp",
+      "source": "xs/memphite-court-lady.webp",
+      "kind": "civ-soma-f",
+      "owner": "memphite",
+      "offset": 2202624,
+      "size": 14684
+    },
+    {
+      "file": "memphite-warrior.webp",
+      "source": "xs/memphite-warrior.webp",
+      "kind": "civ-soma-m",
+      "owner": "memphite",
+      "offset": 2217984,
+      "size": 15204
+    },
+    {
+      "file": "memphite.webp",
+      "source": "wonders/memphite.webp",
+      "kind": "wonder",
+      "owner": "memphite",
+      "offset": 2233856,
+      "size": 8336
+    },
+    {
+      "file": "ming-court-lady.webp",
+      "source": "xs/ming-court-lady.webp",
+      "kind": "civ-soma-f",
+      "owner": "ming",
+      "offset": 2243072,
+      "size": 19542
+    },
+    {
+      "file": "ming-warrior.webp",
+      "source": "xs/ming-warrior.webp",
+      "kind": "civ-soma-m",
+      "owner": "ming",
+      "offset": 2263552,
+      "size": 21054
+    },
+    {
+      "file": "ming.webp",
+      "source": "wonders/ming.webp",
+      "kind": "wonder",
+      "owner": "ming",
+      "offset": 2285568,
+      "size": 33478
+    },
+    {
+      "file": "mongol-court-lady.webp",
+      "source": "xs/mongol-court-lady.webp",
+      "kind": "civ-soma-f",
+      "owner": "mongol",
+      "offset": 2319872,
+      "size": 17512
+    },
+    {
+      "file": "mongol-warrior.webp",
+      "source": "xs/mongol-warrior.webp",
+      "kind": "civ-soma-m",
+      "owner": "mongol",
+      "offset": 2338304,
+      "size": 22280
+    },
+    {
+      "file": "mongol.webp",
+      "source": "wonders/mongol.webp",
+      "kind": "wonder",
+      "owner": "mongol",
+      "offset": 2361344,
+      "size": 27304
+    },
+    {
+      "file": "mughal-court-lady.webp",
+      "source": "xs/mughal-court-lady.webp",
+      "kind": "civ-soma-f",
+      "owner": "mughal",
+      "offset": 2389504,
+      "size": 15688
+    },
+    {
+      "file": "mughal-warrior.webp",
+      "source": "xs/mughal-warrior.webp",
+      "kind": "civ-soma-m",
+      "owner": "mughal",
+      "offset": 2405888,
+      "size": 17918
+    },
+    {
+      "file": "mughal.webp",
+      "source": "wonders/mughal.webp",
+      "kind": "wonder",
+      "owner": "mughal",
+      "offset": 2424320,
+      "size": 26536
+    },
+    {
+      "file": "norman-court-lady.webp",
+      "source": "xs/norman-court-lady.webp",
+      "kind": "civ-soma-f",
+      "owner": "norman",
+      "offset": 2451456,
+      "size": 16958
+    },
+    {
+      "file": "norman-warrior.webp",
+      "source": "xs/norman-warrior.webp",
+      "kind": "civ-soma-m",
+      "owner": "norman",
+      "offset": 2469376,
+      "size": 18618
+    },
+    {
+      "file": "norman.webp",
+      "source": "wonders/norman.webp",
+      "kind": "wonder",
+      "owner": "norman",
+      "offset": 2488832,
+      "size": 104640
+    },
+    {
+      "file": "ottoman-court-lady.webp",
+      "source": "xs/ottoman-court-lady.webp",
+      "kind": "civ-soma-f",
+      "owner": "ottoman",
+      "offset": 2594304,
+      "size": 13838
+    },
+    {
+      "file": "ottoman-warrior.webp",
+      "source": "xs/ottoman-warrior.webp",
+      "kind": "civ-soma-m",
+      "owner": "ottoman",
+      "offset": 2609152,
+      "size": 15876
+    },
+    {
+      "file": "ottoman.webp",
+      "source": "wonders/ottoman.webp",
+      "kind": "wonder",
+      "owner": "ottoman",
+      "offset": 2626048,
+      "size": 34694
+    },
+    {
+      "file": "parthian-court-lady.webp",
+      "source": "xs/parthian-court-lady.webp",
+      "kind": "civ-soma-f",
+      "owner": "parthian",
+      "offset": 2661376,
+      "size": 17494
+    },
+    {
+      "file": "parthian-warrior.webp",
+      "source": "xs/parthian-warrior.webp",
+      "kind": "civ-soma-m",
+      "owner": "parthian",
+      "offset": 2679808,
+      "size": 19176
+    },
+    {
+      "file": "parthian.webp",
+      "source": "wonders/parthian.webp",
+      "kind": "wonder",
+      "owner": "parthian",
+      "offset": 2699776,
+      "size": 27918
+    },
+    {
+      "file": "phoenician-court-lady.webp",
+      "source": "xs/phoenician-court-lady.webp",
+      "kind": "civ-soma-f",
+      "owner": "phoenician",
+      "offset": 2728448,
+      "size": 16048
+    },
+    {
+      "file": "phoenician-warrior.webp",
+      "source": "xs/phoenician-warrior.webp",
+      "kind": "civ-soma-m",
+      "owner": "phoenician",
+      "offset": 2745344,
+      "size": 15438
+    },
+    {
+      "file": "phoenician.webp",
+      "source": "wonders/phoenician.webp",
+      "kind": "wonder",
+      "owner": "phoenician",
+      "offset": 2761728,
+      "size": 28992
+    },
+    {
+      "file": "phrygian-court-lady.webp",
+      "source": "xs/phrygian-court-lady.webp",
+      "kind": "civ-soma-f",
+      "owner": "phrygian",
+      "offset": 2791424,
+      "size": 14132
+    },
+    {
+      "file": "phrygian-warrior.webp",
+      "source": "xs/phrygian-warrior.webp",
+      "kind": "civ-soma-m",
+      "owner": "phrygian",
+      "offset": 2806272,
+      "size": 16616
+    },
+    {
+      "file": "phrygian.webp",
+      "source": "wonders/phrygian.webp",
+      "kind": "wonder",
+      "owner": "phrygian",
+      "offset": 2823680,
+      "size": 20838
+    },
+    {
+      "file": "ptolemaic-court-lady.webp",
+      "source": "xs/ptolemaic-court-lady.webp",
+      "kind": "civ-soma-f",
+      "owner": "ptolemaic",
+      "offset": 2845184,
+      "size": 14464
+    },
+    {
+      "file": "ptolemaic-warrior.webp",
+      "source": "xs/ptolemaic-warrior.webp",
+      "kind": "civ-soma-m",
+      "owner": "ptolemaic",
+      "offset": 2860544,
+      "size": 17124
+    },
+    {
+      "file": "ptolemaic.webp",
+      "source": "wonders/ptolemaic.webp",
+      "kind": "wonder",
+      "owner": "ptolemaic",
+      "offset": 2878464,
+      "size": 17292
+    },
+    {
+      "file": "qin-court-lady.webp",
+      "source": "xs/qin-court-lady.webp",
+      "kind": "civ-soma-f",
+      "owner": "qin",
+      "offset": 2896384,
+      "size": 15350
+    },
+    {
+      "file": "qin-warrior.webp",
+      "source": "xs/qin-warrior.webp",
+      "kind": "civ-soma-m",
+      "owner": "qin",
+      "offset": 2912256,
+      "size": 14768
+    },
+    {
+      "file": "qin.webp",
+      "source": "wonders/qin.webp",
+      "kind": "wonder",
+      "owner": "qin",
+      "offset": 2927616,
+      "size": 40186
+    },
+    {
+      "file": "qing-court-lady.webp",
+      "source": "xs/qing-court-lady.webp",
+      "kind": "civ-soma-f",
+      "owner": "qing",
+      "offset": 2968576,
+      "size": 16376
+    },
+    {
+      "file": "qing-warrior.webp",
+      "source": "xs/qing-warrior.webp",
+      "kind": "civ-soma-m",
+      "owner": "qing",
+      "offset": 2985472,
+      "size": 18304
+    },
+    {
+      "file": "qing.webp",
+      "source": "wonders/qing.webp",
+      "kind": "wonder",
+      "owner": "qing",
+      "offset": 3004416,
+      "size": 30776
+    },
+    {
+      "file": "roman-court-lady.webp",
+      "source": "xs/roman-court-lady.webp",
+      "kind": "civ-soma-f",
+      "owner": "roman",
+      "offset": 3036160,
+      "size": 15962
+    },
+    {
+      "file": "roman-warrior.webp",
+      "source": "xs/roman-warrior.webp",
+      "kind": "civ-soma-m",
+      "owner": "roman",
+      "offset": 3053056,
+      "size": 18462
+    },
+    {
+      "file": "roman.webp",
+      "source": "wonders/roman.webp",
+      "kind": "wonder",
+      "owner": "roman",
+      "offset": 3072512,
+      "size": 37276
+    },
+    {
+      "file": "rus-court-lady.webp",
+      "source": "xs/rus-court-lady.webp",
+      "kind": "civ-soma-f",
+      "owner": "rus",
+      "offset": 3110400,
+      "size": 16132
+    },
+    {
+      "file": "rus-warrior.webp",
+      "source": "xs/rus-warrior.webp",
+      "kind": "civ-soma-m",
+      "owner": "rus",
+      "offset": 3127296,
+      "size": 21108
+    },
+    {
+      "file": "rus.webp",
+      "source": "wonders/rus.webp",
+      "kind": "wonder",
+      "owner": "rus",
+      "offset": 3149312,
+      "size": 22882
+    },
+    {
+      "file": "sasanian-court-lady.webp",
+      "source": "xs/sasanian-court-lady.webp",
+      "kind": "civ-soma-f",
+      "owner": "sasanian",
+      "offset": 3172864,
+      "size": 18780
+    },
+    {
+      "file": "sasanian-warrior.webp",
+      "source": "xs/sasanian-warrior.webp",
+      "kind": "civ-soma-m",
+      "owner": "sasanian",
+      "offset": 3192320,
+      "size": 17686
+    },
+    {
+      "file": "sasanian.webp",
+      "source": "wonders/sasanian.webp",
+      "kind": "wonder",
+      "owner": "sasanian",
+      "offset": 3210752,
+      "size": 23944
+    },
+    {
+      "file": "scythian-court-lady.webp",
+      "source": "xs/scythian-court-lady.webp",
+      "kind": "civ-soma-f",
+      "owner": "scythian",
+      "offset": 3235328,
+      "size": 18580
+    },
+    {
+      "file": "scythian-warrior.webp",
+      "source": "xs/scythian-warrior.webp",
+      "kind": "civ-soma-m",
+      "owner": "scythian",
+      "offset": 3254784,
+      "size": 13992
+    },
+    {
+      "file": "scythian.webp",
+      "source": "wonders/scythian.webp",
+      "kind": "wonder",
+      "owner": "scythian",
+      "offset": 3269632,
+      "size": 15330
+    },
+    {
+      "file": "seleucid-court-lady.webp",
+      "source": "xs/seleucid-court-lady.webp",
+      "kind": "civ-soma-f",
+      "owner": "seleucid",
+      "offset": 3285504,
+      "size": 19144
+    },
+    {
+      "file": "seleucid-warrior.webp",
+      "source": "xs/seleucid-warrior.webp",
+      "kind": "civ-soma-m",
+      "owner": "seleucid",
+      "offset": 3305472,
+      "size": 17976
+    },
+    {
+      "file": "seleucid.webp",
+      "source": "wonders/seleucid.webp",
+      "kind": "wonder",
+      "owner": "seleucid",
+      "offset": 3324416,
+      "size": 23096
+    },
+    {
+      "file": "seljuk-court-lady.webp",
+      "source": "xs/seljuk-court-lady.webp",
+      "kind": "civ-soma-f",
+      "owner": "seljuk",
+      "offset": 3348480,
+      "size": 15930
+    },
+    {
+      "file": "seljuk-warrior.webp",
+      "source": "xs/seljuk-warrior.webp",
+      "kind": "civ-soma-m",
+      "owner": "seljuk",
+      "offset": 3365376,
+      "size": 18120
+    },
+    {
+      "file": "seljuk.webp",
+      "source": "wonders/seljuk.webp",
+      "kind": "wonder",
+      "owner": "seljuk",
+      "offset": 3384320,
+      "size": 60088
+    },
+    {
+      "file": "shang-court-lady.webp",
+      "source": "xs/shang-court-lady.webp",
+      "kind": "civ-soma-f",
+      "owner": "shang",
+      "offset": 3445248,
+      "size": 12806
+    },
+    {
+      "file": "shang-warrior.webp",
+      "source": "xs/shang-warrior.webp",
+      "kind": "civ-soma-m",
+      "owner": "shang",
+      "offset": 3459072,
+      "size": 16904
+    },
+    {
+      "file": "shang.webp",
+      "source": "wonders/shang.webp",
+      "kind": "wonder",
+      "owner": "shang",
+      "offset": 3476992,
+      "size": 29488
+    },
+    {
+      "file": "siam-court-lady.webp",
+      "source": "xs/siam-court-lady.webp",
+      "kind": "civ-soma-f",
+      "owner": "siam",
+      "offset": 3507200,
+      "size": 17518
+    },
+    {
+      "file": "siam-warrior.webp",
+      "source": "xs/siam-warrior.webp",
+      "kind": "civ-soma-m",
+      "owner": "siam",
+      "offset": 3525632,
+      "size": 16574
+    },
+    {
+      "file": "siam.webp",
+      "source": "wonders/siam.webp",
+      "kind": "wonder",
+      "owner": "siam",
+      "offset": 3543040,
+      "size": 38402
+    },
+    {
+      "file": "sinhalese-court-lady.webp",
+      "source": "xs/sinhalese-court-lady.webp",
+      "kind": "civ-soma-f",
+      "owner": "sinhalese",
+      "offset": 3582464,
+      "size": 18322
+    },
+    {
+      "file": "sinhalese-warrior.webp",
+      "source": "xs/sinhalese-warrior.webp",
+      "kind": "civ-soma-m",
+      "owner": "sinhalese",
+      "offset": 3601408,
+      "size": 16286
+    },
+    {
+      "file": "sinhalese.webp",
+      "source": "wonders/sinhalese.webp",
+      "kind": "wonder",
+      "owner": "sinhalese",
+      "offset": 3618304,
+      "size": 23172
+    },
+    {
+      "file": "solomonic-court-lady.webp",
+      "source": "xs/solomonic-court-lady.webp",
+      "kind": "civ-soma-f",
+      "owner": "solomonic",
+      "offset": 3642368,
+      "size": 12972
+    },
+    {
+      "file": "solomonic-warrior.webp",
+      "source": "xs/solomonic-warrior.webp",
+      "kind": "civ-soma-m",
+      "owner": "solomonic",
+      "offset": 3656192,
+      "size": 19472
+    },
+    {
+      "file": "solomonic.webp",
+      "source": "wonders/solomonic.webp",
+      "kind": "wonder",
+      "owner": "solomonic",
+      "offset": 3676672,
+      "size": 24012
+    },
+    {
+      "file": "spartan-court-lady.webp",
+      "source": "xs/spartan-court-lady.webp",
+      "kind": "civ-soma-f",
+      "owner": "spartan",
+      "offset": 3701248,
+      "size": 17742
+    },
+    {
+      "file": "spartan-warrior.webp",
+      "source": "xs/spartan-warrior.webp",
+      "kind": "civ-soma-m",
+      "owner": "spartan",
+      "offset": 3719680,
+      "size": 20530
+    },
+    {
+      "file": "spartan.webp",
+      "source": "wonders/spartan.webp",
+      "kind": "wonder",
+      "owner": "spartan",
+      "offset": 3741184,
+      "size": 18776
+    },
+    {
+      "file": "srivijaya-court-lady.webp",
+      "source": "xs/srivijaya-court-lady.webp",
+      "kind": "civ-soma-f",
+      "owner": "srivijaya",
+      "offset": 3760640,
+      "size": 11944
+    },
+    {
+      "file": "srivijaya-warrior.webp",
+      "source": "xs/srivijaya-warrior.webp",
+      "kind": "civ-soma-m",
+      "owner": "srivijaya",
+      "offset": 3773440,
+      "size": 18348
+    },
+    {
+      "file": "srivijaya.webp",
+      "source": "wonders/srivijaya.webp",
+      "kind": "wonder",
+      "owner": "srivijaya",
+      "offset": 3792384,
+      "size": 37014
+    },
+    {
+      "file": "sumerian-court-lady.webp",
+      "source": "xs/sumerian-court-lady.webp",
+      "kind": "civ-soma-f",
+      "owner": "sumerian",
+      "offset": 3830272,
+      "size": 23078
+    },
+    {
+      "file": "sumerian-warrior.webp",
+      "source": "xs/sumerian-warrior.webp",
+      "kind": "civ-soma-m",
+      "owner": "sumerian",
+      "offset": 3854336,
+      "size": 17450
+    },
+    {
+      "file": "sumerian.webp",
+      "source": "wonders/sumerian.webp",
+      "kind": "wonder",
+      "owner": "sumerian",
+      "offset": 3872768,
+      "size": 19052
+    },
+    {
+      "file": "tang-court-lady.webp",
+      "source": "xs/tang-court-lady.webp",
+      "kind": "civ-soma-f",
+      "owner": "tang",
+      "offset": 3892736,
+      "size": 14426
+    },
+    {
+      "file": "tang-warrior.webp",
+      "source": "xs/tang-warrior.webp",
+      "kind": "civ-soma-m",
+      "owner": "tang",
+      "offset": 3908096,
+      "size": 18884
+    },
+    {
+      "file": "tang.webp",
+      "source": "wonders/tang.webp",
+      "kind": "wonder",
+      "owner": "tang",
+      "offset": 3927552,
+      "size": 21124
+    },
+    {
+      "file": "theban-court-lady.webp",
+      "source": "xs/theban-court-lady.webp",
+      "kind": "civ-soma-f",
+      "owner": "theban",
+      "offset": 3949568,
+      "size": 15704
+    },
+    {
+      "file": "theban-warrior.webp",
+      "source": "xs/theban-warrior.webp",
+      "kind": "civ-soma-m",
+      "owner": "theban",
+      "offset": 3965952,
+      "size": 19212
+    },
+    {
+      "file": "theban.webp",
+      "source": "wonders/theban.webp",
+      "kind": "wonder",
+      "owner": "theban",
+      "offset": 3985920,
+      "size": 33400
+    },
+    {
+      "file": "thracian-court-lady.webp",
+      "source": "xs/thracian-court-lady.webp",
+      "kind": "civ-soma-f",
+      "owner": "thracian",
+      "offset": 4020224,
+      "size": 15976
+    },
+    {
+      "file": "thracian-warrior.webp",
+      "source": "xs/thracian-warrior.webp",
+      "kind": "civ-soma-m",
+      "owner": "thracian",
+      "offset": 4037120,
+      "size": 16148
+    },
+    {
+      "file": "thracian.webp",
+      "source": "wonders/thracian.webp",
+      "kind": "wonder",
+      "owner": "thracian",
+      "offset": 4054016,
+      "size": 12336
+    },
+    {
+      "file": "timurid-court-lady.webp",
+      "source": "xs/timurid-court-lady.webp",
+      "kind": "civ-soma-f",
+      "owner": "timurid",
+      "offset": 4067328,
+      "size": 19076
+    },
+    {
+      "file": "timurid-warrior.webp",
+      "source": "xs/timurid-warrior.webp",
+      "kind": "civ-soma-m",
+      "owner": "timurid",
+      "offset": 4087296,
+      "size": 18420
+    },
+    {
+      "file": "timurid.webp",
+      "source": "wonders/timurid.webp",
+      "kind": "wonder",
+      "owner": "timurid",
+      "offset": 4106240,
+      "size": 27136
+    },
+    {
+      "file": "vietnamese-court-lady.webp",
+      "source": "xs/vietnamese-court-lady.webp",
+      "kind": "civ-soma-f",
+      "owner": "vietnamese",
+      "offset": 4133888,
+      "size": 12858
+    },
+    {
+      "file": "vietnamese-warrior.webp",
+      "source": "xs/vietnamese-warrior.webp",
+      "kind": "civ-soma-m",
+      "owner": "vietnamese",
+      "offset": 4147712,
+      "size": 22404
+    },
+    {
+      "file": "vietnamese.webp",
+      "source": "wonders/vietnamese.webp",
+      "kind": "wonder",
+      "owner": "vietnamese",
+      "offset": 4170752,
+      "size": 28678
+    },
+    {
+      "file": "viking-court-lady.webp",
+      "source": "xs/viking-court-lady.webp",
+      "kind": "civ-soma-f",
+      "owner": "viking",
+      "offset": 4200448,
+      "size": 14596
+    },
+    {
+      "file": "viking-warrior.webp",
+      "source": "xs/viking-warrior.webp",
+      "kind": "civ-soma-m",
+      "owner": "viking",
+      "offset": 4215808,
+      "size": 16688
+    },
+    {
+      "file": "viking.webp",
+      "source": "wonders/viking.webp",
+      "kind": "wonder",
+      "owner": "viking",
+      "offset": 4233216,
+      "size": 16982
+    },
+    {
+      "file": "visigoth-court-lady.webp",
+      "source": "xs/visigoth-court-lady.webp",
+      "kind": "civ-soma-f",
+      "owner": "visigoth",
+      "offset": 4251136,
+      "size": 14002
+    },
+    {
+      "file": "visigoth-warrior.webp",
+      "source": "xs/visigoth-warrior.webp",
+      "kind": "civ-soma-m",
+      "owner": "visigoth",
+      "offset": 4265984,
+      "size": 18398
+    },
+    {
+      "file": "visigoth.webp",
+      "source": "wonders/visigoth.webp",
+      "kind": "wonder",
+      "owner": "visigoth",
+      "offset": 4284928,
+      "size": 14226
+    },
+    {
+      "file": "xiongnu-court-lady.webp",
+      "source": "xs/xiongnu-court-lady.webp",
+      "kind": "civ-soma-f",
+      "owner": "xiongnu",
+      "offset": 4299776,
+      "size": 15040
+    },
+    {
+      "file": "xiongnu-warrior.webp",
+      "source": "xs/xiongnu-warrior.webp",
+      "kind": "civ-soma-m",
+      "owner": "xiongnu",
+      "offset": 4315648,
+      "size": 15404
+    },
+    {
+      "file": "xiongnu.webp",
+      "source": "wonders/xiongnu.webp",
+      "kind": "wonder",
+      "owner": "xiongnu",
+      "offset": 4332032,
+      "size": 24926
+    },
+    {
+      "file": "yamato-court-lady.webp",
+      "source": "xs/yamato-court-lady.webp",
+      "kind": "civ-soma-f",
+      "owner": "yamato",
+      "offset": 4357632,
+      "size": 13746
+    },
+    {
+      "file": "yamato-warrior.webp",
+      "source": "xs/yamato-warrior.webp",
+      "kind": "civ-soma-m",
+      "owner": "yamato",
+      "offset": 4371968,
+      "size": 23116
+    },
+    {
+      "file": "yamato.webp",
+      "source": "wonders/yamato.webp",
+      "kind": "wonder",
+      "owner": "yamato",
+      "offset": 4396032,
+      "size": 45798
+    },
+    {
+      "file": "zhou-court-lady.webp",
+      "source": "xs/zhou-court-lady.webp",
+      "kind": "civ-soma-f",
+      "owner": "zhou",
+      "offset": 4442624,
+      "size": 13250
+    },
+    {
+      "file": "zhou-warrior.webp",
+      "source": "xs/zhou-warrior.webp",
+      "kind": "civ-soma-m",
+      "owner": "zhou",
+      "offset": 4456448,
+      "size": 17166
+    },
+    {
+      "file": "zhou.webp",
+      "source": "wonders/zhou.webp",
+      "kind": "wonder",
+      "owner": "zhou",
+      "offset": 4474368,
+      "size": 27846
+    },
+    {
+      "file": "zulu-court-lady.webp",
+      "source": "xs/zulu-court-lady.webp",
+      "kind": "civ-soma-f",
+      "owner": "zulu",
+      "offset": 4503040,
+      "size": 13160
+    },
+    {
+      "file": "zulu-warrior.webp",
+      "source": "xs/zulu-warrior.webp",
+      "kind": "civ-soma-m",
+      "owner": "zulu",
+      "offset": 4516864,
+      "size": 19190
+    }
+  ]
+}

@@ -1,0 +1,125 @@
+{
+  "name": "somas",
+  "world": "writers",
+  "url": "https://cdn.jsdelivr.net/gh/fjovakaric/somice@main/assets/writers-somas.420f272a.tar",
+  "map": "https://cdn.jsdelivr.net/gh/fjovakaric/somice@main/assets/writers-somas.420f272a.json",
+  "entries": 14,
+  "bytes": 265216,
+  "await": "never",
+  "hash": "420f272a",
+  "builtAt": "2026-09-15",
+  "files": [
+    {
+      "file": "al-farabi.webp",
+      "source": "xs/al-farabi.webp",
+      "kind": "soma-384",
+      "owner": "al-farabi",
+      "offset": 512,
+      "size": 14900
+    },
+    {
+      "file": "alexander-pushkin.webp",
+      "source": "xs/alexander-pushkin.webp",
+      "kind": "soma-384",
+      "owner": "alexander-pushkin",
+      "offset": 16384,
+      "size": 16554
+    },
+    {
+      "file": "avicenna.webp",
+      "source": "xs/avicenna.webp",
+      "kind": "soma-384",
+      "owner": "avicenna",
+      "offset": 33792,
+      "size": 17016
+    },
+    {
+      "file": "christine-de-pizan.webp",
+      "source": "xs/christine-de-pizan.webp",
+      "kind": "soma-384",
+      "owner": "christine-de-pizan",
+      "offset": 51712,
+      "size": 16050
+    },
+    {
+      "file": "ferdowsi.webp",
+      "source": "xs/ferdowsi.webp",
+      "kind": "soma-384",
+      "owner": "ferdowsi",
+      "offset": 68608,
+      "size": 23046
+    },
+    {
+      "file": "geoffrey-chaucer.webp",
+      "source": "xs/geoffrey-chaucer.webp",
+      "kind": "soma-384",
+      "owner": "geoffrey-chaucer",
+      "offset": 92672,
+      "size": 15262
+    },
+    {
+      "file": "herodotus.webp",
+      "source": "xs/herodotus.webp",
+      "kind": "soma-384",
+      "owner": "herodotus",
+      "offset": 108544,
+      "size": 20938
+    },
+    {
+      "file": "hypatia.webp",
+      "source": "xs/hypatia.webp",
+      "kind": "soma-384",
+      "owner": "hypatia",
+      "offset": 130048,
+      "size": 15232
+    },
+    {
+      "file": "ingmar-bergman.webp",
+      "source": "xs/ingmar-bergman.webp",
+      "kind": "soma-384",
+      "owner": "ingmar-bergman",
+      "offset": 145920,
+      "size": 17592
+    },
+    {
+      "file": "marcus-aurelius.webp",
+      "source": "xs/marcus-aurelius.webp",
+      "kind": "soma-384",
+      "owner": "marcus-aurelius",
+      "offset": 164352,
+      "size": 15620
+    },
+    {
+      "file": "orhan-pamuk.webp",
+      "source": "xs/orhan-pamuk.webp",
+      "kind": "soma-384",
+      "owner": "orhan-pamuk",
+      "offset": 180736,
+      "size": 19328
+    },
+    {
+      "file": "plutarch.webp",
+      "source": "xs/plutarch.webp",
+      "kind": "soma-384",
+      "owner": "plutarch",
+      "offset": 200704,
+      "size": 20828
+    },
+    {
+      "file": "solon.webp",
+      "source": "xs/solon.webp",
+      "kind": "soma-384",
+      "owner": "solon",
+      "offset": 222208,
+      "size": 20442
+    },
+    {
+      "file": "william-blake.webp",
+      "source": "xs/william-blake.webp",
+      "kind": "soma-384",
+      "owner": "william-blake",
+      "offset": 243200,
+      "size": 20600
+    }
+  ]
+}

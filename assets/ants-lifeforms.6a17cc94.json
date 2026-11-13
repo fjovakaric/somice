@@ -1,0 +1,189 @@
+{
+  "name": "lifeforms",
+  "world": "ants",
+  "url": "https://cdn.jsdelivr.net/gh/fjovakaric/somice@main/assets/ants-lifeforms.6a17cc94.tar",
+  "map": "https://cdn.jsdelivr.net/gh/fjovakaric/somice@main/assets/ants-lifeforms.6a17cc94.json",
+  "entries": 22,
+  "bytes": 613376,
+  "await": "never",
+  "hash": "6a17cc94",
+  "builtAt": "2026-09-15",
+  "files": [
+    {
+      "file": "ant-from-mars-body.webp",
+      "source": "lifeforms/ants/xs/ant-from-mars-body.webp",
+      "kind": "lifeform-body",
+      "owner": "488",
+      "offset": 512,
+      "size": 47902
+    },
+    {
+      "file": "ant-from-mars-head.webp",
+      "source": "lifeforms/ants/xs/ant-from-mars-head.webp",
+      "kind": "lifeform-head",
+      "owner": "488",
+      "offset": 49152,
+      "size": 11220
+    },
+    {
+      "file": "army-ant-body.webp",
+      "source": "lifeforms/ants/xs/army-ant-body.webp",
+      "kind": "lifeform-body",
+      "owner": "479",
+      "offset": 60928,
+      "size": 44654
+    },
+    {
+      "file": "army-ant-head.webp",
+      "source": "lifeforms/ants/xs/army-ant-head.webp",
+      "kind": "lifeform-head",
+      "owner": "479",
+      "offset": 106496,
+      "size": 10478
+    },
+    {
+      "file": "bullet-ant-body.webp",
+      "source": "lifeforms/ants/xs/bullet-ant-body.webp",
+      "kind": "lifeform-body",
+      "owner": "477",
+      "offset": 117760,
+      "size": 40872
+    },
+    {
+      "file": "bullet-ant-head.webp",
+      "source": "lifeforms/ants/xs/bullet-ant-head.webp",
+      "kind": "lifeform-head",
+      "owner": "477",
+      "offset": 159232,
+      "size": 9098
+    },
+    {
+      "file": "default-ant-body.webp",
+      "source": "lifeforms/ants/xs/default-ant-body.webp",
+      "kind": "archetype-body",
+      "owner": "ants",
+      "offset": 168960,
+      "size": 43578
+    },
+    {
+      "file": "default-ant-head.webp",
+      "source": "lifeforms/ants/xs/default-ant-head.webp",
+      "kind": "archetype-head",
+      "owner": "ants",
+      "offset": 213504,
+      "size": 9350
+    },
+    {
+      "file": "honeypot-ant-body.webp",
+      "source": "lifeforms/ants/xs/honeypot-ant-body.webp",
+      "kind": "lifeform-body",
+      "owner": "484",
+      "offset": 223744,
+      "size": 43068
+    },
+    {
+      "file": "honeypot-ant-head.webp",
+      "source": "lifeforms/ants/xs/honeypot-ant-head.webp",
+      "kind": "lifeform-head",
+      "owner": "484",
+      "offset": 267776,
+      "size": 8172
+    },
+    {
+      "file": "leafcutter-ant-body.webp",
+      "source": "lifeforms/ants/xs/leafcutter-ant-body.webp",
+      "kind": "lifeform-body",
+      "owner": "478",
+      "offset": 276480,
+      "size": 45340
+    },
+    {
+      "file": "leafcutter-ant-head.webp",
+      "source": "lifeforms/ants/xs/leafcutter-ant-head.webp",
+      "kind": "lifeform-head",
+      "owner": "478",
+      "offset": 322560,
+      "size": 11386
+    },
+    {
+      "file": "marauder-ant-body.webp",
+      "source": "lifeforms/ants/xs/marauder-ant-body.webp",
+      "kind": "lifeform-body",
+      "owner": "491",
+      "offset": 334848,
+      "size": 42996
+    },
+    {
+      "file": "marauder-ant-head.webp",
+      "source": "lifeforms/ants/xs/marauder-ant-head.webp",
+      "kind": "lifeform-head",
+      "owner": "491",
+      "offset": 378368,
+      "size": 10960
+    },
+    {
+      "file": "sahara-silver-ant-body.webp",
+      "source": "lifeforms/ants/xs/sahara-silver-ant-body.webp",
+      "kind": "lifeform-body",
+      "owner": "493",
+      "offset": 390144,
+      "size": 42082
+    },
+    {
+      "file": "sahara-silver-ant-head.webp",
+      "source": "lifeforms/ants/xs/sahara-silver-ant-head.webp",
+      "kind": "lifeform-head",
+      "owner": "493",
+      "offset": 433152,
+      "size": 10474
+    },
+    {
+      "file": "trap-jaw-ant-body.webp",
+      "source": "lifeforms/ants/xs/trap-jaw-ant-body.webp",
+      "kind": "lifeform-body",
+      "owner": "483",
+      "offset": 444416,
+      "size": 47288
+    },
+    {
+      "file": "trap-jaw-ant-head.webp",
+      "source": "lifeforms/ants/xs/trap-jaw-ant-head.webp",
+      "kind": "lifeform-head",
+      "owner": "483",
+      "offset": 492544,
+      "size": 11876
+    },
+    {
+      "file": "turtle-ant-body.webp",
+      "source": "lifeforms/ants/xs/turtle-ant-body.webp",
+      "kind": "lifeform-body",
+      "owner": "492",
+      "offset": 505344,
+      "size": 37950
+    },
+    {
+      "file": "turtle-ant-head.webp",
+      "source": "lifeforms/ants/xs/turtle-ant-head.webp",
+      "kind": "lifeform-head",
+      "owner": "492",
+      "offset": 544256,
+      "size": 9378
+    },
+    {
+      "file": "weaver-ant-body.webp",
+      "source": "lifeforms/ants/xs/weaver-ant-body.webp",
+      "kind": "lifeform-body",
+      "owner": "481",
+      "offset": 554496,
+      "size": 45348
+    },
+    {
+      "file": "weaver-ant-head.webp",
+      "source": "lifeforms/ants/xs/weaver-ant-head.webp",
+      "kind": "lifeform-head",
+      "owner": "481",
+      "offset": 600576,
+      "size": 11648
+    }
+  ]
+}

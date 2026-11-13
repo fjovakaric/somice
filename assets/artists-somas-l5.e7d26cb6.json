@@ -1,0 +1,301 @@
+{
+  "name": "somas-l5",
+  "world": "artists",
+  "url": "https://cdn.jsdelivr.net/gh/fjovakaric/somice@main/assets/artists-somas-l5.e7d26cb6.tar",
+  "map": "https://cdn.jsdelivr.net/gh/fjovakaric/somice@main/assets/artists-somas-l5.e7d26cb6.json",
+  "entries": 36,
+  "bytes": 595968,
+  "await": "reveal",
+  "hash": "e7d26cb6",
+  "builtAt": "2026-09-15",
+  "files": [
+    {
+      "file": "albrecht-durer.webp",
+      "source": "xs/albrecht-durer.webp",
+      "kind": "soma-384-l5",
+      "owner": "albrecht-durer",
+      "offset": 512,
+      "size": 15288
+    },
+    {
+      "file": "andy-warhol.webp",
+      "source": "xs/andy-warhol.webp",
+      "kind": "soma-384-l5",
+      "owner": "andy-warhol",
+      "offset": 16384,
+      "size": 17128
+    },
+    {
+      "file": "artemisia-gentileschi.webp",
+      "source": "xs/artemisia-gentileschi.webp",
+      "kind": "soma-384-l5",
+      "owner": "artemisia-gentileschi",
+      "offset": 34304,
+      "size": 19524
+    },
+    {
+      "file": "banksy.webp",
+      "source": "xs/banksy.webp",
+      "kind": "soma-384-l5",
+      "owner": "banksy",
+      "offset": 54784,
+      "size": 14134
+    },
+    {
+      "file": "caravaggio.webp",
+      "source": "xs/caravaggio.webp",
+      "kind": "soma-384-l5",
+      "owner": "caravaggio",
+      "offset": 69632,
+      "size": 15218
+    },
+    {
+      "file": "cindy-sherman.webp",
+      "source": "xs/cindy-sherman.webp",
+      "kind": "soma-384-l5",
+      "owner": "cindy-sherman",
+      "offset": 85504,
+      "size": 15474
+    },
+    {
+      "file": "claude-monet.webp",
+      "source": "xs/claude-monet.webp",
+      "kind": "soma-384-l5",
+      "owner": "claude-monet",
+      "offset": 101888,
+      "size": 16530
+    },
+    {
+      "file": "diego-velazquez.webp",
+      "source": "xs/diego-velazquez.webp",
+      "kind": "soma-384-l5",
+      "owner": "diego-velazquez",
+      "offset": 119296,
+      "size": 16990
+    },
+    {
+      "file": "donatello.webp",
+      "source": "xs/donatello.webp",
+      "kind": "soma-384-l5",
+      "owner": "donatello",
+      "offset": 137216,
+      "size": 18556
+    },
+    {
+      "file": "edvard-munch.webp",
+      "source": "xs/edvard-munch.webp",
+      "kind": "soma-384-l5",
+      "owner": "edvard-munch",
+      "offset": 156672,
+      "size": 14192
+    },
+    {
+      "file": "egon-schiele.webp",
+      "source": "xs/egon-schiele.webp",
+      "kind": "soma-384-l5",
+      "owner": "egon-schiele",
+      "offset": 171520,
+      "size": 15498
+    },
+    {
+      "file": "francisco-goya.webp",
+      "source": "xs/francisco-goya.webp",
+      "kind": "soma-384-l5",
+      "owner": "francisco-goya",
+      "offset": 187904,
+      "size": 14480
+    },
+    {
+      "file": "frida-kahlo.webp",
+      "source": "xs/frida-kahlo.webp",
+      "kind": "soma-384-l5",
+      "owner": "frida-kahlo",
+      "offset": 203264,
+      "size": 16676
+    },
+    {
+      "file": "giotto.webp",
+      "source": "xs/giotto.webp",
+      "kind": "soma-384-l5",
+      "owner": "giotto",
+      "offset": 220672,
+      "size": 16406
+    },
+    {
+      "file": "gustav-klimt.webp",
+      "source": "xs/gustav-klimt.webp",
+      "kind": "soma-384-l5",
+      "owner": "gustav-klimt",
+      "offset": 238080,
+      "size": 13928
+    },
+    {
+      "file": "hieronymus-bosch.webp",
+      "source": "xs/hieronymus-bosch.webp",
+      "kind": "soma-384-l5",
+      "owner": "hieronymus-bosch",
+      "offset": 252928,
+      "size": 13962
+    },
+    {
+      "file": "j-m-w-turner.webp",
+      "source": "xs/j-m-w-turner.webp",
+      "kind": "soma-384-l5",
+      "owner": "j.-m.-w.-turner",
+      "offset": 267776,
+      "size": 14824
+    },
+    {
+      "file": "jan-van-eyck.webp",
+      "source": "xs/jan-van-eyck.webp",
+      "kind": "soma-384-l5",
+      "owner": "jan-van-eyck",
+      "offset": 283136,
+      "size": 14882
+    },
+    {
+      "file": "johannes-vermeer.webp",
+      "source": "xs/johannes-vermeer.webp",
+      "kind": "soma-384-l5",
+      "owner": "johannes-vermeer",
+      "offset": 299008,
+      "size": 15158
+    },
+    {
+      "file": "katsushika-hokusai.webp",
+      "source": "xs/katsushika-hokusai.webp",
+      "kind": "soma-384-l5",
+      "owner": "katsushika-hokusai",
+      "offset": 314880,
+      "size": 13016
+    },
+    {
+      "file": "leonardo-da-vinci.webp",
+      "source": "xs/leonardo-da-vinci.webp",
+      "kind": "soma-384-l5",
+      "owner": "leonardo-da-vinci",
+      "offset": 328704,
+      "size": 17998
+    },
+    {
+      "file": "m-f-husain.webp",
+      "source": "xs/m-f-husain.webp",
+      "kind": "soma-384-l5",
+      "owner": "m-f-husain",
+      "offset": 347648,
+      "size": 15448
+    },
+    {
+      "file": "marina-abramovic.webp",
+      "source": "xs/marina-abramovic.webp",
+      "kind": "soma-384-l5",
+      "owner": "marina-abramovic",
+      "offset": 364032,
+      "size": 15714
+    },
+    {
+      "file": "michelangelo.webp",
+      "source": "xs/michelangelo.webp",
+      "kind": "soma-384-l5",
+      "owner": "michelangelo",
+      "offset": 380416,
+      "size": 13492
+    },
+    {
+      "file": "pablo-picasso.webp",
+      "source": "xs/pablo-picasso.webp",
+      "kind": "soma-384-l5",
+      "owner": "pablo-picasso",
+      "offset": 394752,
+      "size": 18952
+    },
+    {
+      "file": "paul-cezanne.webp",
+      "source": "xs/paul-cezanne.webp",
+      "kind": "soma-384-l5",
+      "owner": "paul-cezanne",
+      "offset": 414720,
+      "size": 14550
+    },
+    {
+      "file": "peter-paul-rubens.webp",
+      "source": "xs/peter-paul-rubens.webp",
+      "kind": "soma-384-l5",
+      "owner": "peter-paul-rubens",
+      "offset": 430080,
+      "size": 14588
+    },
+    {
+      "file": "raphael.webp",
+      "source": "xs/raphael.webp",
+      "kind": "soma-384-l5",
+      "owner": "raphael",
+      "offset": 445440,
+      "size": 14640
+    },
+    {
+      "file": "rembrandt-van-rijn.webp",
+      "source": "xs/rembrandt-van-rijn.webp",
+      "kind": "soma-384-l5",
+      "owner": "rembrandt-van-rijn",
+      "offset": 460800,
+      "size": 15964
+    },
+    {
+      "file": "salvador-dali.webp",
+      "source": "xs/salvador-dali.webp",
+      "kind": "soma-384-l5",
+      "owner": "salvador-dali",
+      "offset": 477696,
+      "size": 16222
+    },
+    {
+      "file": "shirin-neshat.webp",
+      "source": "xs/shirin-neshat.webp",
+      "kind": "soma-384-l5",
+      "owner": "shirin-neshat",
+      "offset": 494592,
+      "size": 15664
+    },
+    {
+      "file": "utagawa-hiroshige.webp",
+      "source": "xs/utagawa-hiroshige.webp",
+      "kind": "soma-384-l5",
+      "owner": "utagawa-hiroshige",
+      "offset": 510976,
+      "size": 13756
+    },
+    {
+      "file": "vincent-van-gogh.webp",
+      "source": "xs/vincent-van-gogh.webp",
+      "kind": "soma-384-l5",
+      "owner": "vincent-van-gogh",
+      "offset": 525312,
+      "size": 16118
+    },
+    {
+      "file": "wasily-kandinsky.webp",
+      "source": "xs/wasily-kandinsky.webp",
+      "kind": "soma-384-l5",
+      "owner": "wassily-kandinsky",
+      "offset": 542208,
+      "size": 16596
+    },
+    {
+      "file": "william-kentridge.webp",
+      "source": "xs/william-kentridge.webp",
+      "kind": "soma-384-l5",
+      "owner": "william-kentridge",
+      "offset": 559616,
+      "size": 17732
+    },
+    {
+      "file": "yayoi-kusama.webp",
+      "source": "xs/yayoi-kusama.webp",
+      "kind": "soma-384-l5",
+      "owner": "yayoi-kusama",
+      "offset": 578048,
+      "size": 16626
+    }
+  ]
+}

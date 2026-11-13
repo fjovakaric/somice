@@ -1,0 +1,189 @@
+{
+  "name": "lifeforms",
+  "world": "frogs",
+  "url": "https://cdn.jsdelivr.net/gh/fjovakaric/somice@main/assets/frogs-lifeforms.5f9df9d9.tar",
+  "map": "https://cdn.jsdelivr.net/gh/fjovakaric/somice@main/assets/frogs-lifeforms.5f9df9d9.json",
+  "entries": 22,
+  "bytes": 516608,
+  "await": "never",
+  "hash": "5f9df9d9",
+  "builtAt": "2026-09-15",
+  "files": [
+    {
+      "file": "default-frog-body.webp",
+      "source": "lifeforms/frogs/xs/default-frog-body.webp",
+      "kind": "archetype-body",
+      "owner": "frogs",
+      "offset": 512,
+      "size": 33134
+    },
+    {
+      "file": "default-frog-head.webp",
+      "source": "lifeforms/frogs/xs/default-frog-head.webp",
+      "kind": "archetype-head",
+      "owner": "frogs",
+      "offset": 34304,
+      "size": 7244
+    },
+    {
+      "file": "glass-frog-body.webp",
+      "source": "lifeforms/frogs/xs/glass-frog-body.webp",
+      "kind": "lifeform-body",
+      "owner": "628",
+      "offset": 42496,
+      "size": 40762
+    },
+    {
+      "file": "glass-frog-head.webp",
+      "source": "lifeforms/frogs/xs/glass-frog-head.webp",
+      "kind": "lifeform-head",
+      "owner": "628",
+      "offset": 83968,
+      "size": 8816
+    },
+    {
+      "file": "golden-poison-frog-body.webp",
+      "source": "lifeforms/frogs/xs/golden-poison-frog-body.webp",
+      "kind": "lifeform-body",
+      "owner": "627",
+      "offset": 93696,
+      "size": 36040
+    },
+    {
+      "file": "golden-poison-frog-head.webp",
+      "source": "lifeforms/frogs/xs/golden-poison-frog-head.webp",
+      "kind": "lifeform-head",
+      "owner": "627",
+      "offset": 130560,
+      "size": 7904
+    },
+    {
+      "file": "hula-painted-frog-body.webp",
+      "source": "lifeforms/frogs/xs/hula-painted-frog-body.webp",
+      "kind": "lifeform-body",
+      "owner": "645",
+      "offset": 139264,
+      "size": 33160
+    },
+    {
+      "file": "hula-painted-frog-head.webp",
+      "source": "lifeforms/frogs/xs/hula-painted-frog-head.webp",
+      "kind": "lifeform-head",
+      "owner": "645",
+      "offset": 173056,
+      "size": 7784
+    },
+    {
+      "file": "malayan-horned-frog-body.webp",
+      "source": "lifeforms/frogs/xs/malayan-horned-frog-body.webp",
+      "kind": "lifeform-body",
+      "owner": "646",
+      "offset": 181760,
+      "size": 39174
+    },
+    {
+      "file": "malayan-horned-frog-head.webp",
+      "source": "lifeforms/frogs/xs/malayan-horned-frog-head.webp",
+      "kind": "lifeform-head",
+      "owner": "646",
+      "offset": 221696,
+      "size": 11236
+    },
+    {
+      "file": "purple-frog-body.webp",
+      "source": "lifeforms/frogs/xs/purple-frog-body.webp",
+      "kind": "lifeform-body",
+      "owner": "633",
+      "offset": 233472,
+      "size": 28958
+    },
+    {
+      "file": "purple-frog-head.webp",
+      "source": "lifeforms/frogs/xs/purple-frog-head.webp",
+      "kind": "lifeform-head",
+      "owner": "633",
+      "offset": 263168,
+      "size": 7264
+    },
+    {
+      "file": "red-eyed-tree-frog-body.webp",
+      "source": "lifeforms/frogs/xs/red-eyed-tree-frog-body.webp",
+      "kind": "lifeform-body",
+      "owner": "644",
+      "offset": 271360,
+      "size": 44842
+    },
+    {
+      "file": "red-eyed-tree-frog-head.webp",
+      "source": "lifeforms/frogs/xs/red-eyed-tree-frog-head.webp",
+      "kind": "lifeform-head",
+      "owner": "644",
+      "offset": 316928,
+      "size": 10772
+    },
+    {
+      "file": "titicaca-water-frog-body.webp",
+      "source": "lifeforms/frogs/xs/titicaca-water-frog-body.webp",
+      "kind": "lifeform-body",
+      "owner": "637",
+      "offset": 328704,
+      "size": 36374
+    },
+    {
+      "file": "titicaca-water-frog-head.webp",
+      "source": "lifeforms/frogs/xs/titicaca-water-frog-head.webp",
+      "kind": "lifeform-head",
+      "owner": "637",
+      "offset": 366080,
+      "size": 7914
+    },
+    {
+      "file": "tomato-frog-body.webp",
+      "source": "lifeforms/frogs/xs/tomato-frog-body.webp",
+      "kind": "lifeform-body",
+      "owner": "636",
+      "offset": 374784,
+      "size": 30844
+    },
+    {
+      "file": "tomato-frog-head.webp",
+      "source": "lifeforms/frogs/xs/tomato-frog-head.webp",
+      "kind": "lifeform-head",
+      "owner": "636",
+      "offset": 406528,
+      "size": 9342
+    },
+    {
+      "file": "wallaces-flying-frog-body.webp",
+      "source": "lifeforms/frogs/xs/wallaces-flying-frog-body.webp",
+      "kind": "lifeform-body",
+      "owner": "632",
+      "offset": 416768,
+      "size": 39006
+    },
+    {
+      "file": "wallaces-flying-frog-head.webp",
+      "source": "lifeforms/frogs/xs/wallaces-flying-frog-head.webp",
+      "kind": "lifeform-head",
+      "owner": "632",
+      "offset": 456704,
+      "size": 12368
+    },
+    {
+      "file": "wood-frog-body.webp",
+      "source": "lifeforms/frogs/xs/wood-frog-body.webp",
+      "kind": "lifeform-body",
+      "owner": "635",
+      "offset": 470016,
+      "size": 34952
+    },
+    {
+      "file": "wood-frog-head.webp",
+      "source": "lifeforms/frogs/xs/wood-frog-head.webp",
+      "kind": "lifeform-head",
+      "owner": "635",
+      "offset": 505856,
+      "size": 9506
+    }
+  ]
+}

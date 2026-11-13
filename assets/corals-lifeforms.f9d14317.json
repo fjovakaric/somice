@@ -1,0 +1,269 @@
+{
+  "name": "lifeforms",
+  "world": "corals",
+  "url": "https://cdn.jsdelivr.net/gh/fjovakaric/somice@main/assets/corals-lifeforms.f9d14317.tar",
+  "map": "https://cdn.jsdelivr.net/gh/fjovakaric/somice@main/assets/corals-lifeforms.f9d14317.json",
+  "entries": 32,
+  "bytes": 1207296,
+  "await": "never",
+  "hash": "f9d14317",
+  "builtAt": "2026-09-15",
+  "files": [
+    {
+      "file": "black-coral-body.webp",
+      "source": "lifeforms/corals/xs/black-coral-body.webp",
+      "kind": "lifeform-body",
+      "owner": "241",
+      "offset": 512,
+      "size": 109916
+    },
+    {
+      "file": "black-coral-head.webp",
+      "source": "lifeforms/corals/xs/black-coral-head.webp",
+      "kind": "lifeform-head",
+      "owner": "241",
+      "offset": 111104,
+      "size": 9230
+    },
+    {
+      "file": "bottlebrush-coral-body.webp",
+      "source": "lifeforms/corals/xs/bottlebrush-coral-body.webp",
+      "kind": "lifeform-body",
+      "owner": "246",
+      "offset": 121344,
+      "size": 90188
+    },
+    {
+      "file": "bottlebrush-coral-head.webp",
+      "source": "lifeforms/corals/xs/bottlebrush-coral-head.webp",
+      "kind": "lifeform-head",
+      "owner": "246",
+      "offset": 212480,
+      "size": 9722
+    },
+    {
+      "file": "boulder-porites-coral-body.webp",
+      "source": "lifeforms/corals/xs/boulder-porites-coral-body.webp",
+      "kind": "lifeform-body",
+      "owner": "244",
+      "offset": 222720,
+      "size": 44336
+    },
+    {
+      "file": "boulder-porites-coral-head.webp",
+      "source": "lifeforms/corals/xs/boulder-porites-coral-head.webp",
+      "kind": "lifeform-head",
+      "owner": "244",
+      "offset": 267776,
+      "size": 11070
+    },
+    {
+      "file": "cold-water-coral-body.webp",
+      "source": "lifeforms/corals/xs/cold-water-coral-body.webp",
+      "kind": "lifeform-body",
+      "owner": "247",
+      "offset": 279552,
+      "size": 55900
+    },
+    {
+      "file": "cold-water-coral-head.webp",
+      "source": "lifeforms/corals/xs/cold-water-coral-head.webp",
+      "kind": "lifeform-head",
+      "owner": "247",
+      "offset": 336384,
+      "size": 27888
+    },
+    {
+      "file": "default-coral-body.webp",
+      "source": "lifeforms/corals/xs/default-coral-body.webp",
+      "kind": "archetype-body",
+      "owner": "corals",
+      "offset": 365056,
+      "size": 56790
+    },
+    {
+      "file": "default-coral-head.webp",
+      "source": "lifeforms/corals/xs/default-coral-head.webp",
+      "kind": "archetype-head",
+      "owner": "corals",
+      "offset": 422400,
+      "size": 16676
+    },
+    {
+      "file": "elkhorn-coral-body.webp",
+      "source": "lifeforms/corals/xs/elkhorn-coral-body.webp",
+      "kind": "lifeform-body",
+      "owner": "238",
+      "offset": 439808,
+      "size": 52034
+    },
+    {
+      "file": "elkhorn-coral-head.webp",
+      "source": "lifeforms/corals/xs/elkhorn-coral-head.webp",
+      "kind": "lifeform-head",
+      "owner": "238",
+      "offset": 492544,
+      "size": 16146
+    },
+    {
+      "file": "great-star-coral-body.webp",
+      "source": "lifeforms/corals/xs/great-star-coral-body.webp",
+      "kind": "lifeform-body",
+      "owner": "243",
+      "offset": 509440,
+      "size": 44220
+    },
+    {
+      "file": "great-star-coral-head.webp",
+      "source": "lifeforms/corals/xs/great-star-coral-head.webp",
+      "kind": "lifeform-head",
+      "owner": "243",
+      "offset": 554496,
+      "size": 11336
+    },
+    {
+      "file": "leptoseris-coral-body.webp",
+      "source": "lifeforms/corals/xs/leptoseris-coral-body.webp",
+      "kind": "lifeform-body",
+      "owner": "250",
+      "offset": 566784,
+      "size": 53438
+    },
+    {
+      "file": "leptoseris-coral-head.webp",
+      "source": "lifeforms/corals/xs/leptoseris-coral-head.webp",
+      "kind": "lifeform-head",
+      "owner": "250",
+      "offset": 621056,
+      "size": 9744
+    },
+    {
+      "file": "mountainous-star-coral-body.webp",
+      "source": "lifeforms/corals/xs/mountainous-star-coral-body.webp",
+      "kind": "lifeform-body",
+      "owner": "245",
+      "offset": 631808,
+      "size": 50470
+    },
+    {
+      "file": "mountainous-star-coral-head.webp",
+      "source": "lifeforms/corals/xs/mountainous-star-coral-head.webp",
+      "kind": "lifeform-head",
+      "owner": "245",
+      "offset": 683008,
+      "size": 12324
+    },
+    {
+      "file": "open-brain-coral-body.webp",
+      "source": "lifeforms/corals/xs/open-brain-coral-body.webp",
+      "kind": "lifeform-body",
+      "owner": "248",
+      "offset": 696320,
+      "size": 25226
+    },
+    {
+      "file": "open-brain-coral-head.webp",
+      "source": "lifeforms/corals/xs/open-brain-coral-head.webp",
+      "kind": "lifeform-head",
+      "owner": "248",
+      "offset": 722432,
+      "size": 14060
+    },
+    {
+      "file": "pillar-coral-body.webp",
+      "source": "lifeforms/corals/xs/pillar-coral-body.webp",
+      "kind": "lifeform-body",
+      "owner": "239",
+      "offset": 737280,
+      "size": 59280
+    },
+    {
+      "file": "pillar-coral-head.webp",
+      "source": "lifeforms/corals/xs/pillar-coral-head.webp",
+      "kind": "lifeform-head",
+      "owner": "239",
+      "offset": 797184,
+      "size": 28054
+    },
+    {
+      "file": "red-coral-body.webp",
+      "source": "lifeforms/corals/xs/red-coral-body.webp",
+      "kind": "lifeform-body",
+      "owner": "251",
+      "offset": 825856,
+      "size": 94480
+    },
+    {
+      "file": "red-coral-head.webp",
+      "source": "lifeforms/corals/xs/red-coral-head.webp",
+      "kind": "lifeform-head",
+      "owner": "251",
+      "offset": 921088,
+      "size": 17184
+    },
+    {
+      "file": "rose-cauliflower-coral-body.webp",
+      "source": "lifeforms/corals/xs/rose-cauliflower-coral-body.webp",
+      "kind": "lifeform-body",
+      "owner": "249",
+      "offset": 939008,
+      "size": 52608
+    },
+    {
+      "file": "rose-cauliflower-coral-head.webp",
+      "source": "lifeforms/corals/xs/rose-cauliflower-coral-head.webp",
+      "kind": "lifeform-head",
+      "owner": "249",
+      "offset": 992256,
+      "size": 13466
+    },
+    {
+      "file": "staghorn-coral-body.webp",
+      "source": "lifeforms/corals/xs/staghorn-coral-body.webp",
+      "kind": "lifeform-body",
+      "owner": "237",
+      "offset": 1006592,
+      "size": 73848
+    },
+    {
+      "file": "staghorn-coral-head.webp",
+      "source": "lifeforms/corals/xs/staghorn-coral-head.webp",
+      "kind": "lifeform-head",
+      "owner": "237",
+      "offset": 1081344,
+      "size": 17648
+    },
+    {
+      "file": "symmetrical-brain-coral-body.webp",
+      "source": "lifeforms/corals/xs/symmetrical-brain-coral-body.webp",
+      "kind": "lifeform-body",
+      "owner": "240",
+      "offset": 1099776,
+      "size": 48028
+    },
+    {
+      "file": "symmetrical-brain-coral-head.webp",
+      "source": "lifeforms/corals/xs/symmetrical-brain-coral-head.webp",
+      "kind": "lifeform-head",
+      "owner": "240",
+      "offset": 1148416,
+      "size": 10172
+    },
+    {
+      "file": "table-coral-body.webp",
+      "source": "lifeforms/corals/xs/table-coral-body.webp",
+      "kind": "lifeform-body",
+      "owner": "242",
+      "offset": 1159168,
+      "size": 30388
+    },
+    {
+      "file": "table-coral-head.webp",
+      "source": "lifeforms/corals/xs/table-coral-head.webp",
+      "kind": "lifeform-head",
+      "owner": "242",
+      "offset": 1190400,
+      "size": 15412
+    }
+  ]
+}

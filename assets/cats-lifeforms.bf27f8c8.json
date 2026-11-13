@@ -1,0 +1,109 @@
+{
+  "name": "lifeforms",
+  "world": "cats",
+  "url": "https://cdn.jsdelivr.net/gh/fjovakaric/somice@main/assets/cats-lifeforms.bf27f8c8.tar",
+  "map": "https://cdn.jsdelivr.net/gh/fjovakaric/somice@main/assets/cats-lifeforms.bf27f8c8.json",
+  "entries": 12,
+  "bytes": 312320,
+  "await": "never",
+  "hash": "bf27f8c8",
+  "builtAt": "2026-09-15",
+  "files": [
+    {
+      "file": "cheetah-body.webp",
+      "source": "lifeforms/cats/xs/cheetah-body.webp",
+      "kind": "lifeform-body",
+      "owner": "10",
+      "offset": 512,
+      "size": 47504
+    },
+    {
+      "file": "cheetah-head.webp",
+      "source": "lifeforms/cats/xs/cheetah-head.webp",
+      "kind": "lifeform-head",
+      "owner": "10",
+      "offset": 48640,
+      "size": 14074
+    },
+    {
+      "file": "clouded-leopard-body.webp",
+      "source": "lifeforms/cats/xs/clouded-leopard-body.webp",
+      "kind": "lifeform-body",
+      "owner": "4",
+      "offset": 63488,
+      "size": 44446
+    },
+    {
+      "file": "clouded-leopard-head.webp",
+      "source": "lifeforms/cats/xs/clouded-leopard-head.webp",
+      "kind": "lifeform-head",
+      "owner": "4",
+      "offset": 108544,
+      "size": 14148
+    },
+    {
+      "file": "default-cat-body.webp",
+      "source": "lifeforms/cats/xs/default-cat-body.webp",
+      "kind": "archetype-body",
+      "owner": "cats",
+      "offset": 123392,
+      "size": 18292
+    },
+    {
+      "file": "default-cat-head.webp",
+      "source": "lifeforms/cats/xs/default-cat-head.webp",
+      "kind": "archetype-head",
+      "owner": "cats",
+      "offset": 142336,
+      "size": 8740
+    },
+    {
+      "file": "lion-body.webp",
+      "source": "lifeforms/cats/xs/lion-body.webp",
+      "kind": "lifeform-body",
+      "owner": "6",
+      "offset": 152064,
+      "size": 28260
+    },
+    {
+      "file": "lion-head.webp",
+      "source": "lifeforms/cats/xs/lion-head.webp",
+      "kind": "lifeform-head",
+      "owner": "6",
+      "offset": 181248,
+      "size": 10538
+    },
+    {
+      "file": "snow-leopard-body.webp",
+      "source": "lifeforms/cats/xs/snow-leopard-body.webp",
+      "kind": "lifeform-body",
+      "owner": "11",
+      "offset": 192512,
+      "size": 43660
+    },
+    {
+      "file": "snow-leopard-head.webp",
+      "source": "lifeforms/cats/xs/snow-leopard-head.webp",
+      "kind": "lifeform-head",
+      "owner": "11",
+      "offset": 237056,
+      "size": 13630
+    },
+    {
+      "file": "tiger-body.webp",
+      "source": "lifeforms/cats/xs/tiger-body.webp",
+      "kind": "lifeform-body",
+      "owner": "7",
+      "offset": 251392,
+      "size": 42498
+    },
+    {
+      "file": "tiger-head.webp",
+      "source": "lifeforms/cats/xs/tiger-head.webp",
+      "kind": "lifeform-head",
+      "owner": "7",
+      "offset": 294912,
+      "size": 16012
+    }
+  ]
+}

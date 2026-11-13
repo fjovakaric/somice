@@ -1,0 +1,53 @@
+{
+  "name": "emblems",
+  "world": "worlds",
+  "url": "https://cdn.jsdelivr.net/gh/fjovakaric/somice@main/assets/worlds-emblems.13e22618.tar",
+  "map": "https://cdn.jsdelivr.net/gh/fjovakaric/somice@main/assets/worlds-emblems.13e22618.json",
+  "entries": 5,
+  "bytes": 76800,
+  "await": "never",
+  "hash": "13e22618",
+  "builtAt": "2026-09-15",
+  "files": [
+    {
+      "file": "artists.webp",
+      "source": "worlds/xs/artists.webp",
+      "kind": "emblem-world",
+      "owner": "artists",
+      "offset": 512,
+      "size": 12286
+    },
+    {
+      "file": "musicians.webp",
+      "source": "worlds/xs/musicians.webp",
+      "kind": "emblem-world",
+      "owner": "musicians",
+      "offset": 13312,
+      "size": 18378
+    },
+    {
+      "file": "rulers.webp",
+      "source": "worlds/xs/rulers.webp",
+      "kind": "emblem-world",
+      "owner": "rulers",
+      "offset": 32256,
+      "size": 17844
+    },
+    {
+      "file": "scientists.webp",
+      "source": "worlds/xs/scientists.webp",
+      "kind": "emblem-world",
+      "owner": "scientists",
+      "offset": 50688,
+      "size": 11710
+    },
+    {
+      "file": "writers.webp",
+      "source": "worlds/xs/writers.webp",
+      "kind": "emblem-world",
+      "owner": "writers",
+      "offset": 62976,
+      "size": 12778
+    }
+  ]
+}

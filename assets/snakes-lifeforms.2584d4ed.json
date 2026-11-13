@@ -1,0 +1,269 @@
+{
+  "name": "lifeforms",
+  "world": "snakes",
+  "url": "https://cdn.jsdelivr.net/gh/fjovakaric/somice@main/assets/snakes-lifeforms.2584d4ed.tar",
+  "map": "https://cdn.jsdelivr.net/gh/fjovakaric/somice@main/assets/snakes-lifeforms.2584d4ed.json",
+  "entries": 32,
+  "bytes": 1106432,
+  "await": "never",
+  "hash": "2584d4ed",
+  "builtAt": "2026-09-15",
+  "files": [
+    {
+      "file": "black-mamba-body.webp",
+      "source": "lifeforms/snakes/xs/black-mamba-body.webp",
+      "kind": "lifeform-body",
+      "owner": "399",
+      "offset": 512,
+      "size": 40012
+    },
+    {
+      "file": "black-mamba-head.webp",
+      "source": "lifeforms/snakes/xs/black-mamba-head.webp",
+      "kind": "lifeform-head",
+      "owner": "399",
+      "offset": 41472,
+      "size": 5390
+    },
+    {
+      "file": "boomslang-body.webp",
+      "source": "lifeforms/snakes/xs/boomslang-body.webp",
+      "kind": "lifeform-body",
+      "owner": "409",
+      "offset": 47616,
+      "size": 79918
+    },
+    {
+      "file": "boomslang-head.webp",
+      "source": "lifeforms/snakes/xs/boomslang-head.webp",
+      "kind": "lifeform-head",
+      "owner": "409",
+      "offset": 128512,
+      "size": 11026
+    },
+    {
+      "file": "bushmaster-body.webp",
+      "source": "lifeforms/snakes/xs/bushmaster-body.webp",
+      "kind": "lifeform-body",
+      "owner": "410",
+      "offset": 140288,
+      "size": 46492
+    },
+    {
+      "file": "bushmaster-head.webp",
+      "source": "lifeforms/snakes/xs/bushmaster-head.webp",
+      "kind": "lifeform-head",
+      "owner": "410",
+      "offset": 187392,
+      "size": 8944
+    },
+    {
+      "file": "default-snake-body.webp",
+      "source": "lifeforms/snakes/xs/default-snake-body.webp",
+      "kind": "archetype-body",
+      "owner": "snakes",
+      "offset": 197120,
+      "size": 37680
+    },
+    {
+      "file": "default-snake-head.webp",
+      "source": "lifeforms/snakes/xs/default-snake-head.webp",
+      "kind": "archetype-head",
+      "owner": "snakes",
+      "offset": 235520,
+      "size": 7420
+    },
+    {
+      "file": "eastern-diamondback-rattlesnake-body.webp",
+      "source": "lifeforms/snakes/xs/eastern-diamondback-rattlesnake-body.webp",
+      "kind": "lifeform-body",
+      "owner": "404",
+      "offset": 243712,
+      "size": 65784
+    },
+    {
+      "file": "eastern-diamondback-rattlesnake-head.webp",
+      "source": "lifeforms/snakes/xs/eastern-diamondback-rattlesnake-head.webp",
+      "kind": "lifeform-head",
+      "owner": "404",
+      "offset": 310272,
+      "size": 9936
+    },
+    {
+      "file": "fer-de-lance-body.webp",
+      "source": "lifeforms/snakes/xs/fer-de-lance-body.webp",
+      "kind": "lifeform-body",
+      "owner": "411",
+      "offset": 321024,
+      "size": 53848
+    },
+    {
+      "file": "fer-de-lance-head.webp",
+      "source": "lifeforms/snakes/xs/fer-de-lance-head.webp",
+      "kind": "lifeform-head",
+      "owner": "411",
+      "offset": 375808,
+      "size": 10436
+    },
+    {
+      "file": "gaboon-viper-body.webp",
+      "source": "lifeforms/snakes/xs/gaboon-viper-body.webp",
+      "kind": "lifeform-body",
+      "owner": "403",
+      "offset": 387072,
+      "size": 72344
+    },
+    {
+      "file": "gaboon-viper-head.webp",
+      "source": "lifeforms/snakes/xs/gaboon-viper-head.webp",
+      "kind": "lifeform-head",
+      "owner": "403",
+      "offset": 460288,
+      "size": 11050
+    },
+    {
+      "file": "green-anaconda-body.webp",
+      "source": "lifeforms/snakes/xs/green-anaconda-body.webp",
+      "kind": "lifeform-body",
+      "owner": "402",
+      "offset": 472064,
+      "size": 32482
+    },
+    {
+      "file": "green-anaconda-head.webp",
+      "source": "lifeforms/snakes/xs/green-anaconda-head.webp",
+      "kind": "lifeform-head",
+      "owner": "402",
+      "offset": 505344,
+      "size": 7892
+    },
+    {
+      "file": "indian-cobra-body.webp",
+      "source": "lifeforms/snakes/xs/indian-cobra-body.webp",
+      "kind": "lifeform-body",
+      "owner": "408",
+      "offset": 514048,
+      "size": 47658
+    },
+    {
+      "file": "indian-cobra-head.webp",
+      "source": "lifeforms/snakes/xs/indian-cobra-head.webp",
+      "kind": "lifeform-head",
+      "owner": "408",
+      "offset": 562688,
+      "size": 8734
+    },
+    {
+      "file": "inland-taipan-body.webp",
+      "source": "lifeforms/snakes/xs/inland-taipan-body.webp",
+      "kind": "lifeform-body",
+      "owner": "397",
+      "offset": 572416,
+      "size": 54084
+    },
+    {
+      "file": "inland-taipan-head.webp",
+      "source": "lifeforms/snakes/xs/inland-taipan-head.webp",
+      "kind": "lifeform-head",
+      "owner": "397",
+      "offset": 627200,
+      "size": 6110
+    },
+    {
+      "file": "king-cobra-body.webp",
+      "source": "lifeforms/snakes/xs/king-cobra-body.webp",
+      "kind": "lifeform-body",
+      "owner": "398",
+      "offset": 633856,
+      "size": 55040
+    },
+    {
+      "file": "king-cobra-head.webp",
+      "source": "lifeforms/snakes/xs/king-cobra-head.webp",
+      "kind": "lifeform-head",
+      "owner": "398",
+      "offset": 689664,
+      "size": 10870
+    },
+    {
+      "file": "paradise-flying-snake-body.webp",
+      "source": "lifeforms/snakes/xs/paradise-flying-snake-body.webp",
+      "kind": "lifeform-body",
+      "owner": "406",
+      "offset": 701440,
+      "size": 75196
+    },
+    {
+      "file": "paradise-flying-snake-head.webp",
+      "source": "lifeforms/snakes/xs/paradise-flying-snake-head.webp",
+      "kind": "lifeform-head",
+      "owner": "406",
+      "offset": 777216,
+      "size": 8552
+    },
+    {
+      "file": "reticulated-python-body.webp",
+      "source": "lifeforms/snakes/xs/reticulated-python-body.webp",
+      "kind": "lifeform-body",
+      "owner": "400",
+      "offset": 786432,
+      "size": 64616
+    },
+    {
+      "file": "reticulated-python-head.webp",
+      "source": "lifeforms/snakes/xs/reticulated-python-head.webp",
+      "kind": "lifeform-head",
+      "owner": "400",
+      "offset": 851968,
+      "size": 9700
+    },
+    {
+      "file": "saw-scaled-viper-body.webp",
+      "source": "lifeforms/snakes/xs/saw-scaled-viper-body.webp",
+      "kind": "lifeform-body",
+      "owner": "407",
+      "offset": 862208,
+      "size": 71356
+    },
+    {
+      "file": "saw-scaled-viper-head.webp",
+      "source": "lifeforms/snakes/xs/saw-scaled-viper-head.webp",
+      "kind": "lifeform-head",
+      "owner": "407",
+      "offset": 934400,
+      "size": 8458
+    },
+    {
+      "file": "spider-tailed-horned-viper-body.webp",
+      "source": "lifeforms/snakes/xs/spider-tailed-horned-viper-body.webp",
+      "kind": "lifeform-body",
+      "owner": "401",
+      "offset": 943616,
+      "size": 73160
+    },
+    {
+      "file": "spider-tailed-horned-viper-head.webp",
+      "source": "lifeforms/snakes/xs/spider-tailed-horned-viper-head.webp",
+      "kind": "lifeform-head",
+      "owner": "401",
+      "offset": 1017344,
+      "size": 9668
+    },
+    {
+      "file": "yellow-lipped-sea-krait-body.webp",
+      "source": "lifeforms/snakes/xs/yellow-lipped-sea-krait-body.webp",
+      "kind": "lifeform-body",
+      "owner": "405",
+      "offset": 1027584,
+      "size": 68402
+    },
+    {
+      "file": "yellow-lipped-sea-krait-head.webp",
+      "source": "lifeforms/snakes/xs/yellow-lipped-sea-krait-head.webp",
+      "kind": "lifeform-head",
+      "owner": "405",
+      "offset": 1096704,
+      "size": 8506
+    }
+  ]
+}

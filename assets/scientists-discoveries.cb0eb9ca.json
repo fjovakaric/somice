@@ -1,0 +1,3333 @@
+{
+  "name": "discoveries",
+  "world": "scientists",
+  "url": "https://cdn.jsdelivr.net/gh/fjovakaric/somice@main/assets/scientists-discoveries.cb0eb9ca.tar",
+  "map": "https://cdn.jsdelivr.net/gh/fjovakaric/somice@main/assets/scientists-discoveries.cb0eb9ca.json",
+  "entries": 415,
+  "bytes": 1928192,
+  "await": "never",
+  "hash": "cb0eb9ca",
+  "builtAt": "2026-09-15",
+  "files": [
+    {
+      "file": "al-jabr.webp",
+      "source": "discoveries/thumb/al-jabr.webp",
+      "kind": "discovery-thumb",
+      "owner": "al-jabr",
+      "offset": 512,
+      "size": 6414
+    },
+    {
+      "file": "almagest.webp",
+      "source": "discoveries/thumb/almagest.webp",
+      "kind": "discovery-thumb",
+      "owner": "almagest",
+      "offset": 7680,
+      "size": 6548
+    },
+    {
+      "file": "alvarez-impact-hypothesis.webp",
+      "source": "discoveries/thumb/alvarez-impact-hypothesis.webp",
+      "kind": "discovery-thumb",
+      "owner": "alvarez-impact-hypothesis",
+      "offset": 14848,
+      "size": 2902
+    },
+    {
+      "file": "analytic-geometry.webp",
+      "source": "discoveries/thumb/analytic-geometry.webp",
+      "kind": "discovery-thumb",
+      "owner": "analytic-geometry",
+      "offset": 18432,
+      "size": 3716
+    },
+    {
+      "file": "analytical-engine.webp",
+      "source": "discoveries/thumb/analytical-engine.webp",
+      "kind": "discovery-thumb",
+      "owner": "analytical-engine",
+      "offset": 23040,
+      "size": 3828
+    },
+    {
+      "file": "analytical-psychology.webp",
+      "source": "discoveries/thumb/analytical-psychology.webp",
+      "kind": "discovery-thumb",
+      "owner": "analytical-psychology",
+      "offset": 27648,
+      "size": 4478
+    },
+    {
+      "file": "andromeda-is-a-galaxy.webp",
+      "source": "discoveries/thumb/andromeda-is-a-galaxy.webp",
+      "kind": "discovery-thumb",
+      "owner": "andromeda-is-a-galaxy",
+      "offset": 32768,
+      "size": 4172
+    },
+    {
+      "file": "anno-domini.webp",
+      "source": "discoveries/thumb/anno-domini.webp",
+      "kind": "discovery-thumb",
+      "owner": "anno-domini",
+      "offset": 37888,
+      "size": 3040
+    },
+    {
+      "file": "anthrax-bacillus.webp",
+      "source": "discoveries/thumb/anthrax-bacillus.webp",
+      "kind": "discovery-thumb",
+      "owner": "anthrax-bacillus",
+      "offset": 41472,
+      "size": 3810
+    },
+    {
+      "file": "antisepsis.webp",
+      "source": "discoveries/thumb/antisepsis.webp",
+      "kind": "discovery-thumb",
+      "owner": "antisepsis",
+      "offset": 46080,
+      "size": 3916
+    },
+    {
+      "file": "apgar-score.webp",
+      "source": "discoveries/thumb/apgar-score.webp",
+      "kind": "discovery-thumb",
+      "owner": "apgar-score",
+      "offset": 50688,
+      "size": 3628
+    },
+    {
+      "file": "apollo-11.webp",
+      "source": "discoveries/thumb/apollo-11.webp",
+      "kind": "discovery-thumb",
+      "owner": "apollo-11",
+      "offset": 55296,
+      "size": 3812
+    },
+    {
+      "file": "archaeopteryx.webp",
+      "source": "discoveries/thumb/archaeopteryx.webp",
+      "kind": "discovery-thumb",
+      "owner": "archaeopteryx",
+      "offset": 59904,
+      "size": 3368
+    },
+    {
+      "file": "archimedes-principle.webp",
+      "source": "discoveries/thumb/archimedes-principle.webp",
+      "kind": "discovery-thumb",
+      "owner": "archimedes-principle",
+      "offset": 64000,
+      "size": 3286
+    },
+    {
+      "file": "arrhenius-greenhouse-effect.webp",
+      "source": "discoveries/thumb/arrhenius-greenhouse-effect.webp",
+      "kind": "discovery-thumb",
+      "owner": "arrhenius-greenhouse-effect",
+      "offset": 68096,
+      "size": 4542
+    },
+    {
+      "file": "assembly-line.webp",
+      "source": "discoveries/thumb/assembly-line.webp",
+      "kind": "discovery-thumb",
+      "owner": "assembly-line",
+      "offset": 73216,
+      "size": 3306
+    },
+    {
+      "file": "atomic-bomb.webp",
+      "source": "discoveries/thumb/atomic-bomb.webp",
+      "kind": "discovery-thumb",
+      "owner": "atomic-bomb",
+      "offset": 77312,
+      "size": 2776
+    },
+    {
+      "file": "atomic-nucleus.webp",
+      "source": "discoveries/thumb/atomic-nucleus.webp",
+      "kind": "discovery-thumb",
+      "owner": "atomic-nucleus",
+      "offset": 80896,
+      "size": 4170
+    },
+    {
+      "file": "atomic-theory.webp",
+      "source": "discoveries/thumb/atomic-theory.webp",
+      "kind": "discovery-thumb",
+      "owner": "atomic-theory",
+      "offset": 86016,
+      "size": 3136
+    },
+    {
+      "file": "atomism.webp",
+      "source": "discoveries/thumb/atomism.webp",
+      "kind": "discovery-thumb",
+      "owner": "atomism",
+      "offset": 90112,
+      "size": 3378
+    },
+    {
+      "file": "automobile.webp",
+      "source": "discoveries/thumb/automobile.webp",
+      "kind": "discovery-thumb",
+      "owner": "automobile",
+      "offset": 94208,
+      "size": 5952
+    },
+    {
+      "file": "avogadros-law.webp",
+      "source": "discoveries/thumb/avogadros-law.webp",
+      "kind": "discovery-thumb",
+      "owner": "avogadros-law",
+      "offset": 100864,
+      "size": 4024
+    },
+    {
+      "file": "backpropagation.webp",
+      "source": "discoveries/thumb/backpropagation.webp",
+      "kind": "discovery-thumb",
+      "owner": "backpropagation",
+      "offset": 105472,
+      "size": 3308
+    },
+    {
+      "file": "barometer.webp",
+      "source": "discoveries/thumb/barometer.webp",
+      "kind": "discovery-thumb",
+      "owner": "barometer",
+      "offset": 109568,
+      "size": 2430
+    },
+    {
+      "file": "bayes-theorem.webp",
+      "source": "discoveries/thumb/bayes-theorem.webp",
+      "kind": "discovery-thumb",
+      "owner": "bayes-theorem",
+      "offset": 112640,
+      "size": 2280
+    },
+    {
+      "file": "bcs-theory.webp",
+      "source": "discoveries/thumb/bcs-theory.webp",
+      "kind": "discovery-thumb",
+      "owner": "bcs-theory",
+      "offset": 115712,
+      "size": 3622
+    },
+    {
+      "file": "beaufort-scale.webp",
+      "source": "discoveries/thumb/beaufort-scale.webp",
+      "kind": "discovery-thumb",
+      "owner": "beaufort-scale",
+      "offset": 120320,
+      "size": 2136
+    },
+    {
+      "file": "benzene-ring.webp",
+      "source": "discoveries/thumb/benzene-ring.webp",
+      "kind": "discovery-thumb",
+      "owner": "benzene-ring",
+      "offset": 123392,
+      "size": 5326
+    },
+    {
+      "file": "bernoullis-principle.webp",
+      "source": "discoveries/thumb/bernoullis-principle.webp",
+      "kind": "discovery-thumb",
+      "owner": "bernoullis-principle",
+      "offset": 129536,
+      "size": 4342
+    },
+    {
+      "file": "bicycle.webp",
+      "source": "discoveries/thumb/bicycle.webp",
+      "kind": "discovery-thumb",
+      "owner": "bicycle",
+      "offset": 134656,
+      "size": 5356
+    },
+    {
+      "file": "binary-metres-pingala.webp",
+      "source": "discoveries/thumb/binary-metres-pingala.webp",
+      "kind": "discovery-thumb",
+      "owner": "binary-metres-pingala",
+      "offset": 140800,
+      "size": 3112
+    },
+    {
+      "file": "binomial-theorem.webp",
+      "source": "discoveries/thumb/binomial-theorem.webp",
+      "kind": "discovery-thumb",
+      "owner": "binomial-theorem",
+      "offset": 144896,
+      "size": 2860
+    },
+    {
+      "file": "biological-species-concept.webp",
+      "source": "discoveries/thumb/biological-species-concept.webp",
+      "kind": "discovery-thumb",
+      "owner": "biological-species-concept",
+      "offset": 148480,
+      "size": 5158
+    },
+    {
+      "file": "birds-of-america.webp",
+      "source": "discoveries/thumb/birds-of-america.webp",
+      "kind": "discovery-thumb",
+      "owner": "birds-of-america",
+      "offset": 154624,
+      "size": 4284
+    },
+    {
+      "file": "bletchley-park.webp",
+      "source": "discoveries/thumb/bletchley-park.webp",
+      "kind": "discovery-thumb",
+      "owner": "bletchley-park",
+      "offset": 159744,
+      "size": 2914
+    },
+    {
+      "file": "blood-groups.webp",
+      "source": "discoveries/thumb/blood-groups.webp",
+      "kind": "discovery-thumb",
+      "owner": "blood-groups",
+      "offset": 163328,
+      "size": 2576
+    },
+    {
+      "file": "bohr-model.webp",
+      "source": "discoveries/thumb/bohr-model.webp",
+      "kind": "discovery-thumb",
+      "owner": "bohr-model",
+      "offset": 166912,
+      "size": 7692
+    },
+    {
+      "file": "bombe.webp",
+      "source": "discoveries/thumb/bombe.webp",
+      "kind": "discovery-thumb",
+      "owner": "bombe",
+      "offset": 175616,
+      "size": 3320
+    },
+    {
+      "file": "book-of-optics.webp",
+      "source": "discoveries/thumb/book-of-optics.webp",
+      "kind": "discovery-thumb",
+      "owner": "book-of-optics",
+      "offset": 179712,
+      "size": 2564
+    },
+    {
+      "file": "boolean-algebra.webp",
+      "source": "discoveries/thumb/boolean-algebra.webp",
+      "kind": "discovery-thumb",
+      "owner": "boolean-algebra",
+      "offset": 183296,
+      "size": 2998
+    },
+    {
+      "file": "boyles-law.webp",
+      "source": "discoveries/thumb/boyles-law.webp",
+      "kind": "discovery-thumb",
+      "owner": "boyles-law",
+      "offset": 186880,
+      "size": 3114
+    },
+    {
+      "file": "brain-as-seat-of-mind.webp",
+      "source": "discoveries/thumb/brain-as-seat-of-mind.webp",
+      "kind": "discovery-thumb",
+      "owner": "brain-as-seat-of-mind",
+      "offset": 190976,
+      "size": 3616
+    },
+    {
+      "file": "brief-history-of-time.webp",
+      "source": "discoveries/thumb/brief-history-of-time.webp",
+      "kind": "discovery-thumb",
+      "owner": "brief-history-of-time",
+      "offset": 195584,
+      "size": 2806
+    },
+    {
+      "file": "broad-street-pump.webp",
+      "source": "discoveries/thumb/broad-street-pump.webp",
+      "kind": "discovery-thumb",
+      "owner": "broad-street-pump",
+      "offset": 199168,
+      "size": 2754
+    },
+    {
+      "file": "brooklyn-bridge.webp",
+      "source": "discoveries/thumb/brooklyn-bridge.webp",
+      "kind": "discovery-thumb",
+      "owner": "brooklyn-bridge",
+      "offset": 202752,
+      "size": 4724
+    },
+    {
+      "file": "bunsen-burner.webp",
+      "source": "discoveries/thumb/bunsen-burner.webp",
+      "kind": "discovery-thumb",
+      "owner": "bunsen-burner",
+      "offset": 208384,
+      "size": 2212
+    },
+    {
+      "file": "c-language.webp",
+      "source": "discoveries/thumb/c-language.webp",
+      "kind": "discovery-thumb",
+      "owner": "c-language",
+      "offset": 211456,
+      "size": 3220
+    },
+    {
+      "file": "c-programming-language-book.webp",
+      "source": "discoveries/thumb/c-programming-language-book.webp",
+      "kind": "discovery-thumb",
+      "owner": "c-programming-language-book",
+      "offset": 215552,
+      "size": 2934
+    },
+    {
+      "file": "calculus.webp",
+      "source": "discoveries/thumb/calculus.webp",
+      "kind": "discovery-thumb",
+      "owner": "calculus",
+      "offset": 219136,
+      "size": 3646
+    },
+    {
+      "file": "canon-of-medicine.webp",
+      "source": "discoveries/thumb/canon-of-medicine.webp",
+      "kind": "discovery-thumb",
+      "owner": "canon-of-medicine",
+      "offset": 223744,
+      "size": 3424
+    },
+    {
+      "file": "carbon-dioxide.webp",
+      "source": "discoveries/thumb/carbon-dioxide.webp",
+      "kind": "discovery-thumb",
+      "owner": "carbon-dioxide",
+      "offset": 227840,
+      "size": 3442
+    },
+    {
+      "file": "carnot-cycle.webp",
+      "source": "discoveries/thumb/carnot-cycle.webp",
+      "kind": "discovery-thumb",
+      "owner": "carnot-cycle",
+      "offset": 231936,
+      "size": 3312
+    },
+    {
+      "file": "catalan-atlas.webp",
+      "source": "discoveries/thumb/catalan-atlas.webp",
+      "kind": "discovery-thumb",
+      "owner": "catalan-atlas",
+      "offset": 236032,
+      "size": 3640
+    },
+    {
+      "file": "cavendish-laboratory.webp",
+      "source": "discoveries/thumb/cavendish-laboratory.webp",
+      "kind": "discovery-thumb",
+      "owner": "cavendish-laboratory",
+      "offset": 240640,
+      "size": 3820
+    },
+    {
+      "file": "cell-nucleus.webp",
+      "source": "discoveries/thumb/cell-nucleus.webp",
+      "kind": "discovery-thumb",
+      "owner": "cell-nucleus",
+      "offset": 245248,
+      "size": 2336
+    },
+    {
+      "file": "cell-theory.webp",
+      "source": "discoveries/thumb/cell-theory.webp",
+      "kind": "discovery-thumb",
+      "owner": "cell-theory",
+      "offset": 248320,
+      "size": 4362
+    },
+    {
+      "file": "celsius-scale.webp",
+      "source": "discoveries/thumb/celsius-scale.webp",
+      "kind": "discovery-thumb",
+      "owner": "celsius-scale",
+      "offset": 253440,
+      "size": 1714
+    },
+    {
+      "file": "central-dogma.webp",
+      "source": "discoveries/thumb/central-dogma.webp",
+      "kind": "discovery-thumb",
+      "owner": "central-dogma",
+      "offset": 256000,
+      "size": 2828
+    },
+    {
+      "file": "central-limit-theorem.webp",
+      "source": "discoveries/thumb/central-limit-theorem.webp",
+      "kind": "discovery-thumb",
+      "owner": "central-limit-theorem",
+      "offset": 259584,
+      "size": 2906
+    },
+    {
+      "file": "centres-of-origin-crops.webp",
+      "source": "discoveries/thumb/centres-of-origin-crops.webp",
+      "kind": "discovery-thumb",
+      "owner": "centres-of-origin-crops",
+      "offset": 263168,
+      "size": 3642
+    },
+    {
+      "file": "cern.webp",
+      "source": "discoveries/thumb/cern.webp",
+      "kind": "discovery-thumb",
+      "owner": "cern",
+      "offset": 267776,
+      "size": 3690
+    },
+    {
+      "file": "chandrasekhar-limit.webp",
+      "source": "discoveries/thumb/chandrasekhar-limit.webp",
+      "kind": "discovery-thumb",
+      "owner": "chandrasekhar-limit",
+      "offset": 272384,
+      "size": 4600
+    },
+    {
+      "file": "chirurgia-magna.webp",
+      "source": "discoveries/thumb/chirurgia-magna.webp",
+      "kind": "discovery-thumb",
+      "owner": "chirurgia-magna",
+      "offset": 277504,
+      "size": 3502
+    },
+    {
+      "file": "chromosome-theory-of-inheritance.webp",
+      "source": "discoveries/thumb/chromosome-theory-of-inheritance.webp",
+      "kind": "discovery-thumb",
+      "owner": "chromosome-theory-of-inheritance",
+      "offset": 281600,
+      "size": 3668
+    },
+    {
+      "file": "circulation-of-the-blood.webp",
+      "source": "discoveries/thumb/circulation-of-the-blood.webp",
+      "kind": "discovery-thumb",
+      "owner": "circulation-of-the-blood",
+      "offset": 286208,
+      "size": 6086
+    },
+    {
+      "file": "coelacanth.webp",
+      "source": "discoveries/thumb/coelacanth.webp",
+      "kind": "discovery-thumb",
+      "owner": "coelacanth",
+      "offset": 292864,
+      "size": 3690
+    },
+    {
+      "file": "compiler.webp",
+      "source": "discoveries/thumb/compiler.webp",
+      "kind": "discovery-thumb",
+      "owner": "compiler",
+      "offset": 297472,
+      "size": 3468
+    },
+    {
+      "file": "composition-of-white-light.webp",
+      "source": "discoveries/thumb/composition-of-white-light.webp",
+      "kind": "discovery-thumb",
+      "owner": "composition-of-white-light",
+      "offset": 301568,
+      "size": 3462
+    },
+    {
+      "file": "computer-mouse.webp",
+      "source": "discoveries/thumb/computer-mouse.webp",
+      "kind": "discovery-thumb",
+      "owner": "computer-mouse",
+      "offset": 305664,
+      "size": 2956
+    },
+    {
+      "file": "conditioned-reflexes.webp",
+      "source": "discoveries/thumb/conditioned-reflexes.webp",
+      "kind": "discovery-thumb",
+      "owner": "conditioned-reflexes",
+      "offset": 309248,
+      "size": 3872
+    },
+    {
+      "file": "conservation-of-energy.webp",
+      "source": "discoveries/thumb/conservation-of-energy.webp",
+      "kind": "discovery-thumb",
+      "owner": "conservation-of-energy",
+      "offset": 313856,
+      "size": 3924
+    },
+    {
+      "file": "conservation-of-mass.webp",
+      "source": "discoveries/thumb/conservation-of-mass.webp",
+      "kind": "discovery-thumb",
+      "owner": "conservation-of-mass",
+      "offset": 318464,
+      "size": 5258
+    },
+    {
+      "file": "continental-drift.webp",
+      "source": "discoveries/thumb/continental-drift.webp",
+      "kind": "discovery-thumb",
+      "owner": "continental-drift",
+      "offset": 324608,
+      "size": 3396
+    },
+    {
+      "file": "cosmic-engine-su-song.webp",
+      "source": "discoveries/thumb/cosmic-engine-su-song.webp",
+      "kind": "discovery-thumb",
+      "owner": "cosmic-engine-su-song",
+      "offset": 328704,
+      "size": 3486
+    },
+    {
+      "file": "cosmic-microwave-background.webp",
+      "source": "discoveries/thumb/cosmic-microwave-background.webp",
+      "kind": "discovery-thumb",
+      "owner": "cosmic-microwave-background",
+      "offset": 332800,
+      "size": 3486
+    },
+    {
+      "file": "cosmos.webp",
+      "source": "discoveries/thumb/cosmos.webp",
+      "kind": "discovery-thumb",
+      "owner": "cosmos",
+      "offset": 336896,
+      "size": 3540
+    },
+    {
+      "file": "cotton-gin.webp",
+      "source": "discoveries/thumb/cotton-gin.webp",
+      "kind": "discovery-thumb",
+      "owner": "cotton-gin",
+      "offset": 340992,
+      "size": 3412
+    },
+    {
+      "file": "coulombs-law.webp",
+      "source": "discoveries/thumb/coulombs-law.webp",
+      "kind": "discovery-thumb",
+      "owner": "coulombs-law",
+      "offset": 345088,
+      "size": 5334
+    },
+    {
+      "file": "crispr-cas9.webp",
+      "source": "discoveries/thumb/crispr-cas9.webp",
+      "kind": "discovery-thumb",
+      "owner": "crispr-cas9",
+      "offset": 351232,
+      "size": 5884
+    },
+    {
+      "file": "cultural-relativism.webp",
+      "source": "discoveries/thumb/cultural-relativism.webp",
+      "kind": "discovery-thumb",
+      "owner": "cultural-relativism",
+      "offset": 357888,
+      "size": 1894
+    },
+    {
+      "file": "cyclotron.webp",
+      "source": "discoveries/thumb/cyclotron.webp",
+      "kind": "discovery-thumb",
+      "owner": "cyclotron",
+      "offset": 360448,
+      "size": 3074
+    },
+    {
+      "file": "dark-matter.webp",
+      "source": "discoveries/thumb/dark-matter.webp",
+      "kind": "discovery-thumb",
+      "owner": "dark-matter",
+      "offset": 364544,
+      "size": 3950
+    },
+    {
+      "file": "darwins-finches.webp",
+      "source": "discoveries/thumb/darwins-finches.webp",
+      "kind": "discovery-thumb",
+      "owner": "darwins-finches",
+      "offset": 369152,
+      "size": 3662
+    },
+    {
+      "file": "de-humani-corporis-fabrica.webp",
+      "source": "discoveries/thumb/de-humani-corporis-fabrica.webp",
+      "kind": "discovery-thumb",
+      "owner": "de-humani-corporis-fabrica",
+      "offset": 373760,
+      "size": 2824
+    },
+    {
+      "file": "de-materia-medica.webp",
+      "source": "discoveries/thumb/de-materia-medica.webp",
+      "kind": "discovery-thumb",
+      "owner": "de-materia-medica",
+      "offset": 377344,
+      "size": 3970
+    },
+    {
+      "file": "de-medicina-celsus.webp",
+      "source": "discoveries/thumb/de-medicina-celsus.webp",
+      "kind": "discovery-thumb",
+      "owner": "de-medicina-celsus",
+      "offset": 381952,
+      "size": 3750
+    },
+    {
+      "file": "de-rerum-natura.webp",
+      "source": "discoveries/thumb/de-rerum-natura.webp",
+      "kind": "discovery-thumb",
+      "owner": "de-rerum-natura",
+      "offset": 386560,
+      "size": 4802
+    },
+    {
+      "file": "de-revolutionibus.webp",
+      "source": "discoveries/thumb/de-revolutionibus.webp",
+      "kind": "discovery-thumb",
+      "owner": "de-revolutionibus",
+      "offset": 392192,
+      "size": 2854
+    },
+    {
+      "file": "de-sphaera-mundi.webp",
+      "source": "discoveries/thumb/de-sphaera-mundi.webp",
+      "kind": "discovery-thumb",
+      "owner": "de-sphaera-mundi",
+      "offset": 395776,
+      "size": 3156
+    },
+    {
+      "file": "decipherment-of-hieroglyphs.webp",
+      "source": "discoveries/thumb/decipherment-of-hieroglyphs.webp",
+      "kind": "discovery-thumb",
+      "owner": "decipherment-of-hieroglyphs",
+      "offset": 399872,
+      "size": 3342
+    },
+    {
+      "file": "denisovans.webp",
+      "source": "discoveries/thumb/denisovans.webp",
+      "kind": "discovery-thumb",
+      "owner": "denisovans",
+      "offset": 403968,
+      "size": 3146
+    },
+    {
+      "file": "dialogue-two-chief-world-systems.webp",
+      "source": "discoveries/thumb/dialogue-two-chief-world-systems.webp",
+      "kind": "discovery-thumb",
+      "owner": "dialogue-two-chief-world-systems",
+      "offset": 408064,
+      "size": 4018
+    },
+    {
+      "file": "diesel-engine.webp",
+      "source": "discoveries/thumb/diesel-engine.webp",
+      "kind": "discovery-thumb",
+      "owner": "diesel-engine",
+      "offset": 412672,
+      "size": 2880
+    },
+    {
+      "file": "dirac-equation.webp",
+      "source": "discoveries/thumb/dirac-equation.webp",
+      "kind": "discovery-thumb",
+      "owner": "dirac-equation",
+      "offset": 416256,
+      "size": 2976
+    },
+    {
+      "file": "discourse-on-method.webp",
+      "source": "discoveries/thumb/discourse-on-method.webp",
+      "kind": "discovery-thumb",
+      "owner": "discourse-on-method",
+      "offset": 419840,
+      "size": 3054
+    },
+    {
+      "file": "dissipative-structures.webp",
+      "source": "discoveries/thumb/dissipative-structures.webp",
+      "kind": "discovery-thumb",
+      "owner": "dissipative-structures",
+      "offset": 423424,
+      "size": 3822
+    },
+    {
+      "file": "distillation-apparatus.webp",
+      "source": "discoveries/thumb/distillation-apparatus.webp",
+      "kind": "discovery-thumb",
+      "owner": "distillation-apparatus",
+      "offset": 428032,
+      "size": 4606
+    },
+    {
+      "file": "doppler-effect.webp",
+      "source": "discoveries/thumb/doppler-effect.webp",
+      "kind": "discovery-thumb",
+      "owner": "doppler-effect",
+      "offset": 433152,
+      "size": 7236
+    },
+    {
+      "file": "double-entry-bookkeeping.webp",
+      "source": "discoveries/thumb/double-entry-bookkeeping.webp",
+      "kind": "discovery-thumb",
+      "owner": "double-entry-bookkeeping",
+      "offset": 441344,
+      "size": 5248
+    },
+    {
+      "file": "double-helix.webp",
+      "source": "discoveries/thumb/double-helix.webp",
+      "kind": "discovery-thumb",
+      "owner": "double-helix",
+      "offset": 447488,
+      "size": 3816
+    },
+    {
+      "file": "dynamite.webp",
+      "source": "discoveries/thumb/dynamite.webp",
+      "kind": "discovery-thumb",
+      "owner": "dynamite",
+      "offset": 452096,
+      "size": 3082
+    },
+    {
+      "file": "earth-circumference.webp",
+      "source": "discoveries/thumb/earth-circumference.webp",
+      "kind": "discovery-thumb",
+      "owner": "earth-circumference",
+      "offset": 456192,
+      "size": 2778
+    },
+    {
+      "file": "eiffel-tower.webp",
+      "source": "discoveries/thumb/eiffel-tower.webp",
+      "kind": "discovery-thumb",
+      "owner": "eiffel-tower",
+      "offset": 459776,
+      "size": 2942
+    },
+    {
+      "file": "electric-motor.webp",
+      "source": "discoveries/thumb/electric-motor.webp",
+      "kind": "discovery-thumb",
+      "owner": "electric-motor",
+      "offset": 463360,
+      "size": 4170
+    },
+    {
+      "file": "electric-telegraph.webp",
+      "source": "discoveries/thumb/electric-telegraph.webp",
+      "kind": "discovery-thumb",
+      "owner": "electric-telegraph",
+      "offset": 468480,
+      "size": 3110
+    },
+    {
+      "file": "electromagnetic-induction.webp",
+      "source": "discoveries/thumb/electromagnetic-induction.webp",
+      "kind": "discovery-thumb",
+      "owner": "electromagnetic-induction",
+      "offset": 472576,
+      "size": 4060
+    },
+    {
+      "file": "electromagnetism.webp",
+      "source": "discoveries/thumb/electromagnetism.webp",
+      "kind": "discovery-thumb",
+      "owner": "electromagnetism",
+      "offset": 477184,
+      "size": 5338
+    },
+    {
+      "file": "electron.webp",
+      "source": "discoveries/thumb/electron.webp",
+      "kind": "discovery-thumb",
+      "owner": "electron",
+      "offset": 483328,
+      "size": 2970
+    },
+    {
+      "file": "electroweak-unification.webp",
+      "source": "discoveries/thumb/electroweak-unification.webp",
+      "kind": "discovery-thumb",
+      "owner": "electroweak-unification",
+      "offset": 486912,
+      "size": 2630
+    },
+    {
+      "file": "encyclopedie.webp",
+      "source": "discoveries/thumb/encyclopedie.webp",
+      "kind": "discovery-thumb",
+      "owner": "encyclopedie",
+      "offset": 490496,
+      "size": 3854
+    },
+    {
+      "file": "endosymbiotic-theory.webp",
+      "source": "discoveries/thumb/endosymbiotic-theory.webp",
+      "kind": "discovery-thumb",
+      "owner": "endosymbiotic-theory",
+      "offset": 495104,
+      "size": 3120
+    },
+    {
+      "file": "entropy.webp",
+      "source": "discoveries/thumb/entropy.webp",
+      "kind": "discovery-thumb",
+      "owner": "entropy",
+      "offset": 499200,
+      "size": 4016
+    },
+    {
+      "file": "erlangen-program.webp",
+      "source": "discoveries/thumb/erlangen-program.webp",
+      "kind": "discovery-thumb",
+      "owner": "erlangen-program",
+      "offset": 503808,
+      "size": 2988
+    },
+    {
+      "file": "euclids-elements.webp",
+      "source": "discoveries/thumb/euclids-elements.webp",
+      "kind": "discovery-thumb",
+      "owner": "euclids-elements",
+      "offset": 507392,
+      "size": 4664
+    },
+    {
+      "file": "eulers-identity.webp",
+      "source": "discoveries/thumb/eulers-identity.webp",
+      "kind": "discovery-thumb",
+      "owner": "eulers-identity",
+      "offset": 513024,
+      "size": 2802
+    },
+    {
+      "file": "eulers-polyhedron-formula.webp",
+      "source": "discoveries/thumb/eulers-polyhedron-formula.webp",
+      "kind": "discovery-thumb",
+      "owner": "eulers-polyhedron-formula",
+      "offset": 516608,
+      "size": 2886
+    },
+    {
+      "file": "exoplanet-51-pegasi-b.webp",
+      "source": "discoveries/thumb/exoplanet-51-pegasi-b.webp",
+      "kind": "discovery-thumb",
+      "owner": "exoplanet-51-pegasi-b",
+      "offset": 520192,
+      "size": 3416
+    },
+    {
+      "file": "expanding-universe.webp",
+      "source": "discoveries/thumb/expanding-universe.webp",
+      "kind": "discovery-thumb",
+      "owner": "expanding-universe",
+      "offset": 524288,
+      "size": 3458
+    },
+    {
+      "file": "extinction.webp",
+      "source": "discoveries/thumb/extinction.webp",
+      "kind": "discovery-thumb",
+      "owner": "extinction",
+      "offset": 528384,
+      "size": 5142
+    },
+    {
+      "file": "femtochemistry.webp",
+      "source": "discoveries/thumb/femtochemistry.webp",
+      "kind": "discovery-thumb",
+      "owner": "femtochemistry",
+      "offset": 534528,
+      "size": 3350
+    },
+    {
+      "file": "fermats-last-theorem.webp",
+      "source": "discoveries/thumb/fermats-last-theorem.webp",
+      "kind": "discovery-thumb",
+      "owner": "fermats-last-theorem",
+      "offset": 538624,
+      "size": 4568
+    },
+    {
+      "file": "feynman-lectures.webp",
+      "source": "discoveries/thumb/feynman-lectures.webp",
+      "kind": "discovery-thumb",
+      "owner": "feynman-lectures",
+      "offset": 543744,
+      "size": 4226
+    },
+    {
+      "file": "fine-structure-constant.webp",
+      "source": "discoveries/thumb/fine-structure-constant.webp",
+      "kind": "discovery-thumb",
+      "owner": "fine-structure-constant",
+      "offset": 548864,
+      "size": 4178
+    },
+    {
+      "file": "four-humours.webp",
+      "source": "discoveries/thumb/four-humours.webp",
+      "kind": "discovery-thumb",
+      "owner": "four-humours",
+      "offset": 553984,
+      "size": 2710
+    },
+    {
+      "file": "four-stroke-engine.webp",
+      "source": "discoveries/thumb/four-stroke-engine.webp",
+      "kind": "discovery-thumb",
+      "owner": "four-stroke-engine",
+      "offset": 557568,
+      "size": 2660
+    },
+    {
+      "file": "fractal-geometry.webp",
+      "source": "discoveries/thumb/fractal-geometry.webp",
+      "kind": "discovery-thumb",
+      "owner": "fractal-geometry",
+      "offset": 561152,
+      "size": 3636
+    },
+    {
+      "file": "fresnel-lens.webp",
+      "source": "discoveries/thumb/fresnel-lens.webp",
+      "kind": "discovery-thumb",
+      "owner": "fresnel-lens",
+      "offset": 565760,
+      "size": 4854
+    },
+    {
+      "file": "fundamental-theorem-of-algebra.webp",
+      "source": "discoveries/thumb/fundamental-theorem-of-algebra.webp",
+      "kind": "discovery-thumb",
+      "owner": "fundamental-theorem-of-algebra",
+      "offset": 571392,
+      "size": 3242
+    },
+    {
+      "file": "galen-into-arabic.webp",
+      "source": "discoveries/thumb/galen-into-arabic.webp",
+      "kind": "discovery-thumb",
+      "owner": "galen-into-arabic",
+      "offset": 575488,
+      "size": 3746
+    },
+    {
+      "file": "galois-theory.webp",
+      "source": "discoveries/thumb/galois-theory.webp",
+      "kind": "discovery-thumb",
+      "owner": "galois-theory",
+      "offset": 580096,
+      "size": 3024
+    },
+    {
+      "file": "game-theory.webp",
+      "source": "discoveries/thumb/game-theory.webp",
+      "kind": "discovery-thumb",
+      "owner": "game-theory",
+      "offset": 583680,
+      "size": 3306
+    },
+    {
+      "file": "geiger-counter.webp",
+      "source": "discoveries/thumb/geiger-counter.webp",
+      "kind": "discovery-thumb",
+      "owner": "geiger-counter",
+      "offset": 587776,
+      "size": 5232
+    },
+    {
+      "file": "general-relativity.webp",
+      "source": "discoveries/thumb/general-relativity.webp",
+      "kind": "discovery-thumb",
+      "owner": "general-relativity",
+      "offset": 593920,
+      "size": 4052
+    },
+    {
+      "file": "general-theory-keynes.webp",
+      "source": "discoveries/thumb/general-theory-keynes.webp",
+      "kind": "discovery-thumb",
+      "owner": "general-theory-keynes",
+      "offset": 598528,
+      "size": 3418
+    },
+    {
+      "file": "generative-grammar.webp",
+      "source": "discoveries/thumb/generative-grammar.webp",
+      "kind": "discovery-thumb",
+      "owner": "generative-grammar",
+      "offset": 602624,
+      "size": 2874
+    },
+    {
+      "file": "genetic-code.webp",
+      "source": "discoveries/thumb/genetic-code.webp",
+      "kind": "discovery-thumb",
+      "owner": "genetic-code",
+      "offset": 606208,
+      "size": 3406
+    },
+    {
+      "file": "geologic-time-scale.webp",
+      "source": "discoveries/thumb/geologic-time-scale.webp",
+      "kind": "discovery-thumb",
+      "owner": "geologic-time-scale",
+      "offset": 610304,
+      "size": 3170
+    },
+    {
+      "file": "germ-theory.webp",
+      "source": "discoveries/thumb/germ-theory.webp",
+      "kind": "discovery-thumb",
+      "owner": "germ-theory",
+      "offset": 614400,
+      "size": 3018
+    },
+    {
+      "file": "gps.webp",
+      "source": "discoveries/thumb/gps.webp",
+      "kind": "discovery-thumb",
+      "owner": "gps",
+      "offset": 617984,
+      "size": 3122
+    },
+    {
+      "file": "graphene.webp",
+      "source": "discoveries/thumb/graphene.webp",
+      "kind": "discovery-thumb",
+      "owner": "graphene",
+      "offset": 622080,
+      "size": 2796
+    },
+    {
+      "file": "gravitational-waves.webp",
+      "source": "discoveries/thumb/gravitational-waves.webp",
+      "kind": "discovery-thumb",
+      "owner": "gravitational-waves",
+      "offset": 625664,
+      "size": 13214
+    },
+    {
+      "file": "greek-fire.webp",
+      "source": "discoveries/thumb/greek-fire.webp",
+      "kind": "discovery-thumb",
+      "owner": "greek-fire",
+      "offset": 639488,
+      "size": 4584
+    },
+    {
+      "file": "gregorian-calendar.webp",
+      "source": "discoveries/thumb/gregorian-calendar.webp",
+      "kind": "discovery-thumb",
+      "owner": "gregorian-calendar",
+      "offset": 644608,
+      "size": 3966
+    },
+    {
+      "file": "grid-plan-city.webp",
+      "source": "discoveries/thumb/grid-plan-city.webp",
+      "kind": "discovery-thumb",
+      "owner": "grid-plan-city",
+      "offset": 649216,
+      "size": 2814
+    },
+    {
+      "file": "guide-for-the-perplexed.webp",
+      "source": "discoveries/thumb/guide-for-the-perplexed.webp",
+      "kind": "discovery-thumb",
+      "owner": "guide-for-the-perplexed",
+      "offset": 652800,
+      "size": 3868
+    },
+    {
+      "file": "gyroscope.webp",
+      "source": "discoveries/thumb/gyroscope.webp",
+      "kind": "discovery-thumb",
+      "owner": "gyroscope",
+      "offset": 657408,
+      "size": 4558
+    },
+    {
+      "file": "haber-bosch.webp",
+      "source": "discoveries/thumb/haber-bosch.webp",
+      "kind": "discovery-thumb",
+      "owner": "haber-bosch",
+      "offset": 662528,
+      "size": 3182
+    },
+    {
+      "file": "hagia-sophia-dome.webp",
+      "source": "discoveries/thumb/hagia-sophia-dome.webp",
+      "kind": "discovery-thumb",
+      "owner": "hagia-sophia-dome",
+      "offset": 666624,
+      "size": 3098
+    },
+    {
+      "file": "halleys-comet.webp",
+      "source": "discoveries/thumb/halleys-comet.webp",
+      "kind": "discovery-thumb",
+      "owner": "halleys-comet",
+      "offset": 670720,
+      "size": 4814
+    },
+    {
+      "file": "handwashing-semmelweis.webp",
+      "source": "discoveries/thumb/handwashing-semmelweis.webp",
+      "kind": "discovery-thumb",
+      "owner": "handwashing-semmelweis",
+      "offset": 676352,
+      "size": 3328
+    },
+    {
+      "file": "hawking-radiation.webp",
+      "source": "discoveries/thumb/hawking-radiation.webp",
+      "kind": "discovery-thumb",
+      "owner": "hawking-radiation",
+      "offset": 680448,
+      "size": 3876
+    },
+    {
+      "file": "heart-transplant.webp",
+      "source": "discoveries/thumb/heart-transplant.webp",
+      "kind": "discovery-thumb",
+      "owner": "heart-transplant",
+      "offset": 685056,
+      "size": 3282
+    },
+    {
+      "file": "helicobacter-pylori.webp",
+      "source": "discoveries/thumb/helicobacter-pylori.webp",
+      "kind": "discovery-thumb",
+      "owner": "helicobacter-pylori",
+      "offset": 689152,
+      "size": 5434
+    },
+    {
+      "file": "helicopter.webp",
+      "source": "discoveries/thumb/helicopter.webp",
+      "kind": "discovery-thumb",
+      "owner": "helicopter",
+      "offset": 695296,
+      "size": 3528
+    },
+    {
+      "file": "heliocentrism.webp",
+      "source": "discoveries/thumb/heliocentrism.webp",
+      "kind": "discovery-thumb",
+      "owner": "heliocentrism",
+      "offset": 699392,
+      "size": 5318
+    },
+    {
+      "file": "helium.webp",
+      "source": "discoveries/thumb/helium.webp",
+      "kind": "discovery-thumb",
+      "owner": "helium",
+      "offset": 705536,
+      "size": 3110
+    },
+    {
+      "file": "higgs-boson.webp",
+      "source": "discoveries/thumb/higgs-boson.webp",
+      "kind": "discovery-thumb",
+      "owner": "higgs-boson",
+      "offset": 709632,
+      "size": 2918
+    },
+    {
+      "file": "higgs-mechanism.webp",
+      "source": "discoveries/thumb/higgs-mechanism.webp",
+      "kind": "discovery-thumb",
+      "owner": "higgs-mechanism",
+      "offset": 713216,
+      "size": 2732
+    },
+    {
+      "file": "hipparchus-star-catalogue.webp",
+      "source": "discoveries/thumb/hipparchus-star-catalogue.webp",
+      "kind": "discovery-thumb",
+      "owner": "hipparchus-star-catalogue",
+      "offset": 716800,
+      "size": 3774
+    },
+    {
+      "file": "hippocratic-corpus.webp",
+      "source": "discoveries/thumb/hippocratic-corpus.webp",
+      "kind": "discovery-thumb",
+      "owner": "hippocratic-corpus",
+      "offset": 721408,
+      "size": 4408
+    },
+    {
+      "file": "histories-herodotus.webp",
+      "source": "discoveries/thumb/histories-herodotus.webp",
+      "kind": "discovery-thumb",
+      "owner": "histories-herodotus",
+      "offset": 726528,
+      "size": 2578
+    },
+    {
+      "file": "hiv.webp",
+      "source": "discoveries/thumb/hiv.webp",
+      "kind": "discovery-thumb",
+      "owner": "hiv",
+      "offset": 730112,
+      "size": 3626
+    },
+    {
+      "file": "homo-habilis.webp",
+      "source": "discoveries/thumb/homo-habilis.webp",
+      "kind": "discovery-thumb",
+      "owner": "homo-habilis",
+      "offset": 734720,
+      "size": 2464
+    },
+    {
+      "file": "hookes-law.webp",
+      "source": "discoveries/thumb/hookes-law.webp",
+      "kind": "discovery-thumb",
+      "owner": "hookes-law",
+      "offset": 737792,
+      "size": 5576
+    },
+    {
+      "file": "hot-air-balloon.webp",
+      "source": "discoveries/thumb/hot-air-balloon.webp",
+      "kind": "discovery-thumb",
+      "owner": "hot-air-balloon",
+      "offset": 743936,
+      "size": 3530
+    },
+    {
+      "file": "house-of-wisdom.webp",
+      "source": "discoveries/thumb/house-of-wisdom.webp",
+      "kind": "discovery-thumb",
+      "owner": "house-of-wisdom",
+      "offset": 748032,
+      "size": 2572
+    },
+    {
+      "file": "hubble-sequence.webp",
+      "source": "discoveries/thumb/hubble-sequence.webp",
+      "kind": "discovery-thumb",
+      "owner": "hubble-sequence",
+      "offset": 751616,
+      "size": 5920
+    },
+    {
+      "file": "hubble-space-telescope.webp",
+      "source": "discoveries/thumb/hubble-space-telescope.webp",
+      "kind": "discovery-thumb",
+      "owner": "hubble-space-telescope",
+      "offset": 758272,
+      "size": 3334
+    },
+    {
+      "file": "human-genome.webp",
+      "source": "discoveries/thumb/human-genome.webp",
+      "kind": "discovery-thumb",
+      "owner": "human-genome",
+      "offset": 762368,
+      "size": 4520
+    },
+    {
+      "file": "hydrogen-bomb.webp",
+      "source": "discoveries/thumb/hydrogen-bomb.webp",
+      "kind": "discovery-thumb",
+      "owner": "hydrogen-bomb",
+      "offset": 767488,
+      "size": 1134
+    },
+    {
+      "file": "hydrogen.webp",
+      "source": "discoveries/thumb/hydrogen.webp",
+      "kind": "discovery-thumb",
+      "owner": "hydrogen",
+      "offset": 769536,
+      "size": 3400
+    },
+    {
+      "file": "ichthyosaur.webp",
+      "source": "discoveries/thumb/ichthyosaur.webp",
+      "kind": "discovery-thumb",
+      "owner": "ichthyosaur",
+      "offset": 773632,
+      "size": 3300
+    },
+    {
+      "file": "ideal-gas-law.webp",
+      "source": "discoveries/thumb/ideal-gas-law.webp",
+      "kind": "discovery-thumb",
+      "owner": "ideal-gas-law",
+      "offset": 777728,
+      "size": 2926
+    },
+    {
+      "file": "iguanodon.webp",
+      "source": "discoveries/thumb/iguanodon.webp",
+      "kind": "discovery-thumb",
+      "owner": "iguanodon",
+      "offset": 781312,
+      "size": 3798
+    },
+    {
+      "file": "incandescent-lamp.webp",
+      "source": "discoveries/thumb/incandescent-lamp.webp",
+      "kind": "discovery-thumb",
+      "owner": "incandescent-lamp",
+      "offset": 785920,
+      "size": 2748
+    },
+    {
+      "file": "incompleteness-theorems.webp",
+      "source": "discoveries/thumb/incompleteness-theorems.webp",
+      "kind": "discovery-thumb",
+      "owner": "incompleteness-theorems",
+      "offset": 789504,
+      "size": 4256
+    },
+    {
+      "file": "information-theory.webp",
+      "source": "discoveries/thumb/information-theory.webp",
+      "kind": "discovery-thumb",
+      "owner": "information-theory",
+      "offset": 794624,
+      "size": 2780
+    },
+    {
+      "file": "infrared.webp",
+      "source": "discoveries/thumb/infrared.webp",
+      "kind": "discovery-thumb",
+      "owner": "infrared",
+      "offset": 798208,
+      "size": 3446
+    },
+    {
+      "file": "insulin.webp",
+      "source": "discoveries/thumb/insulin.webp",
+      "kind": "discovery-thumb",
+      "owner": "insulin",
+      "offset": 802304,
+      "size": 3246
+    },
+    {
+      "file": "integrated-circuit.webp",
+      "source": "discoveries/thumb/integrated-circuit.webp",
+      "kind": "discovery-thumb",
+      "owner": "integrated-circuit",
+      "offset": 806400,
+      "size": 2128
+    },
+    {
+      "file": "interference-of-light.webp",
+      "source": "discoveries/thumb/interference-of-light.webp",
+      "kind": "discovery-thumb",
+      "owner": "interference-of-light",
+      "offset": 809472,
+      "size": 3934
+    },
+    {
+      "file": "internet-protocols.webp",
+      "source": "discoveries/thumb/internet-protocols.webp",
+      "kind": "discovery-thumb",
+      "owner": "internet-protocols",
+      "offset": 814080,
+      "size": 4126
+    },
+    {
+      "file": "interpretation-of-dreams.webp",
+      "source": "discoveries/thumb/interpretation-of-dreams.webp",
+      "kind": "discovery-thumb",
+      "owner": "interpretation-of-dreams",
+      "offset": 819200,
+      "size": 3144
+    },
+    {
+      "file": "irrationality-of-root-two.webp",
+      "source": "discoveries/thumb/irrationality-of-root-two.webp",
+      "kind": "discovery-thumb",
+      "owner": "irrationality-of-root-two",
+      "offset": 823296,
+      "size": 2088
+    },
+    {
+      "file": "ivf.webp",
+      "source": "discoveries/thumb/ivf.webp",
+      "kind": "discovery-thumb",
+      "owner": "ivf",
+      "offset": 826368,
+      "size": 2884
+    },
+    {
+      "file": "jacobs-staff.webp",
+      "source": "discoveries/thumb/jacobs-staff.webp",
+      "kind": "discovery-thumb",
+      "owner": "jacobs-staff",
+      "offset": 829952,
+      "size": 2640
+    },
+    {
+      "file": "julian-calendar.webp",
+      "source": "discoveries/thumb/julian-calendar.webp",
+      "kind": "discovery-thumb",
+      "owner": "julian-calendar",
+      "offset": 833536,
+      "size": 2680
+    },
+    {
+      "file": "keplers-laws.webp",
+      "source": "discoveries/thumb/keplers-laws.webp",
+      "kind": "discovery-thumb",
+      "owner": "keplers-laws",
+      "offset": 837120,
+      "size": 4502
+    },
+    {
+      "file": "keplers-third-law.webp",
+      "source": "discoveries/thumb/keplers-third-law.webp",
+      "kind": "discovery-thumb",
+      "owner": "keplers-third-law",
+      "offset": 842240,
+      "size": 6818
+    },
+    {
+      "file": "kevlar.webp",
+      "source": "discoveries/thumb/kevlar.webp",
+      "kind": "discovery-thumb",
+      "owner": "kevlar",
+      "offset": 849920,
+      "size": 4124
+    },
+    {
+      "file": "kinetic-theory-of-gases.webp",
+      "source": "discoveries/thumb/kinetic-theory-of-gases.webp",
+      "kind": "discovery-thumb",
+      "owner": "kinetic-theory-of-gases",
+      "offset": 855040,
+      "size": 3988
+    },
+    {
+      "file": "kinsey-reports.webp",
+      "source": "discoveries/thumb/kinsey-reports.webp",
+      "kind": "discovery-thumb",
+      "owner": "kinsey-reports",
+      "offset": 859648,
+      "size": 2556
+    },
+    {
+      "file": "kitab-al-ayn.webp",
+      "source": "discoveries/thumb/kitab-al-ayn.webp",
+      "kind": "discovery-thumb",
+      "owner": "kitab-al-ayn",
+      "offset": 862720,
+      "size": 4126
+    },
+    {
+      "file": "kitab-al-hayawan.webp",
+      "source": "discoveries/thumb/kitab-al-hayawan.webp",
+      "kind": "discovery-thumb",
+      "owner": "kitab-al-hayawan",
+      "offset": 867840,
+      "size": 3350
+    },
+    {
+      "file": "laetoli-footprints.webp",
+      "source": "discoveries/thumb/laetoli-footprints.webp",
+      "kind": "discovery-thumb",
+      "owner": "laetoli-footprints",
+      "offset": 871936,
+      "size": 2988
+    },
+    {
+      "file": "laser.webp",
+      "source": "discoveries/thumb/laser.webp",
+      "kind": "discovery-thumb",
+      "owner": "laser",
+      "offset": 875520,
+      "size": 1856
+    },
+    {
+      "file": "law-of-falling-bodies.webp",
+      "source": "discoveries/thumb/law-of-falling-bodies.webp",
+      "kind": "discovery-thumb",
+      "owner": "law-of-falling-bodies",
+      "offset": 878080,
+      "size": 2838
+    },
+    {
+      "file": "law-of-large-numbers.webp",
+      "source": "discoveries/thumb/law-of-large-numbers.webp",
+      "kind": "discovery-thumb",
+      "owner": "law-of-large-numbers",
+      "offset": 881664,
+      "size": 3654
+    },
+    {
+      "file": "law-of-refraction.webp",
+      "source": "discoveries/thumb/law-of-refraction.webp",
+      "kind": "discovery-thumb",
+      "owner": "law-of-refraction",
+      "offset": 886272,
+      "size": 2442
+    },
+    {
+      "file": "laws-of-motion.webp",
+      "source": "discoveries/thumb/laws-of-motion.webp",
+      "kind": "discovery-thumb",
+      "owner": "laws-of-motion",
+      "offset": 889344,
+      "size": 4872
+    },
+    {
+      "file": "least-squares.webp",
+      "source": "discoveries/thumb/least-squares.webp",
+      "kind": "discovery-thumb",
+      "owner": "least-squares",
+      "offset": 894976,
+      "size": 2480
+    },
+    {
+      "file": "liber-abaci.webp",
+      "source": "discoveries/thumb/liber-abaci.webp",
+      "kind": "discovery-thumb",
+      "owner": "liber-abaci",
+      "offset": 898048,
+      "size": 3856
+    },
+    {
+      "file": "lightning-is-electricity.webp",
+      "source": "discoveries/thumb/lightning-is-electricity.webp",
+      "kind": "discovery-thumb",
+      "owner": "lightning-is-electricity",
+      "offset": 902656,
+      "size": 3578
+    },
+    {
+      "file": "ligo.webp",
+      "source": "discoveries/thumb/ligo.webp",
+      "kind": "discovery-thumb",
+      "owner": "ligo",
+      "offset": 906752,
+      "size": 2598
+    },
+    {
+      "file": "linear-perspective.webp",
+      "source": "discoveries/thumb/linear-perspective.webp",
+      "kind": "discovery-thumb",
+      "owner": "linear-perspective",
+      "offset": 910336,
+      "size": 3696
+    },
+    {
+      "file": "linux-kernel.webp",
+      "source": "discoveries/thumb/linux-kernel.webp",
+      "kind": "discovery-thumb",
+      "owner": "linux-kernel",
+      "offset": 914944,
+      "size": 2550
+    },
+    {
+      "file": "lithium-ion-battery.webp",
+      "source": "discoveries/thumb/lithium-ion-battery.webp",
+      "kind": "discovery-thumb",
+      "owner": "lithium-ion-battery",
+      "offset": 918016,
+      "size": 2870
+    },
+    {
+      "file": "lock-and-key-model.webp",
+      "source": "discoveries/thumb/lock-and-key-model.webp",
+      "kind": "discovery-thumb",
+      "owner": "lock-and-key-model",
+      "offset": 921600,
+      "size": 4310
+    },
+    {
+      "file": "logarithms.webp",
+      "source": "discoveries/thumb/logarithms.webp",
+      "kind": "discovery-thumb",
+      "owner": "logarithms",
+      "offset": 926720,
+      "size": 3206
+    },
+    {
+      "file": "lsd.webp",
+      "source": "discoveries/thumb/lsd.webp",
+      "kind": "discovery-thumb",
+      "owner": "lsd",
+      "offset": 930816,
+      "size": 2654
+    },
+    {
+      "file": "lyceum.webp",
+      "source": "discoveries/thumb/lyceum.webp",
+      "kind": "discovery-thumb",
+      "owner": "lyceum",
+      "offset": 934400,
+      "size": 5318
+    },
+    {
+      "file": "magnetic-compass.webp",
+      "source": "discoveries/thumb/magnetic-compass.webp",
+      "kind": "discovery-thumb",
+      "owner": "magnetic-compass",
+      "offset": 940544,
+      "size": 3004
+    },
+    {
+      "file": "malthusian-principle.webp",
+      "source": "discoveries/thumb/malthusian-principle.webp",
+      "kind": "discovery-thumb",
+      "owner": "malthusian-principle",
+      "offset": 944128,
+      "size": 1918
+    },
+    {
+      "file": "manhattan-project.webp",
+      "source": "discoveries/thumb/manhattan-project.webp",
+      "kind": "discovery-thumb",
+      "owner": "manhattan-project",
+      "offset": 946688,
+      "size": 3798
+    },
+    {
+      "file": "marine-chronometer.webp",
+      "source": "discoveries/thumb/marine-chronometer.webp",
+      "kind": "discovery-thumb",
+      "owner": "marine-chronometer",
+      "offset": 951296,
+      "size": 3928
+    },
+    {
+      "file": "maslows-hierarchy.webp",
+      "source": "discoveries/thumb/maslows-hierarchy.webp",
+      "kind": "discovery-thumb",
+      "owner": "maslows-hierarchy",
+      "offset": 955904,
+      "size": 2672
+    },
+    {
+      "file": "mass-energy-equivalence.webp",
+      "source": "discoveries/thumb/mass-energy-equivalence.webp",
+      "kind": "discovery-thumb",
+      "owner": "mass-energy-equivalence",
+      "offset": 959488,
+      "size": 3988
+    },
+    {
+      "file": "mass-spectrometer.webp",
+      "source": "discoveries/thumb/mass-spectrometer.webp",
+      "kind": "discovery-thumb",
+      "owner": "mass-spectrometer",
+      "offset": 964096,
+      "size": 3906
+    },
+    {
+      "file": "mathematica.webp",
+      "source": "discoveries/thumb/mathematica.webp",
+      "kind": "discovery-thumb",
+      "owner": "mathematica",
+      "offset": 968704,
+      "size": 4026
+    },
+    {
+      "file": "mathematical-probability.webp",
+      "source": "discoveries/thumb/mathematical-probability.webp",
+      "kind": "discovery-thumb",
+      "owner": "mathematical-probability",
+      "offset": 973312,
+      "size": 3258
+    },
+    {
+      "file": "maxwells-equations.webp",
+      "source": "discoveries/thumb/maxwells-equations.webp",
+      "kind": "discovery-thumb",
+      "owner": "maxwells-equations",
+      "offset": 977408,
+      "size": 5106
+    },
+    {
+      "file": "mechanical-calculator.webp",
+      "source": "discoveries/thumb/mechanical-calculator.webp",
+      "kind": "discovery-thumb",
+      "owner": "mechanical-calculator",
+      "offset": 983040,
+      "size": 2806
+    },
+    {
+      "file": "megalosaurus.webp",
+      "source": "discoveries/thumb/megalosaurus.webp",
+      "kind": "discovery-thumb",
+      "owner": "megalosaurus",
+      "offset": 986624,
+      "size": 4184
+    },
+    {
+      "file": "menai-suspension-bridge.webp",
+      "source": "discoveries/thumb/menai-suspension-bridge.webp",
+      "kind": "discovery-thumb",
+      "owner": "menai-suspension-bridge",
+      "offset": 991744,
+      "size": 4584
+    },
+    {
+      "file": "mendelian-inheritance.webp",
+      "source": "discoveries/thumb/mendelian-inheritance.webp",
+      "kind": "discovery-thumb",
+      "owner": "mendelian-inheritance",
+      "offset": 996864,
+      "size": 3856
+    },
+    {
+      "file": "mercator-projection.webp",
+      "source": "discoveries/thumb/mercator-projection.webp",
+      "kind": "discovery-thumb",
+      "owner": "mercator-projection",
+      "offset": 1001472,
+      "size": 3886
+    },
+    {
+      "file": "mercury-thermometer.webp",
+      "source": "discoveries/thumb/mercury-thermometer.webp",
+      "kind": "discovery-thumb",
+      "owner": "mercury-thermometer",
+      "offset": 1006080,
+      "size": 3122
+    },
+    {
+      "file": "messier-catalogue.webp",
+      "source": "discoveries/thumb/messier-catalogue.webp",
+      "kind": "discovery-thumb",
+      "owner": "messier-catalogue",
+      "offset": 1010176,
+      "size": 4264
+    },
+    {
+      "file": "metric-system.webp",
+      "source": "discoveries/thumb/metric-system.webp",
+      "kind": "discovery-thumb",
+      "owner": "metric-system",
+      "offset": 1015296,
+      "size": 2886
+    },
+    {
+      "file": "michelson-morley-experiment.webp",
+      "source": "discoveries/thumb/michelson-morley-experiment.webp",
+      "kind": "discovery-thumb",
+      "owner": "michelson-morley-experiment",
+      "offset": 1018880,
+      "size": 3994
+    },
+    {
+      "file": "microorganisms.webp",
+      "source": "discoveries/thumb/microorganisms.webp",
+      "kind": "discovery-thumb",
+      "owner": "microorganisms",
+      "offset": 1023488,
+      "size": 3040
+    },
+    {
+      "file": "microprocessor.webp",
+      "source": "discoveries/thumb/microprocessor.webp",
+      "kind": "discovery-thumb",
+      "owner": "microprocessor",
+      "offset": 1027072,
+      "size": 3108
+    },
+    {
+      "file": "mitochondrial-eve.webp",
+      "source": "discoveries/thumb/mitochondrial-eve.webp",
+      "kind": "discovery-thumb",
+      "owner": "mitochondrial-eve",
+      "offset": 1031168,
+      "size": 4510
+    },
+    {
+      "file": "mobile-phone.webp",
+      "source": "discoveries/thumb/mobile-phone.webp",
+      "kind": "discovery-thumb",
+      "owner": "mobile-phone",
+      "offset": 1036288,
+      "size": 1818
+    },
+    {
+      "file": "modern-synthesis.webp",
+      "source": "discoveries/thumb/modern-synthesis.webp",
+      "kind": "discovery-thumb",
+      "owner": "modern-synthesis",
+      "offset": 1038848,
+      "size": 5752
+    },
+    {
+      "file": "mohs-scale.webp",
+      "source": "discoveries/thumb/mohs-scale.webp",
+      "kind": "discovery-thumb",
+      "owner": "mohs-scale",
+      "offset": 1045504,
+      "size": 2996
+    },
+    {
+      "file": "monte-carlo-method.webp",
+      "source": "discoveries/thumb/monte-carlo-method.webp",
+      "kind": "discovery-thumb",
+      "owner": "monte-carlo-method",
+      "offset": 1049088,
+      "size": 3960
+    },
+    {
+      "file": "moons-of-jupiter.webp",
+      "source": "discoveries/thumb/moons-of-jupiter.webp",
+      "kind": "discovery-thumb",
+      "owner": "moons-of-jupiter",
+      "offset": 1053696,
+      "size": 2752
+    },
+    {
+      "file": "moores-law.webp",
+      "source": "discoveries/thumb/moores-law.webp",
+      "kind": "discovery-thumb",
+      "owner": "moores-law",
+      "offset": 1057280,
+      "size": 2636
+    },
+    {
+      "file": "morphine.webp",
+      "source": "discoveries/thumb/morphine.webp",
+      "kind": "discovery-thumb",
+      "owner": "morphine",
+      "offset": 1060864,
+      "size": 3728
+    },
+    {
+      "file": "morse-code.webp",
+      "source": "discoveries/thumb/morse-code.webp",
+      "kind": "discovery-thumb",
+      "owner": "morse-code",
+      "offset": 1065472,
+      "size": 3168
+    },
+    {
+      "file": "movable-type.webp",
+      "source": "discoveries/thumb/movable-type.webp",
+      "kind": "discovery-thumb",
+      "owner": "movable-type",
+      "offset": 1069568,
+      "size": 3534
+    },
+    {
+      "file": "mri.webp",
+      "source": "discoveries/thumb/mri.webp",
+      "kind": "discovery-thumb",
+      "owner": "mri",
+      "offset": 1073664,
+      "size": 3364
+    },
+    {
+      "file": "mrna-vaccines.webp",
+      "source": "discoveries/thumb/mrna-vaccines.webp",
+      "kind": "discovery-thumb",
+      "owner": "mrna-vaccines",
+      "offset": 1077760,
+      "size": 2954
+    },
+    {
+      "file": "muqaddimah.webp",
+      "source": "discoveries/thumb/muqaddimah.webp",
+      "kind": "discovery-thumb",
+      "owner": "muqaddimah",
+      "offset": 1081344,
+      "size": 2914
+    },
+    {
+      "file": "nash-equilibrium.webp",
+      "source": "discoveries/thumb/nash-equilibrium.webp",
+      "kind": "discovery-thumb",
+      "owner": "nash-equilibrium",
+      "offset": 1084928,
+      "size": 3572
+    },
+    {
+      "file": "natural-selection.webp",
+      "source": "discoveries/thumb/natural-selection.webp",
+      "kind": "discovery-thumb",
+      "owner": "natural-selection",
+      "offset": 1089024,
+      "size": 4044
+    },
+    {
+      "file": "naturalis-historia.webp",
+      "source": "discoveries/thumb/naturalis-historia.webp",
+      "kind": "discovery-thumb",
+      "owner": "naturalis-historia",
+      "offset": 1093632,
+      "size": 3294
+    },
+    {
+      "file": "nature-of-the-chemical-bond.webp",
+      "source": "discoveries/thumb/nature-of-the-chemical-bond.webp",
+      "kind": "discovery-thumb",
+      "owner": "nature-of-the-chemical-bond",
+      "offset": 1097728,
+      "size": 2986
+    },
+    {
+      "file": "navier-stokes-equations.webp",
+      "source": "discoveries/thumb/navier-stokes-equations.webp",
+      "kind": "discovery-thumb",
+      "owner": "navier-stokes-equations",
+      "offset": 1101312,
+      "size": 4146
+    },
+    {
+      "file": "neanderthal-genome.webp",
+      "source": "discoveries/thumb/neanderthal-genome.webp",
+      "kind": "discovery-thumb",
+      "owner": "neanderthal-genome",
+      "offset": 1106432,
+      "size": 3934
+    },
+    {
+      "file": "nebular-hypothesis.webp",
+      "source": "discoveries/thumb/nebular-hypothesis.webp",
+      "kind": "discovery-thumb",
+      "owner": "nebular-hypothesis",
+      "offset": 1111040,
+      "size": 2900
+    },
+    {
+      "file": "neptune.webp",
+      "source": "discoveries/thumb/neptune.webp",
+      "kind": "discovery-thumb",
+      "owner": "neptune",
+      "offset": 1114624,
+      "size": 2692
+    },
+    {
+      "file": "neuron-doctrine.webp",
+      "source": "discoveries/thumb/neuron-doctrine.webp",
+      "kind": "discovery-thumb",
+      "owner": "neuron-doctrine",
+      "offset": 1118208,
+      "size": 3774
+    },
+    {
+      "file": "neutrino.webp",
+      "source": "discoveries/thumb/neutrino.webp",
+      "kind": "discovery-thumb",
+      "owner": "neutrino",
+      "offset": 1122816,
+      "size": 2330
+    },
+    {
+      "file": "neutron.webp",
+      "source": "discoveries/thumb/neutron.webp",
+      "kind": "discovery-thumb",
+      "owner": "neutron",
+      "offset": 1125888,
+      "size": 2458
+    },
+    {
+      "file": "newcomen-engine.webp",
+      "source": "discoveries/thumb/newcomen-engine.webp",
+      "kind": "discovery-thumb",
+      "owner": "newcomen-engine",
+      "offset": 1128960,
+      "size": 2674
+    },
+    {
+      "file": "nitrogen.webp",
+      "source": "discoveries/thumb/nitrogen.webp",
+      "kind": "discovery-thumb",
+      "owner": "nitrogen",
+      "offset": 1132544,
+      "size": 2124
+    },
+    {
+      "file": "nobel-prizes.webp",
+      "source": "discoveries/thumb/nobel-prizes.webp",
+      "kind": "discovery-thumb",
+      "owner": "nobel-prizes",
+      "offset": 1135616,
+      "size": 4158
+    },
+    {
+      "file": "noethers-theorem.webp",
+      "source": "discoveries/thumb/noethers-theorem.webp",
+      "kind": "discovery-thumb",
+      "owner": "noethers-theorem",
+      "offset": 1140736,
+      "size": 3044
+    },
+    {
+      "file": "non-euclidean-geometry.webp",
+      "source": "discoveries/thumb/non-euclidean-geometry.webp",
+      "kind": "discovery-thumb",
+      "owner": "non-euclidean-geometry",
+      "offset": 1144320,
+      "size": 3794
+    },
+    {
+      "file": "normal-distribution.webp",
+      "source": "discoveries/thumb/normal-distribution.webp",
+      "kind": "discovery-thumb",
+      "owner": "normal-distribution",
+      "offset": 1148928,
+      "size": 2236
+    },
+    {
+      "file": "novum-organum.webp",
+      "source": "discoveries/thumb/novum-organum.webp",
+      "kind": "discovery-thumb",
+      "owner": "novum-organum",
+      "offset": 1152000,
+      "size": 2096
+    },
+    {
+      "file": "nuclear-fission.webp",
+      "source": "discoveries/thumb/nuclear-fission.webp",
+      "kind": "discovery-thumb",
+      "owner": "nuclear-fission",
+      "offset": 1155072,
+      "size": 5154
+    },
+    {
+      "file": "nuclear-reactor.webp",
+      "source": "discoveries/thumb/nuclear-reactor.webp",
+      "kind": "discovery-thumb",
+      "owner": "nuclear-reactor",
+      "offset": 1161216,
+      "size": 2514
+    },
+    {
+      "file": "obedience-experiment.webp",
+      "source": "discoveries/thumb/obedience-experiment.webp",
+      "kind": "discovery-thumb",
+      "owner": "obedience-experiment",
+      "offset": 1164288,
+      "size": 3506
+    },
+    {
+      "file": "octant-sextant.webp",
+      "source": "discoveries/thumb/octant-sextant.webp",
+      "kind": "discovery-thumb",
+      "owner": "octant-sextant",
+      "offset": 1168384,
+      "size": 5436
+    },
+    {
+      "file": "ohms-law.webp",
+      "source": "discoveries/thumb/ohms-law.webp",
+      "kind": "discovery-thumb",
+      "owner": "ohms-law",
+      "offset": 1174528,
+      "size": 5040
+    },
+    {
+      "file": "opticks.webp",
+      "source": "discoveries/thumb/opticks.webp",
+      "kind": "discovery-thumb",
+      "owner": "opticks",
+      "offset": 1180160,
+      "size": 2870
+    },
+    {
+      "file": "organon.webp",
+      "source": "discoveries/thumb/organon.webp",
+      "kind": "discovery-thumb",
+      "owner": "organon",
+      "offset": 1183744,
+      "size": 3582
+    },
+    {
+      "file": "origin-of-species.webp",
+      "source": "discoveries/thumb/origin-of-species.webp",
+      "kind": "discovery-thumb",
+      "owner": "origin-of-species",
+      "offset": 1187840,
+      "size": 3976
+    },
+    {
+      "file": "out-of-africa.webp",
+      "source": "discoveries/thumb/out-of-africa.webp",
+      "kind": "discovery-thumb",
+      "owner": "out-of-africa",
+      "offset": 1192448,
+      "size": 4690
+    },
+    {
+      "file": "oxygen.webp",
+      "source": "discoveries/thumb/oxygen.webp",
+      "kind": "discovery-thumb",
+      "owner": "oxygen",
+      "offset": 1198080,
+      "size": 2600
+    },
+    {
+      "file": "pagerank.webp",
+      "source": "discoveries/thumb/pagerank.webp",
+      "kind": "discovery-thumb",
+      "owner": "pagerank",
+      "offset": 1201664,
+      "size": 2870
+    },
+    {
+      "file": "paper.webp",
+      "source": "discoveries/thumb/paper.webp",
+      "kind": "discovery-thumb",
+      "owner": "paper",
+      "offset": 1205248,
+      "size": 3210
+    },
+    {
+      "file": "pasteur-institute.webp",
+      "source": "discoveries/thumb/pasteur-institute.webp",
+      "kind": "discovery-thumb",
+      "owner": "pasteur-institute",
+      "offset": 1209344,
+      "size": 3210
+    },
+    {
+      "file": "pasteurization.webp",
+      "source": "discoveries/thumb/pasteurization.webp",
+      "kind": "discovery-thumb",
+      "owner": "pasteurization",
+      "offset": 1213440,
+      "size": 3302
+    },
+    {
+      "file": "pauli-exclusion-principle.webp",
+      "source": "discoveries/thumb/pauli-exclusion-principle.webp",
+      "kind": "discovery-thumb",
+      "owner": "pauli-exclusion-principle",
+      "offset": 1217536,
+      "size": 3906
+    },
+    {
+      "file": "pcr.webp",
+      "source": "discoveries/thumb/pcr.webp",
+      "kind": "discovery-thumb",
+      "owner": "pcr",
+      "offset": 1222144,
+      "size": 5174
+    },
+    {
+      "file": "pendulum-clock.webp",
+      "source": "discoveries/thumb/pendulum-clock.webp",
+      "kind": "discovery-thumb",
+      "owner": "pendulum-clock",
+      "offset": 1228288,
+      "size": 2558
+    },
+    {
+      "file": "penicillin.webp",
+      "source": "discoveries/thumb/penicillin.webp",
+      "kind": "discovery-thumb",
+      "owner": "penicillin",
+      "offset": 1231360,
+      "size": 2904
+    },
+    {
+      "file": "periodic-table.webp",
+      "source": "discoveries/thumb/periodic-table.webp",
+      "kind": "discovery-thumb",
+      "owner": "periodic-table",
+      "offset": 1234944,
+      "size": 2470
+    },
+    {
+      "file": "personal-computer.webp",
+      "source": "discoveries/thumb/personal-computer.webp",
+      "kind": "discovery-thumb",
+      "owner": "personal-computer",
+      "offset": 1238016,
+      "size": 3224
+    },
+    {
+      "file": "phlogiston-theory.webp",
+      "source": "discoveries/thumb/phlogiston-theory.webp",
+      "kind": "discovery-thumb",
+      "owner": "phlogiston-theory",
+      "offset": 1242112,
+      "size": 2662
+    },
+    {
+      "file": "phonograph.webp",
+      "source": "discoveries/thumb/phonograph.webp",
+      "kind": "discovery-thumb",
+      "owner": "phonograph",
+      "offset": 1245696,
+      "size": 3914
+    },
+    {
+      "file": "phosphorus.webp",
+      "source": "discoveries/thumb/phosphorus.webp",
+      "kind": "discovery-thumb",
+      "owner": "phosphorus",
+      "offset": 1250304,
+      "size": 2520
+    },
+    {
+      "file": "photoelectric-effect.webp",
+      "source": "discoveries/thumb/photoelectric-effect.webp",
+      "kind": "discovery-thumb",
+      "owner": "photoelectric-effect",
+      "offset": 1253376,
+      "size": 3578
+    },
+    {
+      "file": "photography.webp",
+      "source": "discoveries/thumb/photography.webp",
+      "kind": "discovery-thumb",
+      "owner": "photography",
+      "offset": 1257472,
+      "size": 3032
+    },
+    {
+      "file": "photosynthesis.webp",
+      "source": "discoveries/thumb/photosynthesis.webp",
+      "kind": "discovery-thumb",
+      "owner": "photosynthesis",
+      "offset": 1261056,
+      "size": 2696
+    },
+    {
+      "file": "piagets-stages.webp",
+      "source": "discoveries/thumb/piagets-stages.webp",
+      "kind": "discovery-thumb",
+      "owner": "piagets-stages",
+      "offset": 1264640,
+      "size": 3166
+    },
+    {
+      "file": "pilot-wave-theory.webp",
+      "source": "discoveries/thumb/pilot-wave-theory.webp",
+      "kind": "discovery-thumb",
+      "owner": "pilot-wave-theory",
+      "offset": 1268736,
+      "size": 2604
+    },
+    {
+      "file": "plant-response-to-stimuli.webp",
+      "source": "discoveries/thumb/plant-response-to-stimuli.webp",
+      "kind": "discovery-thumb",
+      "owner": "plant-response-to-stimuli",
+      "offset": 1272320,
+      "size": 3672
+    },
+    {
+      "file": "plate-tectonics.webp",
+      "source": "discoveries/thumb/plate-tectonics.webp",
+      "kind": "discovery-thumb",
+      "owner": "plate-tectonics",
+      "offset": 1276928,
+      "size": 4270
+    },
+    {
+      "file": "platonic-academy.webp",
+      "source": "discoveries/thumb/platonic-academy.webp",
+      "kind": "discovery-thumb",
+      "owner": "platonic-academy",
+      "offset": 1282048,
+      "size": 3540
+    },
+    {
+      "file": "plum-pudding-model.webp",
+      "source": "discoveries/thumb/plum-pudding-model.webp",
+      "kind": "discovery-thumb",
+      "owner": "plum-pudding-model",
+      "offset": 1286144,
+      "size": 2942
+    },
+    {
+      "file": "pluto.webp",
+      "source": "discoveries/thumb/pluto.webp",
+      "kind": "discovery-thumb",
+      "owner": "pluto",
+      "offset": 1289728,
+      "size": 3172
+    },
+    {
+      "file": "poincare-conjecture.webp",
+      "source": "discoveries/thumb/poincare-conjecture.webp",
+      "kind": "discovery-thumb",
+      "owner": "poincare-conjecture",
+      "offset": 1293824,
+      "size": 4408
+    },
+    {
+      "file": "poisson-distribution.webp",
+      "source": "discoveries/thumb/poisson-distribution.webp",
+      "kind": "discovery-thumb",
+      "owner": "poisson-distribution",
+      "offset": 1298944,
+      "size": 2312
+    },
+    {
+      "file": "polio-vaccine.webp",
+      "source": "discoveries/thumb/polio-vaccine.webp",
+      "kind": "discovery-thumb",
+      "owner": "polio-vaccine",
+      "offset": 1302016,
+      "size": 3338
+    },
+    {
+      "file": "positron.webp",
+      "source": "discoveries/thumb/positron.webp",
+      "kind": "discovery-thumb",
+      "owner": "positron",
+      "offset": 1306112,
+      "size": 3054
+    },
+    {
+      "file": "powered-flight.webp",
+      "source": "discoveries/thumb/powered-flight.webp",
+      "kind": "discovery-thumb",
+      "owner": "powered-flight",
+      "offset": 1309696,
+      "size": 4622
+    },
+    {
+      "file": "prescriptions-worth-a-thousand-gold.webp",
+      "source": "discoveries/thumb/prescriptions-worth-a-thousand-gold.webp",
+      "kind": "discovery-thumb",
+      "owner": "prescriptions-worth-a-thousand-gold",
+      "offset": 1315328,
+      "size": 3970
+    },
+    {
+      "file": "primeval-atom.webp",
+      "source": "discoveries/thumb/primeval-atom.webp",
+      "kind": "discovery-thumb",
+      "owner": "primeval-atom",
+      "offset": 1319936,
+      "size": 7370
+    },
+    {
+      "file": "principia-mathematica.webp",
+      "source": "discoveries/thumb/principia-mathematica.webp",
+      "kind": "discovery-thumb",
+      "owner": "principia-mathematica",
+      "offset": 1328128,
+      "size": 3498
+    },
+    {
+      "file": "principia.webp",
+      "source": "discoveries/thumb/principia.webp",
+      "kind": "discovery-thumb",
+      "owner": "principia",
+      "offset": 1332224,
+      "size": 3252
+    },
+    {
+      "file": "printing-press.webp",
+      "source": "discoveries/thumb/printing-press.webp",
+      "kind": "discovery-thumb",
+      "owner": "printing-press",
+      "offset": 1336320,
+      "size": 4180
+    },
+    {
+      "file": "prospect-theory.webp",
+      "source": "discoveries/thumb/prospect-theory.webp",
+      "kind": "discovery-thumb",
+      "owner": "prospect-theory",
+      "offset": 1341440,
+      "size": 2374
+    },
+    {
+      "file": "proton.webp",
+      "source": "discoveries/thumb/proton.webp",
+      "kind": "discovery-thumb",
+      "owner": "proton",
+      "offset": 1344512,
+      "size": 2888
+    },
+    {
+      "file": "ptolemy-geography.webp",
+      "source": "discoveries/thumb/ptolemy-geography.webp",
+      "kind": "discovery-thumb",
+      "owner": "ptolemy-geography",
+      "offset": 1348096,
+      "size": 4380
+    },
+    {
+      "file": "pulsars.webp",
+      "source": "discoveries/thumb/pulsars.webp",
+      "kind": "discovery-thumb",
+      "owner": "pulsars",
+      "offset": 1353216,
+      "size": 3008
+    },
+    {
+      "file": "punctuated-equilibrium.webp",
+      "source": "discoveries/thumb/punctuated-equilibrium.webp",
+      "kind": "discovery-thumb",
+      "owner": "punctuated-equilibrium",
+      "offset": 1356800,
+      "size": 2044
+    },
+    {
+      "file": "pythagorean-theorem.webp",
+      "source": "discoveries/thumb/pythagorean-theorem.webp",
+      "kind": "discovery-thumb",
+      "owner": "pythagorean-theorem",
+      "offset": 1359360,
+      "size": 2900
+    },
+    {
+      "file": "python-language.webp",
+      "source": "discoveries/thumb/python-language.webp",
+      "kind": "discovery-thumb",
+      "owner": "python-language",
+      "offset": 1362944,
+      "size": 2784
+    },
+    {
+      "file": "quantum-electrodynamics.webp",
+      "source": "discoveries/thumb/quantum-electrodynamics.webp",
+      "kind": "discovery-thumb",
+      "owner": "quantum-electrodynamics",
+      "offset": 1366528,
+      "size": 2686
+    },
+    {
+      "file": "quantum-mechanics.webp",
+      "source": "discoveries/thumb/quantum-mechanics.webp",
+      "kind": "discovery-thumb",
+      "owner": "quantum-mechanics",
+      "offset": 1370112,
+      "size": 4152
+    },
+    {
+      "file": "quantum-of-action.webp",
+      "source": "discoveries/thumb/quantum-of-action.webp",
+      "kind": "discovery-thumb",
+      "owner": "quantum-of-action",
+      "offset": 1375232,
+      "size": 2954
+    },
+    {
+      "file": "quark-model.webp",
+      "source": "discoveries/thumb/quark-model.webp",
+      "kind": "discovery-thumb",
+      "owner": "quark-model",
+      "offset": 1378816,
+      "size": 3184
+    },
+    {
+      "file": "quicksort.webp",
+      "source": "discoveries/thumb/quicksort.webp",
+      "kind": "discovery-thumb",
+      "owner": "quicksort",
+      "offset": 1382912,
+      "size": 2804
+    },
+    {
+      "file": "radio-waves.webp",
+      "source": "discoveries/thumb/radio-waves.webp",
+      "kind": "discovery-thumb",
+      "owner": "radio-waves",
+      "offset": 1386496,
+      "size": 5248
+    },
+    {
+      "file": "radio.webp",
+      "source": "discoveries/thumb/radio.webp",
+      "kind": "discovery-thumb",
+      "owner": "radio",
+      "offset": 1392640,
+      "size": 2870
+    },
+    {
+      "file": "radioactivity.webp",
+      "source": "discoveries/thumb/radioactivity.webp",
+      "kind": "discovery-thumb",
+      "owner": "radioactivity",
+      "offset": 1396224,
+      "size": 2524
+    },
+    {
+      "file": "radium.webp",
+      "source": "discoveries/thumb/radium.webp",
+      "kind": "discovery-thumb",
+      "owner": "radium",
+      "offset": 1399296,
+      "size": 2538
+    },
+    {
+      "file": "reflecting-telescope.webp",
+      "source": "discoveries/thumb/reflecting-telescope.webp",
+      "kind": "discovery-thumb",
+      "owner": "reflecting-telescope",
+      "offset": 1402368,
+      "size": 3156
+    },
+    {
+      "file": "renormalisation-of-gauge-theories.webp",
+      "source": "discoveries/thumb/renormalisation-of-gauge-theories.webp",
+      "kind": "discovery-thumb",
+      "owner": "renormalisation-of-gauge-theories",
+      "offset": 1406464,
+      "size": 2672
+    },
+    {
+      "file": "riemann-hypothesis.webp",
+      "source": "discoveries/thumb/riemann-hypothesis.webp",
+      "kind": "discovery-thumb",
+      "owner": "riemann-hypothesis",
+      "offset": 1410048,
+      "size": 2820
+    },
+    {
+      "file": "rigid-airship.webp",
+      "source": "discoveries/thumb/rigid-airship.webp",
+      "kind": "discovery-thumb",
+      "owner": "rigid-airship",
+      "offset": 1413632,
+      "size": 2834
+    },
+    {
+      "file": "rihla.webp",
+      "source": "discoveries/thumb/rihla.webp",
+      "kind": "discovery-thumb",
+      "owner": "rihla",
+      "offset": 1417216,
+      "size": 3474
+    },
+    {
+      "file": "rings-of-saturn.webp",
+      "source": "discoveries/thumb/rings-of-saturn.webp",
+      "kind": "discovery-thumb",
+      "owner": "rings-of-saturn",
+      "offset": 1421312,
+      "size": 2606
+    },
+    {
+      "file": "rotation-of-the-earth.webp",
+      "source": "discoveries/thumb/rotation-of-the-earth.webp",
+      "kind": "discovery-thumb",
+      "owner": "rotation-of-the-earth",
+      "offset": 1424896,
+      "size": 4866
+    },
+    {
+      "file": "royal-institution.webp",
+      "source": "discoveries/thumb/royal-institution.webp",
+      "kind": "discovery-thumb",
+      "owner": "royal-institution",
+      "offset": 1430528,
+      "size": 2610
+    },
+    {
+      "file": "royal-observatory-greenwich.webp",
+      "source": "discoveries/thumb/royal-observatory-greenwich.webp",
+      "kind": "discovery-thumb",
+      "owner": "royal-observatory-greenwich",
+      "offset": 1434112,
+      "size": 1854
+    },
+    {
+      "file": "royal-society.webp",
+      "source": "discoveries/thumb/royal-society.webp",
+      "kind": "discovery-thumb",
+      "owner": "royal-society",
+      "offset": 1436672,
+      "size": 3872
+    },
+    {
+      "file": "russells-paradox.webp",
+      "source": "discoveries/thumb/russells-paradox.webp",
+      "kind": "discovery-thumb",
+      "owner": "russells-paradox",
+      "offset": 1441280,
+      "size": 3282
+    },
+    {
+      "file": "sanger-sequencing.webp",
+      "source": "discoveries/thumb/sanger-sequencing.webp",
+      "kind": "discovery-thumb",
+      "owner": "sanger-sequencing",
+      "offset": 1445376,
+      "size": 3388
+    },
+    {
+      "file": "saturn-v.webp",
+      "source": "discoveries/thumb/saturn-v.webp",
+      "kind": "discovery-thumb",
+      "owner": "saturn-v",
+      "offset": 1449472,
+      "size": 2160
+    },
+    {
+      "file": "schrodingers-cat.webp",
+      "source": "discoveries/thumb/schrodingers-cat.webp",
+      "kind": "discovery-thumb",
+      "owner": "schrodingers-cat",
+      "offset": 1452544,
+      "size": 3440
+    },
+    {
+      "file": "schwarzschild-black-hole.webp",
+      "source": "discoveries/thumb/schwarzschild-black-hole.webp",
+      "kind": "discovery-thumb",
+      "owner": "schwarzschild-black-hole",
+      "offset": 1456640,
+      "size": 6772
+    },
+    {
+      "file": "selfish-gene.webp",
+      "source": "discoveries/thumb/selfish-gene.webp",
+      "kind": "discovery-thumb",
+      "owner": "selfish-gene",
+      "offset": 1464320,
+      "size": 2636
+    },
+    {
+      "file": "separate-condenser.webp",
+      "source": "discoveries/thumb/separate-condenser.webp",
+      "kind": "discovery-thumb",
+      "owner": "separate-condenser",
+      "offset": 1467904,
+      "size": 5032
+    },
+    {
+      "file": "set-theory.webp",
+      "source": "discoveries/thumb/set-theory.webp",
+      "kind": "discovery-thumb",
+      "owner": "set-theory",
+      "offset": 1473536,
+      "size": 3880
+    },
+    {
+      "file": "sidereus-nuncius.webp",
+      "source": "discoveries/thumb/sidereus-nuncius.webp",
+      "kind": "discovery-thumb",
+      "owner": "sidereus-nuncius",
+      "offset": 1478144,
+      "size": 4108
+    },
+    {
+      "file": "sieve-of-eratosthenes.webp",
+      "source": "discoveries/thumb/sieve-of-eratosthenes.webp",
+      "kind": "discovery-thumb",
+      "owner": "sieve-of-eratosthenes",
+      "offset": 1483264,
+      "size": 3322
+    },
+    {
+      "file": "silent-spring.webp",
+      "source": "discoveries/thumb/silent-spring.webp",
+      "kind": "discovery-thumb",
+      "owner": "silent-spring",
+      "offset": 1487360,
+      "size": 2766
+    },
+    {
+      "file": "singularity-theorems.webp",
+      "source": "discoveries/thumb/singularity-theorems.webp",
+      "kind": "discovery-thumb",
+      "owner": "singularity-theorems",
+      "offset": 1490944,
+      "size": 3124
+    },
+    {
+      "file": "smallpox-vaccine.webp",
+      "source": "discoveries/thumb/smallpox-vaccine.webp",
+      "kind": "discovery-thumb",
+      "owner": "smallpox-vaccine",
+      "offset": 1495040,
+      "size": 4186
+    },
+    {
+      "file": "smartphone.webp",
+      "source": "discoveries/thumb/smartphone.webp",
+      "kind": "discovery-thumb",
+      "owner": "smartphone",
+      "offset": 1500160,
+      "size": 1648
+    },
+    {
+      "file": "soviet-atomic-bomb.webp",
+      "source": "discoveries/thumb/soviet-atomic-bomb.webp",
+      "kind": "discovery-thumb",
+      "owner": "soviet-atomic-bomb",
+      "offset": 1502720,
+      "size": 2920
+    },
+    {
+      "file": "special-relativity.webp",
+      "source": "discoveries/thumb/special-relativity.webp",
+      "kind": "discovery-thumb",
+      "owner": "special-relativity",
+      "offset": 1506304,
+      "size": 4540
+    },
+    {
+      "file": "spectroscopy.webp",
+      "source": "discoveries/thumb/spectroscopy.webp",
+      "kind": "discovery-thumb",
+      "owner": "spectroscopy",
+      "offset": 1511424,
+      "size": 2618
+    },
+    {
+      "file": "spherical-earth.webp",
+      "source": "discoveries/thumb/spherical-earth.webp",
+      "kind": "discovery-thumb",
+      "owner": "spherical-earth",
+      "offset": 1515008,
+      "size": 2934
+    },
+    {
+      "file": "spinning-jenny.webp",
+      "source": "discoveries/thumb/spinning-jenny.webp",
+      "kind": "discovery-thumb",
+      "owner": "spinning-jenny",
+      "offset": 1518592,
+      "size": 4792
+    },
+    {
+      "file": "sputnik-1.webp",
+      "source": "discoveries/thumb/sputnik-1.webp",
+      "kind": "discovery-thumb",
+      "owner": "sputnik-1",
+      "offset": 1524224,
+      "size": 3630
+    },
+    {
+      "file": "standard-model.webp",
+      "source": "discoveries/thumb/standard-model.webp",
+      "kind": "discovery-thumb",
+      "owner": "standard-model",
+      "offset": 1528832,
+      "size": 4430
+    },
+    {
+      "file": "steam-locomotive.webp",
+      "source": "discoveries/thumb/steam-locomotive.webp",
+      "kind": "discovery-thumb",
+      "owner": "steam-locomotive",
+      "offset": 1533952,
+      "size": 3852
+    },
+    {
+      "file": "steamboat.webp",
+      "source": "discoveries/thumb/steamboat.webp",
+      "kind": "discovery-thumb",
+      "owner": "steamboat",
+      "offset": 1538560,
+      "size": 3724
+    },
+    {
+      "file": "stellar-parallax.webp",
+      "source": "discoveries/thumb/stellar-parallax.webp",
+      "kind": "discovery-thumb",
+      "owner": "stellar-parallax",
+      "offset": 1543168,
+      "size": 4938
+    },
+    {
+      "file": "stethoscope.webp",
+      "source": "discoveries/thumb/stethoscope.webp",
+      "kind": "discovery-thumb",
+      "owner": "stethoscope",
+      "offset": 1548800,
+      "size": 3792
+    },
+    {
+      "file": "stored-program-computer.webp",
+      "source": "discoveries/thumb/stored-program-computer.webp",
+      "kind": "discovery-thumb",
+      "owner": "stored-program-computer",
+      "offset": 1553408,
+      "size": 2578
+    },
+    {
+      "file": "string-theory.webp",
+      "source": "discoveries/thumb/string-theory.webp",
+      "kind": "discovery-thumb",
+      "owner": "string-theory",
+      "offset": 1556992,
+      "size": 4264
+    },
+    {
+      "file": "structure-of-scientific-revolutions.webp",
+      "source": "discoveries/thumb/structure-of-scientific-revolutions.webp",
+      "kind": "discovery-thumb",
+      "owner": "structure-of-scientific-revolutions",
+      "offset": 1562112,
+      "size": 2960
+    },
+    {
+      "file": "sunspots.webp",
+      "source": "discoveries/thumb/sunspots.webp",
+      "kind": "discovery-thumb",
+      "owner": "sunspots",
+      "offset": 1565696,
+      "size": 3770
+    },
+    {
+      "file": "superconductivity.webp",
+      "source": "discoveries/thumb/superconductivity.webp",
+      "kind": "discovery-thumb",
+      "owner": "superconductivity",
+      "offset": 1570304,
+      "size": 3516
+    },
+    {
+      "file": "superfluid-helium.webp",
+      "source": "discoveries/thumb/superfluid-helium.webp",
+      "kind": "discovery-thumb",
+      "owner": "superfluid-helium",
+      "offset": 1574400,
+      "size": 2510
+    },
+    {
+      "file": "sushruta-samhita.webp",
+      "source": "discoveries/thumb/sushruta-samhita.webp",
+      "kind": "discovery-thumb",
+      "owner": "sushruta-samhita",
+      "offset": 1577472,
+      "size": 3022
+    },
+    {
+      "file": "systema-naturae.webp",
+      "source": "discoveries/thumb/systema-naturae.webp",
+      "kind": "discovery-thumb",
+      "owner": "systema-naturae",
+      "offset": 1581056,
+      "size": 3614
+    },
+    {
+      "file": "tekhne-grammatike.webp",
+      "source": "discoveries/thumb/tekhne-grammatike.webp",
+      "kind": "discovery-thumb",
+      "owner": "tekhne-grammatike",
+      "offset": 1585664,
+      "size": 3738
+    },
+    {
+      "file": "telephone.webp",
+      "source": "discoveries/thumb/telephone.webp",
+      "kind": "discovery-thumb",
+      "owner": "telephone",
+      "offset": 1590272,
+      "size": 3066
+    },
+    {
+      "file": "telescope.webp",
+      "source": "discoveries/thumb/telescope.webp",
+      "kind": "discovery-thumb",
+      "owner": "telescope",
+      "offset": 1593856,
+      "size": 4226
+    },
+    {
+      "file": "television.webp",
+      "source": "discoveries/thumb/television.webp",
+      "kind": "discovery-thumb",
+      "owner": "television",
+      "offset": 1598976,
+      "size": 3282
+    },
+    {
+      "file": "telomerase.webp",
+      "source": "discoveries/thumb/telomerase.webp",
+      "kind": "discovery-thumb",
+      "owner": "telomerase",
+      "offset": 1603072,
+      "size": 3806
+    },
+    {
+      "file": "tides-follow-the-moon.webp",
+      "source": "discoveries/thumb/tides-follow-the-moon.webp",
+      "kind": "discovery-thumb",
+      "owner": "tides-follow-the-moon",
+      "offset": 1607680,
+      "size": 3186
+    },
+    {
+      "file": "toledo-translations.webp",
+      "source": "discoveries/thumb/toledo-translations.webp",
+      "kind": "discovery-thumb",
+      "owner": "toledo-translations",
+      "offset": 1611776,
+      "size": 5376
+    },
+    {
+      "file": "transistor.webp",
+      "source": "discoveries/thumb/transistor.webp",
+      "kind": "discovery-thumb",
+      "owner": "transistor",
+      "offset": 1617920,
+      "size": 2364
+    },
+    {
+      "file": "transmutation-of-species.webp",
+      "source": "discoveries/thumb/transmutation-of-species.webp",
+      "kind": "discovery-thumb",
+      "owner": "transmutation-of-species",
+      "offset": 1620992,
+      "size": 5956
+    },
+    {
+      "file": "treatise-on-electricity-and-magnetism.webp",
+      "source": "discoveries/thumb/treatise-on-electricity-and-magnetism.webp",
+      "kind": "discovery-thumb",
+      "owner": "treatise-on-electricity-and-magnetism",
+      "offset": 1627648,
+      "size": 2826
+    },
+    {
+      "file": "tuberculosis-bacillus.webp",
+      "source": "discoveries/thumb/tuberculosis-bacillus.webp",
+      "kind": "discovery-thumb",
+      "owner": "tuberculosis-bacillus",
+      "offset": 1631232,
+      "size": 3528
+    },
+    {
+      "file": "turing-machine.webp",
+      "source": "discoveries/thumb/turing-machine.webp",
+      "kind": "discovery-thumb",
+      "owner": "turing-machine",
+      "offset": 1635328,
+      "size": 3846
+    },
+    {
+      "file": "type-institution.webp",
+      "source": "discoveries/xs/type-institution.webp",
+      "kind": "emblem-tag",
+      "owner": "institution",
+      "offset": 1639936,
+      "size": 11992
+    },
+    {
+      "file": "type-instrument.webp",
+      "source": "discoveries/xs/type-instrument.webp",
+      "kind": "emblem-tag",
+      "owner": "instrument",
+      "offset": 1652736,
+      "size": 11936
+    },
+    {
+      "file": "type-law.webp",
+      "source": "discoveries/xs/type-law.webp",
+      "kind": "emblem-tag",
+      "owner": "law",
+      "offset": 1665536,
+      "size": 19106
+    },
+    {
+      "file": "type-machine.webp",
+      "source": "discoveries/xs/type-machine.webp",
+      "kind": "emblem-tag",
+      "owner": "machine",
+      "offset": 1685504,
+      "size": 21144
+    },
+    {
+      "file": "type-map.webp",
+      "source": "discoveries/xs/type-map.webp",
+      "kind": "emblem-tag",
+      "owner": "map",
+      "offset": 1707520,
+      "size": 15608
+    },
+    {
+      "file": "type-method.webp",
+      "source": "discoveries/xs/type-method.webp",
+      "kind": "emblem-tag",
+      "owner": "method",
+      "offset": 1723904,
+      "size": 14634
+    },
+    {
+      "file": "type-model.webp",
+      "source": "discoveries/xs/type-model.webp",
+      "kind": "emblem-tag",
+      "owner": "model",
+      "offset": 1739264,
+      "size": 15006
+    },
+    {
+      "file": "type-organism.webp",
+      "source": "discoveries/xs/type-organism.webp",
+      "kind": "emblem-tag",
+      "owner": "organism",
+      "offset": 1755136,
+      "size": 12290
+    },
+    {
+      "file": "type-phenomenon.webp",
+      "source": "discoveries/xs/type-phenomenon.webp",
+      "kind": "emblem-tag",
+      "owner": "phenomenon",
+      "offset": 1768448,
+      "size": 12742
+    },
+    {
+      "file": "type-proof.webp",
+      "source": "discoveries/xs/type-proof.webp",
+      "kind": "emblem-tag",
+      "owner": "proof",
+      "offset": 1781760,
+      "size": 14926
+    },
+    {
+      "file": "type-substance.webp",
+      "source": "discoveries/xs/type-substance.webp",
+      "kind": "emblem-tag",
+      "owner": "substance",
+      "offset": 1797632,
+      "size": 11720
+    },
+    {
+      "file": "type-work.webp",
+      "source": "discoveries/xs/type-work.webp",
+      "kind": "emblem-tag",
+      "owner": "work",
+      "offset": 1809920,
+      "size": 9458
+    },
+    {
+      "file": "ultraviolet.webp",
+      "source": "discoveries/thumb/ultraviolet.webp",
+      "kind": "discovery-thumb",
+      "owner": "ultraviolet",
+      "offset": 1820160,
+      "size": 2790
+    },
+    {
+      "file": "uncertainty-principle.webp",
+      "source": "discoveries/thumb/uncertainty-principle.webp",
+      "kind": "discovery-thumb",
+      "owner": "uncertainty-principle",
+      "offset": 1823744,
+      "size": 3148
+    },
+    {
+      "file": "uniformitarianism.webp",
+      "source": "discoveries/thumb/uniformitarianism.webp",
+      "kind": "discovery-thumb",
+      "owner": "uniformitarianism",
+      "offset": 1827840,
+      "size": 3624
+    },
+    {
+      "file": "universal-astrolabe.webp",
+      "source": "discoveries/thumb/universal-astrolabe.webp",
+      "kind": "discovery-thumb",
+      "owner": "universal-astrolabe",
+      "offset": 1832448,
+      "size": 4370
+    },
+    {
+      "file": "universal-gravitation.webp",
+      "source": "discoveries/thumb/universal-gravitation.webp",
+      "kind": "discovery-thumb",
+      "owner": "universal-gravitation",
+      "offset": 1837568,
+      "size": 2912
+    },
+    {
+      "file": "unix.webp",
+      "source": "discoveries/thumb/unix.webp",
+      "kind": "discovery-thumb",
+      "owner": "unix",
+      "offset": 1841152,
+      "size": 2710
+    },
+    {
+      "file": "uranus.webp",
+      "source": "discoveries/thumb/uranus.webp",
+      "kind": "discovery-thumb",
+      "owner": "uranus",
+      "offset": 1844736,
+      "size": 2898
+    },
+    {
+      "file": "v-2-rocket.webp",
+      "source": "discoveries/thumb/v-2-rocket.webp",
+      "kind": "discovery-thumb",
+      "owner": "v-2-rocket",
+      "offset": 1848320,
+      "size": 1892
+    },
+    {
+      "file": "vitamin-c.webp",
+      "source": "discoveries/thumb/vitamin-c.webp",
+      "kind": "discovery-thumb",
+      "owner": "vitamin-c",
+      "offset": 1850880,
+      "size": 3414
+    },
+    {
+      "file": "voltaic-pile.webp",
+      "source": "discoveries/thumb/voltaic-pile.webp",
+      "kind": "discovery-thumb",
+      "owner": "voltaic-pile",
+      "offset": 1854976,
+      "size": 3902
+    },
+    {
+      "file": "vostok-1.webp",
+      "source": "discoveries/thumb/vostok-1.webp",
+      "kind": "discovery-thumb",
+      "owner": "vostok-1",
+      "offset": 1859584,
+      "size": 3450
+    },
+    {
+      "file": "voyage-of-the-beagle.webp",
+      "source": "discoveries/thumb/voyage-of-the-beagle.webp",
+      "kind": "discovery-thumb",
+      "owner": "voyage-of-the-beagle",
+      "offset": 1863680,
+      "size": 3212
+    },
+    {
+      "file": "voyager-probes.webp",
+      "source": "discoveries/thumb/voyager-probes.webp",
+      "kind": "discovery-thumb",
+      "owner": "voyager-probes",
+      "offset": 1867776,
+      "size": 3074
+    },
+    {
+      "file": "vulcanization.webp",
+      "source": "discoveries/thumb/vulcanization.webp",
+      "kind": "discovery-thumb",
+      "owner": "vulcanization",
+      "offset": 1871872,
+      "size": 2784
+    },
+    {
+      "file": "waldseemuller-map.webp",
+      "source": "discoveries/thumb/waldseemuller-map.webp",
+      "kind": "discovery-thumb",
+      "owner": "waldseemuller-map",
+      "offset": 1875456,
+      "size": 4306
+    },
+    {
+      "file": "wallace-line.webp",
+      "source": "discoveries/thumb/wallace-line.webp",
+      "kind": "discovery-thumb",
+      "owner": "wallace-line",
+      "offset": 1880576,
+      "size": 3424
+    },
+    {
+      "file": "wave-theory-of-light.webp",
+      "source": "discoveries/thumb/wave-theory-of-light.webp",
+      "kind": "discovery-thumb",
+      "owner": "wave-theory-of-light",
+      "offset": 1884672,
+      "size": 3848
+    },
+    {
+      "file": "wealth-of-nations.webp",
+      "source": "discoveries/thumb/wealth-of-nations.webp",
+      "kind": "discovery-thumb",
+      "owner": "wealth-of-nations",
+      "offset": 1889280,
+      "size": 2890
+    },
+    {
+      "file": "what-is-life.webp",
+      "source": "discoveries/thumb/what-is-life.webp",
+      "kind": "discovery-thumb",
+      "owner": "what-is-life",
+      "offset": 1892864,
+      "size": 3174
+    },
+    {
+      "file": "world-wide-web.webp",
+      "source": "discoveries/thumb/world-wide-web.webp",
+      "kind": "discovery-thumb",
+      "owner": "world-wide-web",
+      "offset": 1896960,
+      "size": 2916
+    },
+    {
+      "file": "wright-flyer.webp",
+      "source": "discoveries/thumb/wright-flyer.webp",
+      "kind": "discovery-thumb",
+      "owner": "wright-flyer",
+      "offset": 1900544,
+      "size": 5608
+    },
+    {
+      "file": "x-ray-crystallography.webp",
+      "source": "discoveries/thumb/x-ray-crystallography.webp",
+      "kind": "discovery-thumb",
+      "owner": "x-ray-crystallography",
+      "offset": 1906688,
+      "size": 3152
+    },
+    {
+      "file": "x-rays.webp",
+      "source": "discoveries/thumb/x-rays.webp",
+      "kind": "discovery-thumb",
+      "owner": "x-rays",
+      "offset": 1910784,
+      "size": 3578
+    },
+    {
+      "file": "z3-computer.webp",
+      "source": "discoveries/thumb/z3-computer.webp",
+      "kind": "discovery-thumb",
+      "owner": "z3-computer",
+      "offset": 1914880,
+      "size": 3582
+    },
+    {
+      "file": "zenos-paradoxes.webp",
+      "source": "discoveries/thumb/zenos-paradoxes.webp",
+      "kind": "discovery-thumb",
+      "owner": "zenos-paradoxes",
+      "offset": 1918976,
+      "size": 3248
+    },
+    {
+      "file": "zero-and-negative-numbers.webp",
+      "source": "discoveries/thumb/zero-and-negative-numbers.webp",
+      "kind": "discovery-thumb",
+      "owner": "zero-and-negative-numbers",
+      "offset": 1923072,
+      "size": 3928
+    }
+  ]
+}
